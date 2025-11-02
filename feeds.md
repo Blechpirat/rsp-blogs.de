@@ -1,800 +1,800 @@
 
-[Dynamics in Jordan Algebras](https://golem.ph.utexas.edu/category/2025/11/dynamics_in_jordan_algebras.html)
+[Rollenspielrückblick Oktober 2025](http://clawdeenspielt.de/rollenspielrueckblick-oktober-2025/)
 ---
 
-The n-Category Café --- 11/2/2025
+Clawdeen spielt --- 11/1/2025
 
-You can tweak Heisenberg's equation so that instead of using a commutator it uses an associator!  Then it applies to Jordan algebras other than that of self-adjoint complex matrices.
+Die vorlesungsfreie Zeit hat noch bis in die Mitte des Oktobers hinein gereicht, was dazu geführt hat, dass ich einen richtig tollen Rollenspielmonat hatte. 😊 Anschaffungen Endlich konnte die Neuauflage von In den Fängen des Dämons für DSA 5...
 
 
-[Categorial update?](https://www.logicmatters.net/2025/11/01/categorial-update/)
+[Ein Blick ins Kreaturium: Blindgänger](https://darcage.de/ein-blick-ins-kreaturium-blindgaenger/)
 ---
 
-Blog - Logic Matters --- 11/1/2025
+DARC --- 10/30/2025
 
-I’m slowly working on a corrected update of Introducing Category Theory, perhaps for early in the new year. But you can today download a new PDF version, without any of the revised content, but now with the bookmarks for chapters and sections...
+Heute werfen wir auf unserem Kanal einen Blick auf die mit den Oblaten des Dartaros gemästeten und in eiserne Päpste gezwängten Blindgänger, welche verheerende Zerstörung anrichten, wenn sie ihr Ziel irgendwann erreicht haben. Abermals geht ein...
 
 
-[The Revenge of Reason is here!](https://deontologistics.co/2025/11/01/the-revenge-of-reason-is-here/)
+[Tannbergs Burgstädte](https://darcage.de/tannbergs-burgstaedte/)
 ---
 
-DEONTOLOGISTICS --- 11/1/2025
+DARC --- 10/26/2025
 
-It’s been a long time coming, but my second book, The Revenge of Reason, is finally available to buy. There are so many things in here that were written or given as talks long ago but never actually published, and it’s nice to know people will...
+Von Albheim bis nach Tannstadt – auf unserem Kanal werfen wir heute einen Blick auf Tannbergs Burgstädte. Besucht das zerstörte Albheim, hört vom Konflikt zwischen dem Kronenbund und der Grauwacht oder staunt über die Wunder von Tannstadt! Abermals...
 
 
-[AI and the Power of Nonuniform Circuits](https://blog.computationalcomplexity.org/feeds/6445154968975858368/comments/default)
+[Ein Blick ins Kreaturium: Dichfresser](https://darcage.de/ein-blick-ins-kreaturium-dichfresser/)
 ---
 
-Computational Complexity --- 10/31/2025
+DARC --- 10/16/2025
 
-The advances in artificial intelligence have changed the way we think about computing. For today's post, how nonuniformity plays a much larger role than I previously believed.First, some background. Circuit complexity gives a different, more...
+Nach einer kleinen Pause geht es heute endlich weiter auf unserem Kanal, angefangen mit den Dichfressern. Abermals geht ein dickes Danke an Erik von Balduins Maltischgebabbel für seine Unterstützung!
 
 
-[Death and Capitalism (Part 3 of 4)](https://crookedtimber.org/2025/10/31/death-and-capitalism-part-3-of-4/)
+[Schnupperrunde für ENTARIA](https://entaria.de/14841-2)
 ---
 
-Crooked Timber --- 10/31/2025
+Entaria --- 10/10/2025
 
-In the Wilcannia cemetery a lot of plastic is on display. This cemetery is an important local monument not because it celebrates the working class, because it doesn’t. Unlike in Broken Hill, there are no tourist guides to the cemetery, no famous...
+Moin, hier ein weiterer Termin für eine Schnupperrunde für ENTARIA. Für alle, die es mal ausprobieren möchten. Titel: Y-Trade Inc. (aus dem Starterset) System: ENTARIA www.entaria.de, Regel-Kenntnisse nicht erforderlich Setting / Genre: Soft-Sci-Fi...
 
 
-[No (Despotic) Kings, but maybe Constitutional Monarchy?](https://crookedtimber.org/2025/10/30/no-despotic-kings-but-maybe-constitutional-monarchy/)
+[Party Creation with Core Drivers](https://www.1w6.org/english/core-drivers)
 ---
 
-Crooked Timber --- 10/30/2025
+1w6 --- 10/7/2025
 
-“An ELECTIVE DESPOTISM was not the government we fought for; but one which should not only be founded on free principles, but in which the powers of government should be so divided and balanced among several bodies of magistracy, as that no one...
+Create your Roleplaying Party based on core drivers.    core-drivers.pdf    core-drivers-backside.pdf  diverse core drivers with visual examples strengthen your group dynamics through their conflicts practical guidelines for deciding...
 
 
-[Occasional paper:  A planet from 2007](https://crookedtimber.org/2025/10/29/occasional-paper-a-planet-from-2007/)
+[Rollenspielrückblick September 2025](http://clawdeenspielt.de/rollenspielrueckblick-september-2025/)
 ---
 
-Crooked Timber --- 10/29/2025
+Clawdeen spielt --- 10/1/2025
 
-Bit of a joke there. What the paper is about is, we found a new planet, about 18.2 light years away. That means that we’re seeing the planet as it appeared 18.2 years ago, in the summer of 2007. Summer 2007: the first iPhone had just hit the...
+Der September war ein toller Rollenspielmonat, endlich mal wieder. Anschaffungen Das mit den maximal 30€ hat im September nicht geklappt, soviel vorweg. Das Übeltäterbuch ist links auch gleich als Bild zu sehen. Mit dem Datapuls ADL und dem...
 
 
-[Not Bergamo, Turing, PHQ again](https://www.logicmatters.net/2025/10/29/not-bergamo-turing-phq/)
+[Ein Blick ins Kreaturium: Drekavak](https://darcage.de/ein-blick-ins-kreaturium-drekavak/)
 ---
 
-Blog - Logic Matters --- 10/29/2025
+DARC --- 9/22/2025
 
-We were supposed to be in Bergamo for a few days. But when it came near the time, neither of us were feeling up to going — was it a recurrence of Covid? It was a rather good thing that we didn’t set off, as whatever virus it was led to sudden...
+Heute werfen wir auf unserem YouTube-Kanal abermals einen Blick ins Kreaturium. Nach den engelhaften Cherubim vom letzten Mal wird es heute mit den Drekavak etwas düsterer… Abermals geht ein dickes Danke an Erik von Balduins Maltischgebabbel für...
 
 
-[Double Maths First Thing: Issue 3C](https://aperiodical.com/2025/10/double-maths-first-thing-issue-3c/)
+[Über die Kreuzkirche](https://darcage.de/ueber-die-kreuzkirche/)
 ---
 
-The Aperiodical --- 10/29/2025
+DARC --- 9/17/2025
 
-Double Maths First Thing is brought to you by ibuprofen and grandparents taking the kids Hello! My name is Colin and I am a mathematician on a mission to share and spread the joy in doing maths for its own sake. It’s half term down here in Dorset,...
+Der Glaube – jener wichtige Bestandteil kreuzländischen Lebens – wurde durch den Himmelsfall in seinen Grundfesten erschüttert und ging natürlich auch an der Kreuzkirche nicht spurlos vorbei. Die daraus resultierenden Glaubenskonflikte und...
 
 
-[Applied Category Theory 2026](https://golem.ph.utexas.edu/category/2025/10/applied_category_theory_2026.html)
+[Helden wollen immer nur wissen „Wer ist der Dunkle Herrscher?“, und nie „Wie geht es dem Dunklen Herrscher?“](https://d6ideas.com/helden-wollen-immer-nur-wissen-wer-ist-der-dunkle-herrscher-und-nie-wie-geht-es-dem-dunklen-herrscher/)
 ---
 
-The n-Category Café --- 10/28/2025
+d6ideas --- 9/13/2025
 
-Applied Category Theory 2026 is taking place 6--10 July in Tallinn, Estonia, and it's preceded by the Adjoint School Research Week, 29 June -- 3 July.
+Würfle einen W12. Der Dunkle Herrscher ist … … traurig … ängstlich … gelangweilt … müde … hungrig … einsam … wütend … gestresst … angewidert … nervös … zweifelnd […]
 
 
-[Bill's Bad Advice](https://blog.computationalcomplexity.org/feeds/5504169307307453639/comments/default)
+[Die Musai neu betrachtet – Überlegungen für Unknown Mobile Suit](https://d6ideas.com/die-musai-neu-betrachtet-ueberlegungen-fuer-unknown-mobile-suit/)
 ---
 
-Computational Complexity --- 10/27/2025
+d6ideas --- 9/13/2025
 
-I sometimes give the following advice for research which I label Bill's Bad Advice. We will later see who it might be good advice for. Spoiler alert: the number of people for whom it is good advice is shrinking but might include Lance especially...
+Aus manchen Ausgangssetzungen für Unkonwn Mobils Suit als Kampagne kombiniert mit der Bemühung um Plausibilisierung innerhalb dieser Setzungen und Kernelementen des Quellenmaterials ergeben sich immer wieder neue Erkenntnisse über das […]
 
 
-[Sunday photoblogging: Pézenas bunting](https://crookedtimber.org/2025/10/26/sunday-photoblogging-pezenas-bunting/)
+[Ein Blick ins Kreaturium: Cherubim](https://darcage.de/ein-blick-ins-kreaturium-cherubim/)
 ---
 
-Crooked Timber --- 10/26/2025
+DARC --- 9/13/2025
 
+Während noch das letzte Behördenmühlen abgewartet wird, bevor es mit Burning Books endlich losgehen kann, gibt es einen ersten Einblick ins Kreaturium von DARC, welches über 80 Einträge beinhaltet. Nach der umfangreichen Klassenvorstellung...
 
 
-
-[Death and Capitalism (Part 2 of 4)](https://crookedtimber.org/2025/10/24/death-and-capitalism-part-2-of-4/)
+[Spielbare Klassen](https://darcage.de/spielbare-klassen/)
 ---
 
-Crooked Timber --- 10/24/2025
+DARC --- 9/10/2025
 
-On the longer time scale that we feel in nature, the violence of colonial capitalism seems almost fleeting. ‘Mother Nature will outlast all of this’, Barkandji man Woddy Harris told me, gesturing across his hometown of Wilcannia, two hours’ drive...
+Nach dem Video zu den spielbaren Kulturen geht es heute weiter mit den Beschreibungen der Klassen von DARC. Wer in die Rolle von Hexenjägern, Rabenmönchen oder Flagellanten schlüpfen will, erfährt hier, was es mit der jeweiligen Klasse im Setting...
 
 
-[AI and Intro Theory](https://blog.computationalcomplexity.org/feeds/4343181318710262656/comments/default)
+[Rollenspielrückblick August 2025](http://clawdeenspielt.de/rollenspielrueckblick-august-2025/)
 ---
 
-Computational Complexity --- 10/23/2025
+Clawdeen spielt --- 9/8/2025
 
-This fall, for the first time at Illinois Tech, I'm teaching Introduction to Theory of Computation. While I've taught a variation of this course a couple dozen times, I last taught this class Spring 2016 at Georgia Tech. Intro Theory is a course...
+Der September ist schon einige Tage alt und es fehlt noch der Monatsrückblick für August. Das zeigt durchaus schon mal als Teaser, dass einiges los war im August. Leider rollenspielerisch nicht so sehr. Anschaffungen Erstmals in diesem Jahr waren...
 
 
-[Double Maths First Thing: Issue 3B](https://aperiodical.com/2025/10/double-maths-first-thing-issue-3b/)
+[Neuer Feed](http://dsa-intime.de/?p=1448)
 ---
 
-The Aperiodical --- 10/22/2025
+DSA Intime Podcast --- 9/7/2025
 
-Double Maths First Thing is beautiful, it’s simple and it’s wrong Hello! My name is Colin and I am a mathematician on a mission to share the joy and love that comes from doing maths. As the amazing Jo Sibley says, if you love someone, set them a...
+Hallo liebe Hörer,ab jetzt gibt es uns im neuen, modernen Feed. Für die meisten Hörenden sollte die Umstellung automatisch laufen, aber bei denen, wo das nicht klappt, folgt dem Link des rote Icons rechts in der Seitenleiste oder direkt...
 
 
-[Sept 16, 2025 was Pythagorean Day](https://blog.computationalcomplexity.org/feeds/905023585123347331/comments/default)
+[[Rezi] New Hong Kong Story: Tasty Tiger Drunken Dragon](https://bucheibon.blogspot.com/feeds/3989936670136390894/comments/default)
 ---
 
-Computational Complexity --- 10/21/2025
+Einige Seiten des Buches Eibon --- 9/5/2025
 
-Several people emailed me that September 16, 2025---written as 9-16-25 in the US---represents the integer side lengths of a right triangle.9-16-25 is the only such triple that is also a valid date. This kind of mathematical alignment only happens...
+„Tasty Tiger, Drunken Dragon“ ist ein Abenteuer und Minisetting für „New Hong Kong Story“. Es verbindet Wuxia, Kochkunst und ein wenig Parodie in einer kleinen Sandbox mit genug Inhalt, um einen Film mit Überlänge zu drehen (sprich: mehrere...
 
 
-[Let’s go to the beach and make an aperiodic tiling!](https://aperiodical.com/2025/10/lets-go-to-the-beach-and-make-an-aperiodic-tiling/)
+[Spielbare Kulturen](https://darcage.de/spielbare-kulturen/)
 ---
 
-The Aperiodical --- 10/20/2025
+DARC --- 9/3/2025
 
-Somehow, I’ve been awarded the MEGA grant, from Matt Parker and Talking Maths in Public, for a ridiculous public maths project. I’d better get on that, then! My plan is to go to the beach and use great big cookie cutters in the shape of the spectre...
+DARC steht bereits in den Startlöchern, allerdings muss ich noch auf ein paar letzte Behördenmühlen warten, bevor es losgehen kann. Zur Überbrückung der Wartezeit gibt es daher etwas Vorstellungsmaterial in Videoform, angefangen mit den spielbaren...
 
 
-[Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
+[Berechnete Welt(en)geschichte (Anhang: die Oktavian-Konstellation 31 Angelcan – eine Welt für SLA Industries)](https://d6ideas.com/berechnete-weltengeschichte-anhang-die-oktavian-konstellation-31-angelcan-eine-welt-fuer-sla-industries/)
 ---
 
-Math ∩ Programming --- 10/19/2025
+d6ideas --- 8/31/2025
 
-Polyhedral optimization is a tool used in compilers for optimizing loop nests. While the major compilers that use this implement polyhedral optimizations from scratch,1 there is a generally-applicable open source C library called the Integer Set...
+Passend zum sich alle Jahre wieder wiederholenden Ärgernis von RPGaDay werde ich diesen Monat einunddreißigmal den gleichen Artikel wiederholen. Passend auch zum dieses Jahr von grannus drüben beim kritischen Fehlschlag […]
 
 
-[Sunday photoblogging: Pézenas](https://crookedtimber.org/2025/10/19/sunday-photoblogging-pezenas-6/)
+[Berechnete Welt(en)geschichte (Anhang: die Oktavian-Konstellation 30 Defenseless – eine Welt für SLA Industries)](https://d6ideas.com/berechnete-weltengeschichte-anhang-die-oktavian-konstellation-30-defenseless-eine-welt-fuer-sla-industries/)
 ---
 
-Crooked Timber --- 10/19/2025
+d6ideas --- 8/30/2025
 
+Passend zum sich alle Jahre wieder wiederholenden Ärgernis von RPGaDay werde ich diesen Monat einunddreißigmal den gleichen Artikel wiederholen. Passend auch zum dieses Jahr von grannus drüben beim kritischen Fehlschlag […]
 
 
-
-[Death and Capitalism (Part 1 of 4)](https://crookedtimber.org/2025/10/19/death-and-capitalism-part-1-of-4/)
+[Berechnete Welt(en)geschichte (Anhang: die Oktavian-Konstellation 29 White Fox – eine Welt für SLA Industries)](https://d6ideas.com/berechnete-weltengeschichte-anhang-die-oktavian-konstellation-29-white-fox-eine-welt-fuer-sla-industries/)
 ---
 
-Crooked Timber --- 10/19/2025
+d6ideas --- 8/29/2025
 
-Within ten minutes I regretted my decision to walk to Creedon Street in the outback town of Broken Hill. At first, I thought it was the shoes. Stupid things I’d bought on the internet, they were little more than plastic-coated cardboard soles...
+Passend zum sich alle Jahre wieder wiederholenden Ärgernis von RPGaDay werde ich diesen Monat einunddreißigmal den gleichen Artikel wiederholen. Passend auch zum dieses Jahr von grannus drüben beim kritischen Fehlschlag […]
 
 
-[The Most Common Name in the World is Not Charles Lin. But It Seems That Way To Me.](https://blog.computationalcomplexity.org/feeds/4527299882170588164/comments/default)
+[Berechnete Welt(en)geschichte (Anhang: die Oktavian-Konstellation 28 Dream – eine Welt für SLA Industries)](https://d6ideas.com/berechnete-weltengeschichte-anhang-die-oktavian-konstellation-28-dream-eine-welt-fuer-sla-industries/)
 ---
 
-Computational Complexity --- 10/18/2025
+d6ideas --- 8/28/2025
 
-In 2001 I supervised Charles Lin's Master's Thesis, which was on Private Information Retrieval.In 2025 I supervised Charles Lin's Master's Thesis, which was on Ramsey Theory.These are different people. To celebrate the second one's thesis, I took...
+Passend zum sich alle Jahre wieder wiederholenden Ärgernis von RPGaDay werde ich diesen Monat einunddreißigmal den gleichen Artikel wiederholen. Passend auch zum dieses Jahr von grannus drüben beim kritischen Fehlschlag […]
 
 
-[Two Ph.D. studentships](https://www.logicmatters.net/2025/10/16/two-ph-d-studentships/)
+[ENTARIA Version 5 – Spielrunde zum Kennenlernen](https://entaria.de/entaria-version-5-spielrunde-zum-kennenlernen)
 ---
 
-Blog - Logic Matters --- 10/16/2025
+Entaria --- 8/28/2025
 
-Briefly, Thomas Forster tells me that he has acquired funding for two studentships in Wellington NZ (a delightful place!) for students who want to do a Ph.D. in set theory, in particular working with him on NF or perhaps some adjacent topic. He has...
+Heute keine News, sondern der Hinweis, dass ich am 12. September einen OneShot für alle halten werde, die ENTARIA kennenlernen möchten. Hier die technischen Daten: Titel: Y-Trade Inc. (aus dem Starterset) System: ENTARIA www.entaria.de,...
 
 
-[Does “forward” still make sense? A hypothesis on protest](https://crookedtimber.org/2025/10/16/does-forward-still-make-sense-a-hypothesis-on-protest/)
+[BattleMusic – Oger, Foundation & MechWarrior](https://d6ideas.com/battlemusic-oger-foundation-mechwarrior/)
 ---
 
-Crooked Timber --- 10/16/2025
+d6ideas --- 8/27/2025
 
-One of the big puzzles in the last months, for those observing the politics in the US and elsewhere, is this: why is there apparently so little protest against the attacks on democracy and the rule of law, and why does it happen in some but not...
+Basierend auf und ergänzend zu Ogers Psychohistorik für MechWarrior: Mech-Scale Visi-Sonor 3 Tonnen 4 Zeilen Reichweite 1-3/4-6/7-9 Ein Visi-Sonor kann nur in einer Einheit, die per Neurohelm kontrolliert wird, installiert […]
 
 
-[The case against boolean logic](http://abuseofnotation.github.io/boolean-thinking/)
+[Berechnete Welt(en)geschichte (Anhang: die Oktavian-Konstellation 27 Ibb – eine Welt für SLA Industries)](https://d6ideas.com/berechnete-weltengeschichte-anhang-die-oktavian-konstellation-27-ibb-eine-welt-fuer-sla-industries/)
 ---
 
-Abuse of Notation --- 10/16/2025
+d6ideas --- 8/27/2025
 
-In my last post about generality, I tried to show how our ambition to discover ideas that are all-encompassing and eternal makes our worldview crumble, leaving us unable to think clearly even about simple issues with obvious solutions. Today, I...
+Passend zum sich alle Jahre wieder wiederholenden Ärgernis von RPGaDay werde ich diesen Monat einunddreißigmal den gleichen Artikel wiederholen. Passend auch zum dieses Jahr von grannus drüben beim kritischen Fehlschlag […]
 
 
-[Fall Jobs Post 2025](https://blog.computationalcomplexity.org/feeds/7268290965433194070/comments/default)
+[Berechnete Welt(en)geschichte (Anhang: die Oktavian-Konstellation 26 Black Silesia – eine Welt für SLA Industries)](https://d6ideas.com/berechnete-weltengeschichte-anhang-die-oktavian-konstellation-26-black-silesia-eine-welt-fuer-sla-industries/)
 ---
 
-Computational Complexity --- 10/15/2025
+d6ideas --- 8/26/2025
 
-Each fall I try to predict the theory computer science faculty job market to come and give suggestions to those going after them. Get set for a rocky ride, with AI’s disruption of computer science, fiscal stress at universities, and new U.S....
+Passend zum sich alle Jahre wieder wiederholenden Ärgernis von RPGaDay werde ich diesen Monat einunddreißigmal den gleichen Artikel wiederholen. Passend auch zum dieses Jahr von grannus drüben beim kritischen Fehlschlag […]
 
 
-[Double Maths First Thing: Issue 3A](https://aperiodical.com/2025/10/double-maths-first-thing-issue-3a/)
+[Berechnete Welt(en)geschichte (Anhang: die Oktavian-Konstellation 25 Second Sea – eine Welt für SLA Industries)](https://d6ideas.com/berechnete-weltengeschichte-anhang-die-oktavian-konstellation-25-second-sea-eine-welt-fuer-sla-industries/)
 ---
 
-The Aperiodical --- 10/15/2025
+d6ideas --- 8/25/2025
 
-Double Maths First Thing almost forgot to put this line in! Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing mathematical things. This week I am mainly getting to grips with reluctantly becoming...
+Passend zum sich alle Jahre wieder wiederholenden Ärgernis von RPGaDay werde ich diesen Monat einunddreißigmal den gleichen Artikel wiederholen. Passend auch zum dieses Jahr von grannus drüben beim kritischen Fehlschlag […]
 
 
-[Books to Recommend to Maths Students](https://aperiodical.com/2025/10/books-to-recommend-to-maths-students/)
+[Rollenspielrückblick Juli 2025](http://clawdeenspielt.de/rollenspielrueckblick-juli-2025/)
 ---
 
-The Aperiodical --- 10/14/2025
+Clawdeen spielt --- 8/1/2025
 
-I was asked recently by a first-year maths undergrad student if I could recommend any books on problem-solving, as they were hoping to develop their problem-solving skills. Asking around some maths communication colleagues has resulted in an...
+Während im Juni einiges los war, sieht es im Juli leider ganz anders aus. Die Prüfungszeit hat begonnen und zieht sich bis Ende August, sodass ich meine Prioritäten leider anders verteilen muss und auch den Youtubekanal bis dahin in den...
 
 
-[Viel davor und wenig danach](https://ralf-sandfuchs.de/blog/2025/10/12/viel-davor-und-wenig-danach/)
+[ENTARIA Version 5 – Zusammenarbeit mit Künstlern, Generatoren und neue Talentgruppe](https://entaria.de/13635-2)
 ---
 
-Der Sandkasten --- 10/12/2025
+Entaria --- 7/31/2025
 
-Wenn du in den letzten Monaten meine Social-Media-Accounts verfolgt hast, könntest du das Gefühl bekommen, dass ich bis auf wenige Ausnahmen in ein kreatives Koma gefallen bin. Diese Einschätzung ist wahrscheinlich verständlich, existieren doch...
+Viele schöne Neuigkeiten heute. Zusammenarbeit mit Künstlern Die Ergebnisse der Zusammenarbeit mit echten Künstlern tragen weiter Früchte. Ich fand die Ergebnisse so gut, das ich sie mir an die Wand gehängt habe. Vielen Dank an: smitchellmaps...
 
 
-[Delighted to be proved wrong](https://crookedtimber.org/2025/10/09/delighted-to-be-proved-wrong/)
+[Rollenspielrückblick Juni 2025](http://clawdeenspielt.de/rollenspielrueckblick-juni-2025/)
 ---
 
-Crooked Timber --- 10/9/2025
+Clawdeen spielt --- 7/3/2025
 
-A European justice minister who does have principles! The EU “chat control” proposal I wrote about the other day has been scuppered by Germany’s justice ministry saying forcefully that it will never support this particular form of mass...
+Im Juni gab es so einiges Neues! Anschaffungen Im Juni gab es für mich den Schnellstarter von Historia in Print (10€), ebenso das Grundregelwerk. Letzteres habe ich geschenkt bekommen, rechne ich darum ganz frech auch nicht mit ein. Gegönnt hatten...
 
 
-[Big Bots Don't Cry](https://blog.computationalcomplexity.org/feeds/4977782246945115848/comments/default)
+[Der Eismann schaut Star Wars 9](https://eisparadies.wordpress.com/2025/07/02/der-eismann-schaut-star-wars-9/)
 ---
 
-Computational Complexity --- 10/8/2025
+Das Eisparadies --- 7/2/2025
 
-A few comments to last week's post Computers Don't Want suggested that human brains are just advanced computers, yet still possess agency and desires. But are we just Turing machines? I wrote about this question before but let's revisit in the...
+Achtung! Spoiler zu Star Wars 9!Hurra, wir sind durch! Und ich muss sagen, Nummer 9 war echt ok. Nicht „300 Millionen Dollar“-gut, aber ok. Zuerst muss man aber erstmal über einen großen Berg guten Willens, um in die Handlung zu … Weiterlesen →
 
 
-[Double Maths First Thing: Issue 39](https://aperiodical.com/2025/10/double-maths-first-thing-issue-39/)
+[Der Eismann schaut Star Wars 8](https://eisparadies.wordpress.com/2025/06/29/der-eismann-schaut-star-wars-8/)
 ---
 
-The Aperiodical --- 10/8/2025
+Das Eisparadies --- 6/29/2025
 
-DMFT is grateful for the last minute. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths and solving problems. Today I went to a school in Poole to talk about my career in maths and computing...
+Achtung! Spoiler zu Star Wars 8!Zugegeben, ich bin nicht sonderlich neutral in den Film eingestiegen, da mit vorher schon erklärt wurde, dass er schrecklich ist. Aber ich habe mir Mühe gegeben.Der Film besteht im Kern aus zwei Plotlines, die mehr …...
 
 
-[Chat control in Europe, an open letter to the Irish Minister who wants to scan all our messages](https://crookedtimber.org/2025/10/07/chat-control-in-europe-an-open-letter-to-the-irish-minister-who-wants-to-scan-all-our-messages/)
+[Der Eismann schaut Star Wars 7](https://eisparadies.wordpress.com/2025/06/28/der-eismann-schaut-star-wars-7/)
 ---
 
-Crooked Timber --- 10/7/2025
+Das Eisparadies --- 6/28/2025
 
-I’m publishing an email I just sent to Ireland’s Minister for Justice, Jim O’Callaghan, on a truly hideous and anti-democratic European law that Ireland is strenuously supporting. It’s looking like Germany, which was strong on data protection, may...
+Achtung! Spoiler zu Star Wars 7!Ich habe mich sehr lange Zeit davor gedrückt mir Star Wars 7-9 anzuschauen. Die Kritiken waren schlecht bis vernichtend und ich wollte mir meine Jugenderinnerungen nicht versauen lassen. Aber im Rahmen unterhaltsamer...
 
 
-[What on earth is the infinite least squares beanstalk?](https://aperiodical.com/2025/10/what-on-earth-is-the-infinite-least-squares-beanstalk/)
+[Es ist nicht tot, was ewig liegt…](https://darcage.de/es-ist-nicht-tot-was-ewig-liegt/)
 ---
 
-The Aperiodical --- 10/7/2025
+DARC --- 6/22/2025
 
-I’m trying something a bit different. Here’s a ten-minute video about a sequence I found on the OEIS. (I’ve also put this video on YouTube, but I’m anxious about having a copy of my videos somewhere that else) The sequence is A276573, the infinite...
+Über ein Jahr keine News mehr hier auf der Seite?! Frechtheit! Dabei gab es doch welche! Allerdings nur in Form von Videos auf unserem YouTube-Kanal, statt hier, wo sie eigentlich hingehören. Aber ist ja noch alles da – solltest Du beispielsweise...
 
 
-[A Complex Qutrit Inside an Octonionic One](https://golem.ph.utexas.edu/category/2025/10/a_complex_qutrit_inside_an_oct.html)
+[Katzenjammer: 40 Cats – Ein Konzept](https://eisparadies.wordpress.com/2025/06/17/katzenjammer-40-cats-ein-konzept/)
 ---
 
-The n-Category Café --- 10/7/2025
+Das Eisparadies --- 6/17/2025
 
-I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
+Leider ist der Spin Off von „Die Schwarze Katze“ unter dem Namen „Katzenjammer: 40 Cats“ aus Gründen nie über ein Konzeptpapier hinaus gekommen. Aber da die Idee zu schade ist, um sie irgendwo auf einer Festplatte verschimmeln zu lassen, hier …...
 
 
-[A very short, very blunt, book note](https://www.logicmatters.net/2025/10/06/a-very-short-very-blunt-book-note/)
+[Rückblick NordCon](http://clawdeenspielt.de/rueckblick-nordcon/)
 ---
 
-Blog - Logic Matters --- 10/6/2025
+Clawdeen spielt --- 6/16/2025
 
-An accessible, very readable, well-motivated, zestful book on ordinal analysis and proof theory would be a very good thing to have. Arai’s Ordinal Analysis with an Introduction to Proof Theory isn’t it. By a country mile. (I was asked for a...
+Wir waren zum ersten Mal auf der NordCon, also gibts dazu natürlich ein paar Eindrücke. Im Vorfeld Tatsächlich wollte ich schon immer mal gern zur NordCon, weil ich so viel Gutes darüber gehört hatte und mich (vor Corona) auch immer das Angebot an...
 
 
-[If you use AI in your work do you brag about it or hide it?](https://blog.computationalcomplexity.org/feeds/1237477313397401620/comments/default)
+[Rollenspielrückblick Mai 2025](http://clawdeenspielt.de/rollenspielrueckblick-mai-2025/)
 ---
 
-Computational Complexity --- 10/5/2025
+Clawdeen spielt --- 6/1/2025
 
-You used AI in your work. Do you hide it or brag about it? 1) In 2002 there was a movie Simone about an actress who is really an AI. The Wikipedia entry tells the entire plot. I saved time by reading it in two minutes rather than watching it in 2...
+Zunächst eine kleine Beichte: Da hab ich im letzten Rückblick doch glatt gelogen. Geschrieben hatte ich, dass ich mir lediglich zwei Schnellstarter und das „Spielleitung 1×1“ zu City of Mist gekauft hätte. Tatsächlich habe ich dabei die...
 
 
-[Sunday photoblogging: Marseillan](https://crookedtimber.org/2025/10/05/sunday-photoblogging-marseillan-4/)
+[Spielerfahrung mit dem Sleepy Hollow RPG](http://clawdeenspielt.de/spielerfahrung-mit-dem-sleepy-hollow-rpg/)
 ---
-
-Crooked Timber --- 10/5/2025
 
+Clawdeen spielt --- 5/17/2025
 
+Ich hatte vor einer Weile bereits einen Artikel zum Sleepy Hollow RPG geschrieben, und auch ein Video habe ich als Überblick zum Spiel erstellt. Nachdem wir nun die Gelegenheit hatten, das Ganze auch mal im Rahmen eines Oneshots (Teil 1, Teil 2) zu...
 
 
-[Footnotes to a fortnight: Category mistakes, Dutch courtyards, Martinů](https://www.logicmatters.net/2025/10/04/footnotes-to-a-couple-of-weeks-category-mistakes-dutch-courtyards-martinu/)
+[1. Buchmesse Ingolstadt](http://clawdeenspielt.de/erste_buchmesse_ingolstadt/)
 ---
 
-Blog - Logic Matters --- 10/4/2025
+Clawdeen spielt --- 5/10/2025
 
-Most of the writing I have actually done this last week or so has been in tinkering with the category theory notes. For, sad to relate, I still find myself occasionally working through them. Until yesterday, however, it has just been a matter of...
+Man kann wirklich nicht behaupten, dass es im Umfeld keine Leute gäbe, die einfach mal machen würden. So entstand die MicroCon Ingolstadt, über die ich letztens schon geschrieben habe. Gleiches gilt auch für die 1. Buchmesse Ingolstadts namens...
 
 
-[Carnival of Maths 244](https://aperiodical.com/2025/10/carnival-of-maths-244/)
+[Erkundungen auf Reue](https://edalon.wordpress.com/2025/05/04/erkundungen-auf-reue/)
 ---
 
-The Aperiodical --- 10/4/2025
+Rollenspiel-Blog --- 5/4/2025
 
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of September 2025, is now online at IoannaGeorgiou.com. The Carnival rounds up maths blog posts from all over the internet, including some from our...
+Gestern stürzten wir uns erneut ins Abenteuer in die geborstenen Himmel. Hier kommt Dagians Bericht dazu: Unsere Reise nach Reue dauert zwei Wochen.Talahier wirkt seit der Einnahme des Segens der Lebensmutter deutlich entspannter und...
 
 
-[Aperiodical News Roundup – August/September 2025](https://aperiodical.com/2025/10/aperiodical-news-roundup-august-september-2025/)
+[Rollenspielrückblick April 2025](http://clawdeenspielt.de/rollenspielrueckblick-april-2025/)
 ---
 
-The Aperiodical --- 10/3/2025
+Clawdeen spielt --- 4/30/2025
 
-Here’s a round-up of maths news stories from this month we haven’t otherwise covered on the Aperiodical (not including, of course, the important enneahedron news Christian just posted about). MathJax, a Javascript display engine for typesetting...
+Der April-Rückblick fällt dank diverser Zeitfresser leider unter die Kategorie „kurz und knapp“. Anschaffungen Bei dem einen oder anderen Spiel/Buch war ich mehrfach kurz versucht zuzuschlagen, habe mich letztlich aber dagegen entschieden. Zugelegt...
 
 
-[Breaking enneahedron news!](https://aperiodical.com/2025/10/breaking-enneahedron-news/)
+[ENTARIA Version 5 – Status Buch, Updates, Medic und Zufallstabellen](https://entaria.de/entaria-version-5)
 ---
 
-The Aperiodical --- 10/3/2025
+Entaria --- 4/26/2025
 
-A nice person called Payton Asch sent me an email with an observation about the Herschel enneahedron: It looks like the underlying polytope for the enneahedron is a triangular bipyramid (two tetrahedra stacked on top of each other) or the dual...
+Hier ein Update zur Version 5 von dem Weltraumrollenspiel ENTARIA. Status zum Buch Das Korrekturlesen des kompletten Regelwerks kommt gut voran. Dabei werden viele Passagen gekürzt und umgeschrieben. Grafiken für die Spezies sind fast alle...
 
 
-[Paper reactors and paper tigers](https://crookedtimber.org/2025/10/03/paper-reactors-and-paper-tigers/)
+[DSA112 Immersion](http://dsa-intime.de/?p=1439)
 ---
 
-Crooked Timber --- 10/3/2025
+DSA Intime Podcast --- 3/11/2025
 
-(I wrote this piece a week or so ago, meant to do a bit more work but haven’t got around to it. Hence slightly dated allusions) The culmination of Donald Trump’s state visit to the UK was a press conference at which both American and British...
+Eintauchen in eine andere Welt. Das ist für viele Rollenspieler das aller wichtigste. Aber dieses Eintauchen ist sehr zerbrechlich, es kann von allen Seiten zerstört und verhindert werden. Wir versuchen uns heute, dieser mysteriösen Immersion zu...
 
 
-[Mathober 2025 Sketches](https://www.fractalkitty.com/mathober-2025-sketches/)
+[Gruppenerschaffung mit Grundantrieben](https://www.1w6.org/deutsch/regeln/gruppenflyer)
 ---
 
-Fractal Kitty --- 10/1/2025
+1w6 --- 2/19/2025
 
-This is the post I'll update with this year's Mathober art. Check back and see what's been added throughout the month. Link, Deviation, PolyhedronStrongly, Digraph Sink, Partial SumNotation (find the sigma)P5.js sketchesLink, Deviation,...
+Ein systemunabhängiger A5-Flyer für die Gratisrollenspieltage 2025: Erschafft eure Gruppe aus ihren Grundantrieben. Vielfältigere Antriebe durch praktische Beispiele Verstärkte Gruppendynamik durch deren Widersprüche Eine konkrete...
 
 
-[Computers Don't Want](https://blog.computationalcomplexity.org/feeds/634164649673020320/comments/default)
+[DSA111 Improvisation](http://dsa-intime.de/?p=1433)
 ---
 
-Computational Complexity --- 10/1/2025
+DSA Intime Podcast --- 2/4/2025
 
-I read through the new book If Anyone Builds It, Everyone Dies by Eliezer Yudkowsky and Nate Soares. "It" refers to Artificial Super Intelligence (ASI). A very short version of the authors' argument: You can view advanced AI as though it has its...
+„Pen&Paper ist Improtheater mit Würfeln!“ aber stimmt das wirklich? Wie nah sind sich Rollenspiel und Bühnenimprovisation? Florentin teilt zwei wichtige Grundsätze der Improv Comedy: Yes And und Know Care Say und wir besprechen, ob und wie sie auf...
 
 
-[Against Campus ‘Debate’](https://crookedtimber.org/2025/10/01/against-campus-debate/)
+[Der Segen der Lebensmutter](https://edalon.wordpress.com/2025/02/02/der-segen-der-lebensmutter/)
 ---
 
-Crooked Timber --- 10/1/2025
+Rollenspiel-Blog --- 2/2/2025
 
-I have a long-standing pet peeve about the conflation of academic freedom and freedom of speech, especially in the context of (purported) campus debate. In order to illustrate why one should not conflate academic freedom and freedom of speech, I...
+Nach mehr als einjähriger Pause ging es gestern wieder in den geborstenen Himmeln weiter. Es folgt Dagians Bericht über die aktuellen Ereignisse: Schwer verletzt schauen wir uns auf Kestor um. Auf den Feldern wachsen etwa Dutzend verschiedene Pilze...
 
 
-[Clyde Kruskal talks about his Father Martin on Martin's 100th birthday](https://blog.computationalcomplexity.org/feeds/224845733811604907/comments/default)
+[[Rezi] Mutant Year Zero – Zone Wars: Robots & Psionics](https://bucheibon.blogspot.com/feeds/2536122404906974354/comments/default)
 ---
 
-Computational Complexity --- 9/29/2025
+Einige Seiten des Buches Eibon --- 2/1/2025
 
-Martin Kruskal was born Sept 28, 1925 and passed away on Dec 26, 2006, at the age of 81 (we did two posts for his memorial, here and here). Today, Sept 28, 2025, is his 100th birthday. His son Clyde Kruskal wrote today's blog post as a tribute to...
+Das taktische Kampfspiel „Zone Wars“ im Mutant-Year-Zero-Universum bietet die Möglichkeit mit maximal vier Spielerinnen und Spielern jeweils bis zu fünf Figuren in unterschiedlichen Szenarien gegeneinander antreten zu lassen. Damit das...
 
 
-[Sci Art September](https://www.fractalkitty.com/sci-art-september/)
+[[Rezi] Exogenom - ein Rollenspielsoundtrack](https://bucheibon.blogspot.com/feeds/6693076451111087304/comments/default)
 ---
 
-Fractal Kitty --- 9/28/2025
+Einige Seiten des Buches Eibon --- 2/1/2025
 
-Kristin Henry has been providing SciArtSeptember prompts each year. I incorporated all of the prompts into a single sketch this year. 1. Fluid 2. Coral 3. Inertia 4. Diffusion 5. Skeleton 6. Growth 7. Virus 8. Permutation 9. Element 10. Algae 11....
+„Exogenom“ ist ein Sci-Fi-Rollenspiel in der Entwicklung. Doch schon jetzt kann man Musik dafür erwerben. Es ist elektronische Instrumentalmusik, die im Hintergrund während des Spiels oder bei der Vorbereitung für den nächsten Spielabend gespielt...
 
 
-[My life is like a Prison](http://abuseofnotation.github.io/prison/)
+[[Rezi]  Mutant: Year Zero Zone Wars](https://bucheibon.blogspot.com/feeds/8720688771108334158/comments/default)
 ---
 
-Abuse of Notation --- 9/27/2025
+Einige Seiten des Buches Eibon --- 2/1/2025
 
-“My life is like a prison” I wrote this in my personal website when I was 14. I was quite correct in pinpointing the problem, pinpointing how I, and many other people, felt, but I was off at identifying the cause — I thought, that I was kept in...
+Der Untertitel dieses Spiels lautet: „Skirmish Mayhem in the Mutant: Year Zero Universe“, was genau beschreibt, was uns bei der Box erwartet. Free League liefert ein einfaches Tabletop-Spiel für ein bis zwei Spielerinnen und Spieler und maximal 10...
 
 
-[Rambouillet, part 1:  The State of Play](https://crookedtimber.org/2025/09/26/rambouillet-part-1-the-state-of-play/)
+[DSA110 Beschworene Wesen](http://dsa-intime.de/?p=1427)
 ---
 
-Crooked Timber --- 9/26/2025
+DSA Intime Podcast --- 12/21/2024
 
-A while back I wrote a series of posts about the 1998-9 Kosovo conflict. If you’re interested, here they are: Prelude to War, The Serbian Ascendancy, Things Fall Apart, And So To War. This post continues that story up to the unsuccessful...
+Nachdem zwei mächtige Podcaster ihre gesamte Kraft in einem langen Ritual aufgebraucht haben, erschien aus dem Nichts ein mächtiges Wesen vergangener Zeit: Ali. Mit ihm diskutierten die Beschwörer, wie man am besten mit Elementaren, Dämonen, Golems...
 
 
-[Math Storytelling Day 2025](https://www.fractalkitty.com/math-storytelling-day-2025/)
+[ENTARIA Version 5 – letzte Prüfung, Layout, Grafiken, Mookup](https://entaria.de/entaria-version-5-letzte-pruefung-layout-grafiken-mookup)
 ---
 
-Fractal Kitty --- 9/25/2025
+Entaria --- 12/16/2024
 
-Today is math storytelling day, so I thought I would make a visual coloring sheet as a prompt for others. What characters live in this world? What stories are there to tell? What number system would you have? What mathemagical spells would you...
+Der nächste große Schritt beginnt: Die Vorbereitung für den Druck des Regelwerks! Dazu gehören: Korrekturlesen, Grafiken und Layout. Die Korrektur ist nun für das Grundregelwerk und für das Spielleiter-Buch abgeschlossen. Als Nächstes kommt dann...
 
 
-[Self-Driving Cars](https://blog.computationalcomplexity.org/feeds/9068207505523155791/comments/default)
+[DSA109 Dämonen als Götter](http://dsa-intime.de/?p=1421)
 ---
 
-Computational Complexity --- 9/25/2025
+DSA Intime Podcast --- 11/5/2024
 
-A few weeks ago I took an Uber to a regional airport and was picked up by a Tesla. The driver used FSD, so-called Full Self-Driving, never touching the steering wheel during the entire trip. Should you tip a driver who just sits there? In the end I...
+Es tut sich was in der Welt von DSA, das Zauberwort lautet Karmakorthäon! Neue Götter ersetzen alte Götter, Götter als Dämonen, Dämonen als Götter, alles ist denkbar. Aber wie sinnvoll sind solche Veränderungen? Was ist der Unterschied zwischen...
 
 
-[Some thoughts on journals, refereeing, and the P vs NP problem](https://blog.computationalcomplexity.org/feeds/6022986968221528427/comments/default)
+[ENTARIA Version 5 – Werkstattbericht – Neues Abenteuer, Crafting & außergewöhnliche Gegenstände](https://entaria.de/entaria-version-5-werkstattbericht-neues-abenteuer-crafting-aussergewoehnliche-gegenstaende)
 ---
 
-Computational Complexity --- 9/25/2025
+Entaria --- 10/19/2024
 
-A guest post by Eric Allender prompted by an (incorrect) P ≠ NP proof recently published in Springer Nature's Frontiers of Computer Science.For a time, I served as Editor-in-Chief of ACM Transactions on Computation Theory, and in this role I had to...
+Ein weiteres Update für die Version 5 von dem Rollenspiel ENTARIA. Neue Mission »Ausgrabung auf Buuthiti« Ein neues Kurzabenteuer, in dem die Krallen/Spielcharaktere eine Ausgrabungsexpedition begleiten, wobei es dort natürliche und...
 
 
-[What is a Good Quantum Encoding? Part 1](https://www.math3ma.com/blog/what-is-a-good-quantum-encoding-part-1)
+[Painkiller on Tour: Oklahoma City](https://eisparadies.wordpress.com/2024/10/18/painkiller-on-tour-oklahoma-city/)
 ---
 
-Math3ma --- 9/25/2025
+Das Eisparadies --- 10/18/2024
 
-Over the past couple of years, I've been learning a little about the world of quantum machine learning (QML) and the sorts of things people are thinking about there. I recently gave an high-level talk on some of these ideas in connection to a...
+Ich habe mich recht kurzfristig entschlossen in Oklahoma City einen Zwischenstopp einzulegen auf dem Weg nach Dallas, aber ich muss sagen, die Ernte war reichlich. Das erste Ziel sollte eigentlich das Unplugged im Norden sein, aber es hatte noch...
 
 
-[Good Reads: The Princeton Companion to Mathematics](https://www.math3ma.com/blog/good-reads-the-princeton-companion-to-mathematics)
+[Painkiller on Tour: Denver](https://eisparadies.wordpress.com/2024/10/10/painkiller-on-tour-denver/)
 ---
 
-Math3ma --- 9/25/2025
+Das Eisparadies --- 10/10/2024
 
-Next up on Good Reads: The Princeton Companion to Mathematics, edited by Fields medalist Timothy Gowers. This book is an exceptional resource! With over 1,000 pages of mathematics explained by the experts for the layperson, it's like an...
+Im Zentrum der Stadt gibt es zum Thema Rollenspiele recht wenig, aber im Umland findet man noch einige interessante Läden. In Littleton gibt es da zum Beispiel Night Owl Games. Ein recht typischer Laden mit Schwerpunkt auf Brettspiele und Trading …...
 
 
-[We can find more papers on the web than we used to. Are we reading them?](https://blog.computationalcomplexity.org/feeds/7921020221266926027/comments/default)
+[Painkiller on Tour: Colorado (rund um Denver)](https://eisparadies.wordpress.com/2024/10/10/painkiller-on-tour-colorado-rund-um-denver/)
 ---
 
-Computational Complexity --- 9/23/2025
+Das Eisparadies --- 10/10/2024
 
-STUDENT: What did you do before the web to find papers?BILL: We went to the library and copied papers to read later.STUDENT: Did you read them later?BILL: Well, uh,hmm, ...BILL to a professor in his 80's: What did you do before copy...
+Mittlerweile hat es mich nach Denver verschlagen, und als braver Rollenspielnerd besuche ich auch hier die verschiedenen Läden. Da es so viele sind, habe ich mit den Regionen um Denver herum angefangen. Chaos Games in Pueblo ist ein recht uriger …...
 
 
-[The care economy, or radical economic growth?](https://crookedtimber.org/2025/09/22/the-care-economy-or-radical-economic-growth/)
+[Painkiller on Tour: Texas](https://eisparadies.wordpress.com/2024/10/04/painkiller-on-tour-texas/)
 ---
 
-Crooked Timber --- 9/22/2025
+Das Eisparadies --- 10/4/2024
 
-I’m in the midst of doing research, teaching, and outreach activities on a set of questions around economic growth and its relationship to what we value. My research team has Tim Jackson visiting tomorrow, who will give a talk on postgrowth...
+Momentan bin ich auf einer Recherchetour von Nordtexas bis rauf nach Denver für das Painkiller-Projekt (näheres im Tanelorn)..Und natürlich lasse ich es mir nicht nehmen mir auf dem Weg jeden Rollenspielladen anzuschauen, den ich finden kann. Es...
 
 
-[Songs of passion.](https://www.logicmatters.net/2025/09/20/footnote-to-the-week-songs-of-passion/)
+[DSA108 Regeln](http://dsa-intime.de/?p=1412)
 ---
 
-Blog - Logic Matters --- 9/20/2025
+DSA Intime Podcast --- 9/10/2024
 
-A great couple of days in London. The high point, a quite outstanding evening at Wigmore Hall — the wondrous Lea Desandre and Thomas Dunford (and the Jupiter ensemble) performing Dowland and Purcell. Their new CD is terrific, and the live version...
+DSA ist berüchtigt für sein umfangreiches Regelwerk. Doch welchen Zweck haben Regeln eigentlich im Rollenspiel und wann kann man sie getrost weglassen? Darf man Regeln biegen und anpassen? Ein komplexes Thema für das wir uns Sigi als Unterstützung...
 
 
-[What is "PhD-Level Intelligence"?](https://blog.computationalcomplexity.org/feeds/4535460946790809118/comments/default)
+[Nein, ich will nicht alle hier haben](https://www.1w6.org/blog/drak/2024-09-02-nein)
 ---
 
-Computational Complexity --- 9/17/2025
+1w6 --- 9/2/2024
 
-When announcing Open-AI's latest release last month, Sam Altman said "GPT-5 is the first time that it really feels like talking to an expert in any topic, like a PhD-level expert." Before we discuss whether GPT-5 got there, what does "PhD-Level...
+Wenn ihr Neonazis stärkt oder Neonazis seid, geht bitte. Ich habe dann kein Interesse, mit euch Kontakt zu haben, oder euch in irgendeiner Weise zu unterstützen. Ihr habt hier nichts zu suchen. Danke an HPG Station für einen Anfang. Das Gute...
 
 
-[A Shadow of Triality?](https://golem.ph.utexas.edu/category/2025/09/a_shadow_of_triality.html)
+[ENTARIA Version 5 – Werkstattbericht – Fahrzeuge, Kreaturen und Besiegt](https://entaria.de/10970-2)
 ---
 
-The n-Category Café --- 9/16/2025
+Entaria --- 7/27/2024
 
-The octonions have nontrivial inner automorphisms of order 3.   Is this related to triality?
+Ein weiter Blick in die Werkstatt von Version 5, für das TTRPG Entaria. Die größten Änderungen sind: Neue Fahrzeugkonstruktion und Fahrzeugkampfregeln Die Konstruktion ist stark verknappt und vereinfacht worden. Dafür hat nun jede Talentgruppe ein...
 
 
-[Mathober 2025](https://www.fractalkitty.com/mathober-2025/)
+[Jubiläumseintrag: Von Video- und Rollenspielen](https://eisparadies.wordpress.com/2024/07/21/jubilaumseintrag-von-video-und-rollenspielen/)
 ---
 
-Fractal Kitty --- 9/16/2025
+Das Eisparadies --- 7/21/2024
 
-Mathober is almost here! I am looking forward to seeing everyone’s creativity and take on this year’s prompts. If you’ve never participated before, now’s the perfect time to jump in!The goal of Mathober is simple: have fun, learn, grow, and play
+13 Jahre Eisparadies! Da muss natürlich ein Eintrag her! Nachdem ich nun einige Jahre mit der Entwicklung von Videospielen zugebracht hat (zuletzt beim Senior Health Game Lab der Hochschule Trier, u.a. mit dem Sprachübungsspiel Carls Wortspiele),...
 
 
-[``I'm on vacation so I won't be checking email'' will sound funny soon. Maybe it already does.](https://blog.computationalcomplexity.org/feeds/8646382707341045443/comments/default)
+[DSA107 Heldentum](http://dsa-intime.de/?p=1405)
 ---
 
-Computational Complexity --- 9/15/2025
+DSA Intime Podcast --- 7/10/2024
 
-"I'll be on vacation so I won't be checking email.''"I can't be at the meeting since I will be out of town''Technology has made it so that:a) You really CAN get email when you are on vacation.b) You really CAN go to a meeting if you are out of town...
+Ein Thema so titanisch-umfangreich, dass es zwei echte Helden braucht, um es anzugehen! Sind DSA-Charaktere Helden? Und was sind Helden? Wie viel Heldenmut kann der Meister voraussetzen und mit wie viel Wagemut kommen die Spieler davon?
 
 
-[Greek readings](https://www.logicmatters.net/2025/09/13/footnotes-to-the-week-greek-readings/)
+[Technophob-Flyer für den heimischen Drucker (größer)](https://www.1w6.org/deutsch/regeln/flyerbuecher/12x-flyer-selbst-drucken)
 ---
 
-Blog - Logic Matters --- 9/13/2025
+1w6 --- 5/26/2024
 
-What have I been reading this week? I finished The Voyage Home, the most recent in Pat Barker’s wonderful series re-imaging episodes from the Trojan War. This time, it’s Agamemnon’s voyage home after the war, and his death at the hands of...
+Die Technophob-Flyer für den GRT 2024 gibt es jetzt auch in einer Druckerfreundlicheren Variante — also als vier DinA4-Seiten statt 6 Din-Lang Seiten. Wir haben damit gerade zum Ausklang des Towel Day in Arnes 42-ten Geburtstag...
 
 
-[Burrito Monads, Arrow Kitchens, and Freyd Category Recipes](https://golem.ph.utexas.edu/category/2025/08/burrito_monads_arrow_kitchens.html)
+[DSA106 Mada](http://dsa-intime.de/?p=1393)
 ---
 
-The n-Category Café --- 9/13/2025
+DSA Intime Podcast --- 5/11/2024
 
-Adjoint School guest post by Khyathi Komalan and Andrew Krenz
+Madas Frevel ist ein zentrales Ereignis der Geschichte von DSA. Viel mehr wissen die meisten Spieler aber wahrscheinlich nicht über die Halbgöttin Mada. Was waren ihre Beweggründe, wie wird sie heutzutage verehrt und wie nah kommt sie den Idealen...
 
 
-[Is the Prob Method `Just Counting'- I say no and HELL NO](https://blog.computationalcomplexity.org/feeds/5578083384441572902/comments/default)
+[Bei Orkenspalter TV zu „GratisRollenspielTage: Indie-Talk“](https://www.1w6.org/deutsch/regeln/flyerbuecher/12x-flyer-grt2024-bei-orkenspaltertv)
 ---
 
-Computational Complexity --- 9/11/2025
+1w6 --- 3/28/2024
 
-(After I wrote this post Lance tweeted a pointer to a great talk by Ronald de Wolf with more examples, and also examples of quantum proofs, see here.)I was teaching the prob method for lower bounds on Ramsey Numbers (see my slides here).As often...
+„Indie und die Indies“-Abend bei Orkenspalter TV (Mhaire und Nico) auf Youtube. Aufnahmen von letzter Woche jetzt auf youtube! mit den Indi-Bastler*innen Lil von Feenlicht https://feenlicht-rollenspiel.de/ (bezeichnet sich nicht als „wie...
 
 
-[The Sannomiya incident—how Jörg Brendle hit the big stage in Japanese art](https://jdh.hamkins.org/the-sannomiya-incident-how-jorg-brendle-hit-the-big-stage-in-japanese-art/)
+[ENTARIA Version 5 – Werkstattbericht – Gute und schlechte Nachrichten](https://entaria.de/entaria-version-5-werkstattbericht-gute-und-schlechte-nachrichten)
 ---
 
-Joel David Hamkins --- 9/10/2025
+Entaria --- 3/21/2024
 
-Recently I had the pleasure to give a talk at the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Japan, and I was invited to make remarks at the conference banquet given in his honor. … Continue reading →
+Für das Brett-Rollenspiel ENTARIA, dem universellen klassischem Weltraumabenteuer, gibt es einen neuen Bericht aus der Werkstatt….. und es gibt gute und schlechte Nachrichten. Zu den Guten zählt, dass der Plan aus September, das Kampfraster...
 
 
-[A Restless Soul](https://blog.computationalcomplexity.org/feeds/5083131184997402115/comments/default)
+[DSA105 LARP](http://dsa-intime.de/?p=1382)
 ---
 
-Computational Complexity --- 9/8/2025
+DSA Intime Podcast --- 2/26/2024
 
-When I first became a professor I had it all planned out, I would do research, teach and supervise students, get tenure and do more research, teach more courses, and supervise more students for the rest of my life. But once I got tenure, instead of...
+Die Welt von DSA kann nicht nur im Pen&Paper-Keller erkundet werden, sondern auch an der Frischen Luft in Form von LARP! Doch beim Live Action Role Play läuft das Ganze etwas anders ab als am Spieltisch und was genau man … Weiterlesen →
 
 
-[Footnotes to the week: Zen painting, the size of sets, Maddy](https://www.logicmatters.net/2025/09/06/footnotes-to-the-week-zen-painting-the-size-of-sets-maddy/)
+[Flyerbücher zu RaumZeit/Technophob für den GRT 2024](https://www.1w6.org/deutsch/regeln/flyerbuecher/12x-flyer-grt2024)
 ---
 
-Blog - Logic Matters --- 9/6/2025
+1w6 --- 2/18/2024
 
-Just before we went off to Zürich, we had our house painted outside (the doors, the windows, and so forth). It took fourteen days, not because we have a mansion but because a lot of preparatory work was needed, cutting out minor rot, repairing,...
+Vom 16. bis 23. März 2024 sind die Gratisrollenspieltage 2024! Unser Beitrag, die Flyerbücher für den GRT 2024, ist gedruckt und bei Pegasus angekommen:    Einseitig zum Falten — Zwei Flyer, Doppelseitig — Vierseitig für den privaten...
 
 
-[Guest Post on Why Coding Style is Important](https://blog.computationalcomplexity.org/feeds/2463554635336524401/comments/default)
+[Darc-Teaser „Staubkäfer“ online und dazugehörige FAQs](https://darcage.de/darc-teaser-staubkaefer-online-und-dazugehoerige-faqs/)
 ---
 
-Computational Complexity --- 9/2/2025
+DARC --- 12/29/2023
 
-Coding Style Is ImportantDoes coding style matter? We teach students how to write code and about algorithms. But, do we discuss coding style? Some people may say that style is just personal preference. But, there is undoubtedly good style and bad...
+Der zweite Darc-Teaser „Staubkäfer“ ist online: Auch wenn es nur ein kurzer Clip ist, hat dieser im Hintergrund für recht viel Arbeit gesorgt – angefangen bei den „Props“, über den Gesang bis hin zu diversen Varianten der „Kamerafahrt“ – vielleicht...
 
 
-[Footnotes to the week: Mellor, Sets, Mozart](https://www.logicmatters.net/2025/08/30/footnotes-to-the-week-mellor-sets-mozart/)
+[DSA104 Marbo](http://dsa-intime.de/?p=1372)
 ---
 
-Blog - Logic Matters --- 8/30/2025
+DSA Intime Podcast --- 12/20/2023
 
-It is difficult to believe that Hugh Mellor died over five years ago: he was a very generous and loyal friend, and still much missed. And I have been thinking about him particularly this week, prompted by Tim Crane’s newly published biographical...
+Der Running Gag wird Wirklichkeit, heute reden wir über Marbo! Lange verlacht bekommt diese mysteriöse Halbgöttin dank Redditrecherche und Metaplot-Überraschungen doch mehr interessante Aspekte als gedacht. Doch wie von Boron abgrenzen? Lassen sich...
 
 
-[Equivalence via Surjections](https://golem.ph.utexas.edu/category/2025/08/equivalence_via_surjections.html)
+[Mit der ELF-Lizenz zur DSA-Revolution](https://www.arkanil.de/2023/12/mit-der-elf-lizenz-zur-dsa-revolution/)
 ---
 
-The n-Category Café --- 8/30/2025
+Arkanil --- 12/17/2023
 
-All equivalences are generated by just the strict, literally surjective ones.
+Arkanil - Mit DSA hat Ulisses einen Produktpfad eingeschlagen, den sie nicht verlassen können. Was also tun, wenn dieser Pfad in die Sackgasse führt? Ausweg bietet die ELF-Lizenz.
 
 
-[The Logical Argument](https://blog.computationalcomplexity.org/feeds/2498048294680683670/comments/default)
+[[Rezi] Forbidden Lands - Bloodmarch](https://bucheibon.blogspot.com/feeds/7158352780930143783/comments/default)
 ---
 
-Computational Complexity --- 8/27/2025
+Einige Seiten des Buches Eibon --- 11/26/2023
 
-This will be one of a series of posts that I've always wanted to write but I needed to wait until I was no longer an academic administrator.Logic is critical to proving theorems but it's the wrong way to argue for resources.When I was such an...
+„Bloodmarch“ ist die dritte Kampagne bzw. das dritte Setting für „Forbidden Lands“. Ein wichtiger Pass im Westen von Ravenland ist seit langer Zeit wieder passierbar. Was mag die Gruppe dahinter erwarten?Im Westen von Ravenland liegt Aslene, ein...
 
 
-[Inquiries-Week 4: Triangulate the Triangle](https://www.fractalkitty.com/inquiries-week-4-triangulate-the-triangle/)
+[[Rezi] New Hong Kong Story – Das Bündnis](https://bucheibon.blogspot.com/feeds/9022787045363741707/comments/default)
 ---
 
-Fractal Kitty --- 8/26/2025
+Einige Seiten des Buches Eibon --- 11/17/2023
 
-IntroductionIn this inquiry, triangles are dissected into smaller triangles with vertices labeled as either light (L), medium (M), or dark (D). Any triangles that are LMD triangles are shaded with color. Triangle playLet's start with a triangle...
+„Das Bündnis“ ist ein kurzes Abenteuer für das Wuxia-Action-Rollenspiel „New Hong Kong Story“. Es erschien zuerst als Posterabenteuer zum Gratisrollenspieltag 2019 und liegt nun als „Director’s Cut“ mit zusätzlichen Szenen und dem reichhaltigen...
 
 
-[Was the George Foreman Grill The Best Invention of the last 50 Years?](https://blog.computationalcomplexity.org/feeds/6463255190197618046/comments/default)
+[DSA103 RPG mit Kindern](http://dsa-intime.de/?p=1366)
 ---
 
-Computational Complexity --- 8/24/2025
+DSA Intime Podcast --- 11/6/2023
 
-(This post was inspired by George Foreman, who passed away March 21, 2025, at the age of 76.)About 10 years ago I asked my classWhat is the best invention or tech advance of the last 50 years?Here are the answers I got NOT ranked.1) The internet....
+Es ist nie zu früh, neue Spieler an das Hobby Rollenspiel heranzuführen aber wie macht man das? Kindbesitzer Michi berichtet, wie er mit seinem Nachwuchs spielt, welche Systeme er nutzt und ob das ganze eine gute Idee ist
 
 
-[Footnotes to the week: Russians, Venetians, Van Gogh](https://www.logicmatters.net/2025/08/23/footnotes-to-the-week/)
+[[Rezi] Spherechild, 3. Edition](https://bucheibon.blogspot.com/feeds/6967712646847073680/comments/default)
 ---
 
-Blog - Logic Matters --- 8/23/2025
+Einige Seiten des Buches Eibon --- 10/18/2023
 
-It is time to face the book problem again. We had to clear a whole floor-to-ceiling bay of bookshelves so our plumber could drop new pipework down at the back of the bay (long boring story). And we forced ourselves to be selective about what to...
+Sphärenkinder: Wesen in einer Welt, die Kontakt zu Gleichgesinnten in einer anderen Welt haben – und gemeinsam kämpfen sie gegen Gefahren, die alle Welten bedrohen. „Spherechild“ ist ein weltenübergreifendes Rollenspiel, in dem Fantasykriegerinnen...
 
 
-[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Kobe, Japan, September 2025](https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/)
+[[Rezi] Forbidden Lands – Book of Beasts](https://bucheibon.blogspot.com/feeds/7764346938817624131/comments/default)
 ---
 
-Joel David Hamkins --- 8/20/2025
+Einige Seiten des Buches Eibon --- 10/18/2023
 
-This will be a talk for the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Kobe, Japan, 2-5 September 2025. Many years ago, I was a JSPS Fellow at Kobe University, at the same time … Continue reading →
+Das „Book of Beasts“ ist ein neuer Quellenband für das Hexcrawl- und Fantasyrollenspiel „Forbidden Lands“ vom schwedischen Verlag Free League. Neben vielen neuen Monstern bietet es Tabellen mit Zufallsbegegnungen und anderen Informationen für die...
 
 
-[The Phone](https://blog.computationalcomplexity.org/feeds/3715509466111296781/comments/default)
+[Black Sword Hack Charakterbogen deutsch](https://craulabesh.wordpress.com/2023/10/04/black-sword-hack-charakterbogen-deutsch/)
 ---
 
-Computational Complexity --- 8/20/2025
+craulabesh --- 10/4/2023
 
-I've heard this story from a few places. A father watches Back to the Future II with his kid. The 1989 movie view of 2015 looks entirely different when in fact not much has changed except for the fashion and the lack of mobile phones. This is...
+EDIT: Beim Spielen hat sich ergeben, dass der Doom Die besser oben hingehört und etwas zu wenig Platz auf dem Bogen ist. Also hier die neue Version. Ursprünglicher Beitrag: basierend auf Black Sword Hack Character Sheet von The Skull as a Complete...
 
 
-[Did Turing ever halt? HPS Colloquium, Notre Dame, October 2025](https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/)
+[DSA102 Seelen](http://dsa-intime.de/?p=1358)
 ---
 
-Joel David Hamkins --- 8/18/2025
+DSA Intime Podcast --- 10/3/2023
 
-This will be a talk I shall give for the History and Philosophy of Science (HPS) Colloquium at the University of Notre Dame, 17 October 2025, 12:30-1:30 pm, 201 O’Shaughnessy Hall. Did Turing ever halt? Abstract. Alan Turing’s 1936 paper … Continue...
+Ja, wir müssen nochmal ran ans Thema Seelen, Nachleben, Die Seelenwaage und die Götter. Aus was bestehen Seelen? Für wen sind sie wie eine Ressource, was macht eine „gute“ Seele aus und warum wollen Dämonen unsere Seelen?
 
 
-[A few more notes about Tom L](https://blog.computationalcomplexity.org/feeds/5043973110978673055/comments/default)
+[Version 5 – Werkstattbericht – Vereinfachungen und die Zukunft](https://entaria.de/version-5-werkstattbericht-vereinfachungen-und-die-zukunft)
 ---
 
-Computational Complexity --- 8/18/2025
+Entaria --- 9/17/2023
 
-Tom Lehrer passed away on July 26, 2025, at the age of 97. I wrote a blog-obit here. One of my readers read the post and went down a rabbit hole (or did he?), which lead to a blog post about rabbit holes here. A few more notes about Tom L.1) When...
+Heute mal ein Ausblick, was gerade passiert. In den letzten Jahren – und jeder der Entaria kennt wird das bestimmt bestätigen – habe ich versucht, so viele Variationen, Regeln und Besonderheiten in das Regelwerk einzubauen. Da dies alles etwas zu...
 
 
-[Safeguarded AI Meeting](https://golem.ph.utexas.edu/category/2025/08/safeguarded_ai_meeting.html)
+[EWS 3.0 rβ5: Können hat Wert](https://www.1w6.org/deutsch/regeln/downloads/ews-30-rb5-danke)
 ---
 
-The n-Category Café --- 8/15/2025
+1w6 --- 8/26/2023
 
-This week, 50 category theorists and software engineers working on "safeguarded AI" are meeting in Bristol.
+Das EWS 3.0 rβ5 — Können hat Wert ist ein großer Meilenstein: Das Grundregelwerk wurde vollständig gegengelesen und korrigiert. Einen riesigen Dank an Christian, der über die gesamten 460 Seiten auf Stil und Form gegengelesen hat, und an VHR, die...
 
 
-[Total Pixel Space](https://blog.computationalcomplexity.org/feeds/237849973695373988/comments/default)
+[Lankhmar - die archetypische Stadt der Diebe](https://bucheibon.blogspot.com/feeds/8695656212381033493/comments/default)
 ---
 
-Computational Complexity --- 8/13/2025
+Einige Seiten des Buches Eibon --- 8/6/2023
 
-Last month the New York Times highlighted some AI generated short movies, including Total Pixel Space, by Jacob Adler that gets philosophical about information, à la infinite monkeys. It imagines the finite number of images and video that contain...
+Zurzeit läuft die Vorbestellungsaktion für DCC Lankhmar, eine prallgefüllte Box mit sofort spielbaren Informationen für die "Stadt der Diebe". Drei Hefte/Bücher, ein weiteres Heft mit Abenteuer, Sichtschirm, zwei Posterkarten, alles in einer...
 
 
-[My Tom L post inspired a mathematical definition of Rabbithole](https://blog.computationalcomplexity.org/feeds/97344310728185997/comments/default)
+[Die Befreiung Kestors](https://edalon.wordpress.com/2023/07/30/die-befreiung-kestors/)
 ---
 
-Computational Complexity --- 8/10/2025
+Rollenspiel-Blog --- 7/30/2023
 
-NICK: I read and enjoyed your blog post on Tom L (see here). I then spent 40 minutes down a rabbithole listening to his music on YouTube.BILL: You call that a rabbit hole?! A while back I spent 3 hours reading questions and answers on quora...
+Gestern traf sich unsere Rollenspielrunde wieder zu einer weiteren Spielsitzung und das waren die Ereignisse: Während unserer Fahrt in Richtung Reichlich trainiert Talahier den Umgang mit der Schicksalsklinge. Im Laufe der Zeit wird Talahier immer...
 
 
-[AI and ...](https://blog.computationalcomplexity.org/feeds/2751786907424371263/comments/default)
+[DSA101 Elfische Weltsicht](http://dsa-intime.de/?p=1350)
 ---
 
-Computational Complexity --- 8/7/2025
+DSA Intime Podcast --- 7/16/2023
 
-AI and VacationI'm back from my German vacation. This was my first AI vacation, by which I mean how I used AI to navigate a foreign country. Taking a picture of a hand-written menu board, not just to translate the dishes, but to get a description...
+Die mysteriösen Elfen lassen uns nicht los und somit stimmen wir erneut mit Elfenexperte Sigi unser harmonisches Lied an, um zu ergründen, wie Elfen die Welt sehen, wie badoc sie notwendigerweise werden, wie man damit umgeht und wie man sie …...
 
 
-[(BT) Diversity from (LC) Diversity](https://golem.ph.utexas.edu/category/2025/08/bt_diversity_from_lc_diversity.html)
+[DSA100 Jubiläum mit Michael](http://dsa-intime.de/?p=1342)
 ---
 
-The n-Category Café --- 8/5/2025
+DSA Intime Podcast --- 6/30/2023
 
-Comparing two mathematical notions of diversity.
+Vor 11 Jahren hat dieser Podcast angefangen. Seitdem ist viel passiert, unter anderem haben wir 100 Folgen aufgenommen. Wir feiern diese dritte Stelle mit einem alten Weggefährten, der uns in den Anfängen zur Seite stand: Michael. Was bedeutet...
 
 
-[Jack Morava](https://golem.ph.utexas.edu/category/2025/08/jack_morava_1.html)
+[Version 5 – Werkstattbericht – Illusionist und vieles mehr](https://entaria.de/version-5-werkstattbericht-xxxxxxxxxxxxxxxxx)
 ---
 
-The n-Category Café --- 8/2/2025
+Entaria --- 6/17/2023
 
-I hear that Jack Morava died on August 1, 2025.
+Ein kurzer Zwischenruf mit den neusten Änderungen bei Version 5 des Rollenspiels Entaria. Es gibt eine Vielzahl von neuen Eigenschaften für Kreaturen. Dabei wurden auch einige Kreaturen aufgepimpt. Es gibt einen brandheißen neuen Charakterbogen als...
 
 
-[The Duflo Isomorphism and the Harmonic Oscillator Hamiltonian](https://golem.ph.utexas.edu/category/2025/07/the_duflo_isomorphism_and_the.html)
+[[Rezi] Vaesen - Nordic Horror Roleplaying](https://bucheibon.blogspot.com/feeds/4051160154382909120/comments/default)
 ---
 
-The n-Category Café --- 7/28/2025
+Einige Seiten des Buches Eibon --- 5/22/2023
 
-Can the Duflo isomorphism explain the extra 1/2 in the Hamiltonian for the quantum harmonic oscillator?
+„Vaesen“ ist ein mystisches Rollenspiel von Free League. Die Industrialisierung drängt die mythischen Wesen Skandinaviens immer weiter zurück und sorgt für Konflikte zwischen ihnen und den Menschen. Die Charaktere gehören zu den wenigen Menschen,...
 
 
-[2-Rig Conjectures Proved?](https://golem.ph.utexas.edu/category/2025/07/2rig_conjectures_proved.html)
+[[Rezi]  Blade Runner The Roleplaying Game](https://bucheibon.blogspot.com/feeds/8862845923150237598/comments/default)
 ---
 
-The n-Category Café --- 7/25/2025
+Einige Seiten des Buches Eibon --- 5/22/2023
 
-Kevin Coulembier has come out with a paper claiming to prove some conjectures on 2-rigs that Todd Trimble, Joe Moeller and I made.
+“Blade Runner The Roleplaying Game” ist die Rollenspielumsetzung des berühmten Franchise. Der schwedische Verlag Free League hat sich des Themas angenommen und ein wunderhübsches und stimmungsvolles Spiel abgeliefert.Das „Starter Set“ habe ich...
 
 
-[FHE@PDX 2025](https://www.jeremykun.com/shortform/2025-07-25-0956/)
+[DSA99 Tod](http://dsa-intime.de/?p=1333)
 ---
 
-Math ∩ Programming --- 7/25/2025
+DSA Intime Podcast --- 5/8/2023
 
-On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at Google’s Portland, Oregon office. Though Portland is a small city, it’s becoming a hub for homomorphic encryption. Intel and Google both have a presence here, as well...
+Was passiert nach dem Tod? Welche Wege können Seelen nehmen, was davon können Sterbliche überhaupt wissen oder verstehen und welche Auswirkungen hat das Nachleben auf das Leben der Lebenden? Lohnt es sich, gut zu leben? Wir versuchen, die Totenwelt...
 
 
-[The Clowder Project](https://golem.ph.utexas.edu/category/2025/07/the_clowder_project.html)
+[Version 5 – Werkstattbericht – Neue Charakterbögen und mehr](https://entaria.de/version-5-werkstattbericht-neue-charakterboegen-und-mehr)
 ---
 
-The n-Category Café --- 7/25/2025
+Entaria --- 4/28/2023
 
-Announcing the Clowder Project: a wiki and reference work for category theory built using the same general infrastructure and tag system of the Stacks Project.
+Ein weiterer Bericht aus der Werkstatt zu Version 5 zum Rollenspiel ENTARIA wie immer kostenfrei auf entaria.de. Die wichtigsten Punkte sind: Gerade fertig geworden ist ein neuer Charakterbogen, inkl. einer Step-By-Step Anleitung für die Erstellung...
 
 
-[Lawvere's Work on Arms Control](https://golem.ph.utexas.edu/category/2025/07/lawveres_work_on_arms_control.html)
+[DSA98 Zwerge](http://dsa-intime.de/?p=1323)
 ---
 
-The n-Category Café --- 7/25/2025
+DSA Intime Podcast --- 4/4/2023
 
-Did you know that Lawvere did classified work on arms control in the 1960s, back when he was writing his thesis?
+Klein, rüstig, dickköpfig. So kennt man die Zwerge und so mag man sie auch. Aber sind sie auch mehr als ein Bündel Klischees? Kann man aus ihnen mehr rausholen als es die gängigen Abenteuer tun? Experte Ali führt uns in … Weiterlesen →
 
 
-[Counting with Categories (Part 3)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_2.html)
+[DSA97 Prinzipen](http://dsa-intime.de/?p=1318)
 ---
 
-The n-Category Café --- 7/24/2025
+DSA Intime Podcast --- 3/1/2023
 
-First lecture in a 4.5-hour minicourse on combinatorics with species.
+Was ist meinem Helden wichtig? Wofür würde er sterben? Hat er Prinzipen, von denen er niemals abweichen würde? Heute versuchen wir uns dem vielschichtigen Thema Prinzipien zu nähern. Wozu gibt es den Nachteil Prinzipientreue, wie kann man...
 
 
-[How to Count n-Ary Trees](https://golem.ph.utexas.edu/category/2025/07/counting_trees.html)
+[Im Fokus des Kriegsherrn](https://edalon.wordpress.com/2023/02/12/im-fokus-des-kriegsherrn/)
 ---
 
-The n-Category Café --- 7/24/2025
+Rollenspiel-Blog --- 2/12/2023
 
-How do you count rooted planar n-ary trees with a given number of leaves?  Use Lagrange inversion!
+An diesem Wochenende trafen wir uns nach längerer Pause wieder zum gemeinsamen Rollenspiel in den geborstenen Himmeln. Die jüngsten Ereignisse beschreibt folgender Bericht: Wir befinden uns auf der Überfahrt nach Drachengrat. Wir überlegen uns, was...
 
 
-[Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
+[[Rezi] Blade Runner RPG Runner Screen](https://bucheibon.blogspot.com/feeds/7425868232593561586/comments/default)
 ---
 
-Math ∩ Programming --- 7/18/2025
+Einige Seiten des Buches Eibon --- 2/12/2023
 
-I work on homomorphic encryption (HE or FHE for “fully” homomorphic encryption) and I have written a lot about it on this blog (see the relevant tag). This article is a collection of short answers to questions I see on various threads and news...
+Der Sichtschirm für das „Blade Runner RPG“ ist wie immer bei Free League ein Hardcover. Er wird als Einzelprodukt ohne zusätzliche Materialien verkauft.Einen Sichtschutz zu rezensieren ist nicht einfach. Was kann man schon groß sagen? Der...
 
 
-[The computable surreal numbers, Fudan University, July 2025](https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/)
+[[Rezi] Blade Runner RPG Starter Set](https://bucheibon.blogspot.com/feeds/1831196857703048815/comments/default)
 ---
 
-Joel David Hamkins --- 7/16/2025
+Einige Seiten des Buches Eibon --- 2/10/2023
 
-This will be a talk for the Fudan Logic Seminar at Fudan University, to be followed immediately by two talks for the Fudan Logic student seminar, forming a mini-conference for the logic group on 23 July 2025. Abstract. I shall … Continue reading →
+Kaum ein neues Rollenspiel, für das es nicht auch ein Starter Set gibt. So auch für das neue „Blade Runner RPG“ von Free League. Die Box enthält alles, was man braucht, um den ersten Fall der Blade Runner - sprich, der Spielercharaktere – stilvoll...
 
 
-[Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025](https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/)
+[[Rezi]  Magical Cops: Drachentanz](https://bucheibon.blogspot.com/feeds/3690178185547097594/comments/default)
 ---
 
-Joel David Hamkins --- 7/14/2025
+Einige Seiten des Buches Eibon --- 2/5/2023
 
-This will be a talk for the Seminar on Frontier Issues in Logic and Philosophy The First Forum on Logic and Philosophy 逻辑与哲学前沿问题研究”学术研讨会暨第一届逻辑与哲学论坛 Changchun, China, 18-20 July 2025 Pointwise definable end-extensions of models of arithmetic and set...
+„Magical Cops: Drachentanz” ist der "Pilotfilm" zu einer neuen Serie, in der Cops mit Martial Arts und magischen Kräften im modernen Hong Kong Fällen nachgehen, die mit dem Übernatürlichen zu tun haben. Natürlich handelt es sich hierbei nicht...
 
 
-[Take Two](https://www.fractalkitty.com/take-two-2/)
+[[Rezension] Hong Kong City Guide](https://bucheibon.blogspot.com/feeds/99501097320502176/comments/default)
 ---
 
-Fractal Kitty --- 7/11/2025
+Einige Seiten des Buches Eibon --- 1/16/2023
 
-Haiku + Codewith a second take dance with the first – tethered massorbiting encores .iframe-container {   position: relative;   width: 100%;   height: 0;   padding-bottom: 100%; /* 1:1 aspect ratio - square */   overflow: hidden;  ...
+Der „Hong Kong City Guide” ist eine Kartensammlung für die beliebteste Abenteuerorte in Hong Kong. Es sind Battlemaps für das Spiel „New Hong Kong Story“ oder andere moderne Rollenspiele. Dazu gibt es ein paar Tokens und ein Begleitheft mit...
 
 
-[Lecture series on the philosophy of mathematics](https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/)
+[Flyerbücher für EWS 3.0 mit Charakteren auf dem Flyer](https://www.1w6.org/deutsch/regeln/flyerbuecher/12x-flyer-beta1)
 ---
 
-Joel David Hamkins --- 7/9/2025
+1w6 --- 12/20/2022
 
-This will be a lecture series on the Philosophy of Mathematics at Fudan University in Shanghai, China, 30 June – 25 July 2025, as a part of the International Summer School program at Fudan University. Lectures given by Ruizhi Yang … Continue...
+Für den Gratisrollenspieltag nächstes Jahr habe ich die Flyerbücher überarbeitet, damit sie direkt von der Druckerei gefaltet und geliefert werden können. Klingt nicht nach viel, hat aber einen großen Einfluss: Damit lassen sich 1250 vollständige...
 
 
-[How the continuum hypothesis might have been a fundamental axiom, Lanzhou China, July 2025](https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/)
+[Zur Siegelkapsel](https://craulabesh.wordpress.com/2022/11/30/zur-siegelkapsel/)
 ---
 
-Joel David Hamkins --- 7/9/2025
+craulabesh --- 11/30/2022
 
-This will be a talk for the International Conference on the Philosophy of Mathematics, held at Lanzhou University, China, 25-27 July 2025. How the continuum hypothesis might have been a fundamental axiom Abstract. I shall describe a...
+gibt es hier einen schönen Link.
 
 
-[Inquiries-Week 3: Reflect and Rotate](https://www.fractalkitty.com/inquiries-week-3-r-and-rotate/)
+[Die Schwarze Katze: Aufhänger für Abenteuer](https://eisparadies.wordpress.com/2022/11/26/die-schwarze-katze-aufhanger-fur-abenteuer/)
 ---
 
-Fractal Kitty --- 7/3/2025
+Das Eisparadies --- 11/26/2022
 
-IntroductionExplore the reflection and rotation of polygons to discover the patterns that emerge.  Polygon PlayLet's start with a triangle ABC. We can rotate clockwise so that each vertex moves clockwise by one step: We can also reflect (or flip)...
+Mittlerweile habe ich seit anderthalb Jahren nichts mehr für „Die Schwarze Katze“ gemacht. Also kann ich ja mal ein paar Plotideen raushauen, die ich amüsant finde. Man kommt ja eh zu nix. Rabenkrieg Immer wieder werden tote Möwen gefunden. Was …...
 
 
-[Potentialist conceptions of infinity, Peking University, June 2025](https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/)
+[DSA96 Elfen](http://dsa-intime.de/?p=1314)
 ---
 
-Joel David Hamkins --- 6/23/2025
+DSA Intime Podcast --- 11/25/2022
 
-This will be a talk for the Conference on Infinity, a collaborative meeting of logicians and specialists in Chinese philosophy here at Peking University, 24 June 2025, in the philosophy department. Abstract. I shall lay out a spectrum of...
+Der Fantasyklassiker, der in DSA natürlich nicht fehlen darf: Die mysteriösen, perfekten, ewiglebenden Elfen. Eigenschaften, die auch auf unseren Gast Sigi zutreffen, der sich auf unsere niedere Seinsebene begeben hat, um mit uns die Lebensweise,...
 
 
-[TfE: On Post-Searlean Critiques of LLMs](https://deontologistics.co/2025/06/22/tfe-on-post-searlean-critiques-of-llms/)
+[[Rezi] The One Ring 2nd Edition](https://bucheibon.blogspot.com/feeds/8500064129572004809/comments/default)
 ---
 
-DEONTOLOGISTICS --- 6/22/2025
+Einige Seiten des Buches Eibon --- 10/22/2022
 
-Here’s a recent thread on philosophy of AI from Twitter/X, in which I address rather popular arguments made by Emily Bender and others to the effect that LLM outputs are strictly speaking meaningless. I think these argument are flawed, as I explain...
+“The One Ring” ist eines von vielen Rollenspielen, die in Tolkiens Mittelerde angesiedelt sind und die speziell dafür designt wurden, um Abenteuer in der Welt des „Herrn der Ringe“ spielen zu können. Die erste Edition wurde vielfach gelobt, weil...
 
