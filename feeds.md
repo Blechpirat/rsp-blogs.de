@@ -215,6 +215,14 @@ The Aperiodical --- 10/14/2025
 I was asked recently by a first-year maths undergrad student if I could recommend any books on problem-solving, as they were hoping to develop their problem-solving skills. Asking around some maths communication colleagues has resulted in an...
 
 
+[Viel davor und wenig danach](https://ralf-sandfuchs.de/blog/2025/10/12/viel-davor-und-wenig-danach/)
+---
+
+Der Sandkasten --- 10/12/2025
+
+Wenn du in den letzten Monaten meine Social-Media-Accounts verfolgt hast, könntest du das Gefühl bekommen, dass ich bis auf wenige Ausnahmen in ein kreatives Koma gefallen bin. Diese Einschätzung ist wahrscheinlich verständlich, existieren doch...
+
+
 [Delighted to be proved wrong](https://crookedtimber.org/2025/10/09/delighted-to-be-proved-wrong/)
 ---
 
@@ -789,12 +797,4 @@ This will be a talk for the Conference on Infinity, a collaborative meeting of l
 DEONTOLOGISTICS --- 6/22/2025
 
 Here’s a recent thread on philosophy of AI from Twitter/X, in which I address rather popular arguments made by Emily Bender and others to the effect that LLM outputs are strictly speaking meaningless. I think these argument are flawed, as I explain...
-
-
-[Lectures on Set Theory, Beijing, June 2025](https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/)
----
-
-Joel David Hamkins --- 6/11/2025
-
-This will be a lecture series at Peking University in Beijing in June 2025. Announcement at Peking University Course abstract. This will be a series of advanced lectures on set theory, treating diverse topics and particularly those illustrating how...
 
