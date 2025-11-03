@@ -1,42 +1,186 @@
 
-[Rollenspielrückblick Oktober 2025](http://clawdeenspielt.de/rollenspielrueckblick-oktober-2025/)
+[Neuerscheinungen November, Dezember, Januar – Romane im Winter 2025 – Worauf wir uns freuen](https://www.teilzeithelden.de/2025/11/01/neuerscheinungen-november-dezember-januar-romane-im-winter-2025-worauf-wir-uns-freuen/)
 ---
 
-Clawdeen spielt --- 11/1/2025
+Romane & Hörspiele Archive - Teilzeithelden --- 11/1/2025
 
-Die vorlesungsfreie Zeit hat noch bis in die Mitte des Oktobers hinein gereicht, was dazu geführt hat, dass ich einen richtig tollen Rollenspielmonat hatte. 😊 Anschaffungen Endlich konnte die Neuauflage von In den Fängen des Dämons für DSA 5...
+Von frostigen Welten über Sternenmagie bis hin zu verlorenen Erinnerungen: Der Winter 2025 liefert phantastische Neuerscheinungen voller Emotion und Ideenreichtum. Zwischen nordischer Mythologie, Romantasy und spekulativer Zukunftsvision findet...
 
 
-[Ein Blick ins Kreaturium: Blindgänger](https://darcage.de/ein-blick-ins-kreaturium-blindgaenger/)
+[On Tour: SPIEL 2025](https://steamtinkerer.de/2025/10/31/spiel-2025/)
 ---
 
-DARC --- 10/30/2025
+SteamTinkerers Klönschnack | KLNSCHNCK --- 10/31/2025
 
-Heute werfen wir auf unserem Kanal einen Blick auf die mit den Oblaten des Dartaros gemästeten und in eiserne Päpste gezwängten Blindgänger, welche verheerende Zerstörung anrichten, wenn sie ihr Ziel irgendwann erreicht haben. Abermals geht ein...
+Lesezeit:  2 MinutenWie jedes Jahr fand auch in diesem die SPIEL in Essen statt. Dieses Mal war Mirco zusammen mit Florian an zwei Tagen vor Ort und begaben sich in wilde Getümmel. Während der Rückfahrt sprachen die beiden über die Messe....
 
 
-[Tannbergs Burgstädte](https://darcage.de/tannbergs-burgstaedte/)
+[Das Schwarze Auge: „Der weiße See“? Abgehakt!](https://steamtinkerer.de/2025/10/30/das-schwarze-auge-der-weisse-see-abgehakt/)
 ---
 
-DARC --- 10/26/2025
+SteamTinkerers Klönschnack | KLNSCHNCK --- 10/30/2025
 
-Von Albheim bis nach Tannstadt – auf unserem Kanal werfen wir heute einen Blick auf Tannbergs Burgstädte. Besucht das zerstörte Albheim, hört vom Konflikt zwischen dem Kronenbund und der Grauwacht oder staunt über die Wunder von Tannstadt! Abermals...
+Lesezeit:  3 MinutenEs ist geschafft: Das erste Abenteuer der Theaterritter-Kampagne „Der weiße See“ konnte erfolgreich abgeschlossen werden. Im Mai dieses Jahres begannen wir mit der Theaterritter-Kampagne und nach mehreren Spielsitzungen ist der...
 
 
-[Ein Blick ins Kreaturium: Dichfresser](https://darcage.de/ein-blick-ins-kreaturium-dichfresser/)
+[The Smurfs Roleplaygame – Ein schlumpfiges Tischrollenspiel (Rezension)](https://www.teilzeithelden.de/2025/10/30/the-smurfs-roleplaygame-ein-schlumpfiges-tischrollenspiel-rezension/)
 ---
 
-DARC --- 10/16/2025
+Romane & Hörspiele Archive - Teilzeithelden --- 10/30/2025
 
-Nach einer kleinen Pause geht es heute endlich weiter auf unserem Kanal, angefangen mit den Dichfressern. Abermals geht ein dickes Danke an Erik von Balduins Maltischgebabbel für seine Unterstützung!
+Seit den 1950er Jahren begeistern die kleinen, blauen Geschöpfe Groß und Klein. Jetzt gibt es ein Pen-and-Paper-Rollenspiel, in dem man in die Rolle eines Schlumpfes oder einer Schlumpfine schlüpfen kann und Abenteuer erlebt. Dieses Spiel gibt es...
 
 
-[Schnupperrunde für ENTARIA](https://entaria.de/14841-2)
+[Mittwochstabelle: Loot bei einem SciFi-Söldner](https://doesrpgmanor.com/2025/10/29/tabelle-loot-bei-einem-scifi-soeldner/)
 ---
 
-Entaria --- 10/10/2025
+John Doe's RPG Manor --- 10/29/2025
 
-Moin, hier ein weiterer Termin für eine Schnupperrunde für ENTARIA. Für alle, die es mal ausprobieren möchten. Titel: Y-Trade Inc. (aus dem Starterset) System: ENTARIA www.entaria.de, Regel-Kenntnisse nicht erforderlich Setting / Genre: Soft-Sci-Fi...
+Eine kleine Zufallstabelle mit Dingen, die man von einem Söldner in Science Fiction-Settings looten kann.
+
+
+[Solarpunk 2050 – Für eine bessere Welt (Ersteindruck)](https://www.teilzeithelden.de/2025/10/28/solarpunk-2050-fuer-eine-bessere-welt-ersteindruck/)
+---
+
+Romane & Hörspiele Archive - Teilzeithelden --- 10/28/2025
+
+Artikelbild Solarpunk 2050 " data-image-caption="Artikelbild Solarpunk 2050 " data-medium-file="https://i0.wp.com/www.teilzeithelden.de/wp-content/uploads/2025/10/Solarpunk-2050-Artikelbild.jpg?fit=300%2C163&ssl=1"...
+
+
+[Theobalds Ziel – Dreamcatcher #26](https://tripletwenty.net/2025/10/26/theobalds-ziel-dreamcatcher-26/)
+---
+
+TripleTwenty --- 10/26/2025
+
+Um Theobald aufzuhalten, müssen die Freunde herausfinden, was er vorhat. Oder zumindest, wohin er unterwegs ist..
+
+
+[Die Bibliographie Teil 4](https://nandurion.de/blog/2025/10/24/die-bibliographie-teil-4/)
+---
+
+Nandurion --- 10/24/2025
+
+Mit dem vierten Band der Bibliographie des Schwarzen Auges schließt sich der Kreis – vorerst. Nach 40 Jahren DSA und vier gewichtigen Bänden liegt nun das wohl vollständigste Kompendium über die Produkte aus Aventurien, Myranor und Co. vor. Der...
+
+
+[The Will of the Many (James Islington) – Eine komplexe Dystopie im römischen Gewand (Rezension)](https://www.teilzeithelden.de/2025/10/24/the-will-of-the-many-james-islington-eine-komplexe-dystopie-im-roemischen-gewand-rezension/)
+---
+
+Romane & Hörspiele Archive - Teilzeithelden --- 10/24/2025
+
+Eine Republik, welche den Willen der Menschen als Ressource zur Macht nutzt und eine Waise, die das System zerstören will. Das sind die Grundzutaten von The Will of the Many und Auftrakt der Hierachy-Reihe. Doch kann ein Einzelner die Welt wirklich...
+
+
+[Cozy Fantasy – entspannter Rückzugsort oder leiser Widerstand?](https://www.teilzeithelden.de/2025/10/23/cozy-fantasy-entspannter-rueckzugsort-oder-leiser-widerstand/)
+---
+
+Romane & Hörspiele Archive - Teilzeithelden --- 10/23/2025
+
+Zwischen Drachen, Magie und dampfendem Milchschaum hat sich ein neues Lieblingsgenre etabliert: Cozy Fantasy. Es erzählt von Freundschaft statt Krieg, von Fürsorge statt Held*innentum und trifft damit den Nerv der Zeit. Doch steckt hinter all der...
+
+
+[SPIEL 2025 – Viele Neuheiten an Rollenspiel-Zubehör](https://www.teilzeithelden.de/2025/10/22/spiel-2025-viele-neuheiten-an-rollenspiel-zubehoer/)
+---
+
+Romane & Hörspiele Archive - Teilzeithelden --- 10/22/2025
+
+Vom kleinen Würfel bis zum vollwertigen Holztisch: Neben zahlreichen neuen Rollenspiel-Systemen gibt es auf der SPIEL Essen 2025 wieder jede Menge Zubehör. Wer hübsche Dicetrays, Würfeltürme oder Spielleitungsschirme sucht, wird bei einer Reihe an...
+
+
+[Mittwochstabelle: Coriolis – The Great Dark | 6 Dinge, die Fraktionen von Corioliten wollen](https://doesrpgmanor.com/2025/10/22/tabelle-coriolis-the-great-dark-dinge-von-corioliten-wollen/)
+---
+
+John Doe's RPG Manor --- 10/21/2025
+
+Dies sind eine Reihe von Plothooks, die genutzt werden können, wenn die Gruppe einen Heist durchführen soll, oder einen vorangegangenen aufklären.
+
+
+[SPIEL 2025 – Internationale Rollenspiel-Neuheiten](https://www.teilzeithelden.de/2025/10/21/spiel-2025-internationale-rollenspiel-neuheiten/)
+---
+
+Romane & Hörspiele Archive - Teilzeithelden --- 10/21/2025
+
+Rollenspiele bringen Menschen zusammen, auch über nationale Grenzen hinweg. Dieses Jahr auf der SPIEL Essen gibt es wieder viele Neuheiten aus Italien und Großbritannien, aber auch Belgien und sogar Australien. Eine vielfältige Auswahl erwartet uns...
+
+
+[Random Table: Coriolis – The Great Dark | 6 things that factions want from Coriolites](https://doesrpgmanor.com/2025/10/20/random-table-coriolis-the-great-dark-things-from-coriolites/)
+---
+
+John Doe's RPG Manor --- 10/20/2025
+
+These are a series of plot hooks that can be used when the group is tasked with carrying out a heist or investigating a previous one.
+
+
+[SPIEL 2025 – Deutsche Rollenspiel-Neuheiten – Große und ganz kleine Spiele](https://www.teilzeithelden.de/2025/10/20/spiel-2025-deutsche-rollenspiel-neuheiten-grosse-und-ganz-kleine-spiele/)
+---
+
+Romane & Hörspiele Archive - Teilzeithelden --- 10/20/2025
+
+Was ist gerade los bei den deutschen Rollenspielverlagen? Jedes Jahr im Oktober wird diese Frage besonders spannend, da dann die SPIEL Essen ihre Tore öffnet. Wie immer haben wir uns um einen kleinen Neuigkeiten-Fahrplan gekümmert, damit man...
+
+
+[SPIEL 2025 – Rollenspiel-Neuheiten von Free League](https://www.teilzeithelden.de/2025/10/19/spiel-2025-rollenspiel-neuheiten-von-free-league/)
+---
+
+Romane & Hörspiele Archive - Teilzeithelden --- 10/19/2025
+
+Von düsterem Sci-Fi bis zu neuen Abenteuern in Mittelerde: Der schwedische Verlag Free League hat zur SPIEL 2025 einige Neuheiten im Gepäck, darunter eine neue Edition des Alien RPG, gleich mehrere Erweiterungen zum Folkhorror-Setting Vaesen und...
+
+
+[SPIEL 2025 – Rollenspiel-Neuheiten bei Cubicle 7 (Halle 2, 2B345)](https://www.teilzeithelden.de/2025/10/18/spiel-2025-rollenspiel-neuheiten-bei-cubicle-7-halle-2-2b345/)
+---
+
+Romane & Hörspiele Archive - Teilzeithelden --- 10/18/2025
+
+Cubicle 7 gastiert diesmal in Halle 2, Stand 2B345 und hat das ein oder andere für uns in petto. Seit einigen Jahren verantwortet der Verlag nun schon alle Pen-and-Paper-Systeme aus dem Warhammer-Universum, aber auch jenseits der grimmen Zukunft...
+
+
+[THE QUEST: Zu Besuch in einer von D&D inspirierten Fantasy-Impro-Show](https://steamtinkerer.de/2025/10/18/the-quest-zu-besuch-in-einer-von-dd-inspirierten-fantasy-impro-show/)
+---
+
+SteamTinkerers Klönschnack | KLNSCHNCK --- 10/18/2025
+
+Lesezeit:  3 MinutenEine Fantasy-Impro-Show für Fans von Pen-&-Paper-Rollenspielenden mitten in Hamburg: THE QUEST. Am 12. Oktober 2025 hatte ich das Vergnügen, eine ganz besondere Show besuchen zu dürfen: THE QUEST. Und wenn ich „besonders“...
+
+
+[MIDGARD Kodex: Sieben kamen nach Corrinis](https://steamtinkerer.de/2025/10/18/midgard-kodex-sieben-kamen-nach-corrinis/)
+---
+
+SteamTinkerers Klönschnack | KLNSCHNCK --- 10/18/2025
+
+Lesezeit:  2 MinutenEin spielbereites Stadtabenteuer für die 3. Edition von MIDGARD: „Sieben kamen nach Corrinis“. Mit dem Erscheinen der Box „MIDGARD – Das Fantasy-Rollenspiel“ war es nur eine Frage der Zeit, bis die ersten Abenteuer für die...
+
+
+[POLARIS 2025: Ein Wochenende voller Jubel, Trubel, Heiterkeit](https://steamtinkerer.de/2025/10/17/polaris-2025-ein-wochenende-voller-jubel-trubel-heiterkeit/)
+---
+
+SteamTinkerers Klönschnack | KLNSCHNCK --- 10/17/2025
+
+Lesezeit:  2 MinutenAuch in diesem Jahr fand im wunderschönen Hamburg die POLARIS statt. Und das mittlerweile zum vierten Mal! Natürlich war einer unserer Podcaster wieder mittendrin statt nur dabei: Mirco. Doch wie war das diesjährige...
+
+
+[Warum wir spielen](https://nandurion.de/blog/2025/10/10/warum-wir-spielen/)
+---
+
+Nandurion --- 10/10/2025
+
+Nach einer ausgefallenen Rollenspielrunde macht sich Xeledons fleißiger Spötter Krassling wieder einmal Gedanken über das Spielen an sich. Die Sinnfrage lautet diesmal warum wir eigentlich Rollenspiele spielen. In einer Welt voller billiger...
+
+
+[Scorp spielt Solo – S³ – Exo Tomb](https://www.die-dorp.de/blog/scorp-spielt-solo-s%c2%b3-exo-tomb/)
+---
+
+Die DORP --- 10/8/2025
+
+Ich bin durch ein Discord-Posting von Dice per Second auf dieses Spiel aufmerksam geworden. Und dann erinnerte ich mich erst, dass es eines der Tabletops war, das ich auf der Feencon dieses Jahr verpasst hatte. Exo Tomb ist ein Solo-Würfelspiel mit...
+
+
+[Mittwochstabelle: 6 sich anbahnende Techtelmechtel](https://doesrpgmanor.com/2025/10/08/tabelle-anbahnende-techtelmechtel/)
+---
+
+John Doe's RPG Manor --- 10/7/2025
+
+Die Stimmung ist gelöst, vielleicht weil gerade ein Fest ist, möglicherweise gab es gute Nachrichten. Auf jeden Fall lassen es sich die Leute im Dorf gut gehen und das beinhaltet auch, dass manche auf ein eigenes Abenteuer mit den gut aussehenden...
 
 
 [Party Creation with Core Drivers](https://www.1w6.org/english/core-drivers)
@@ -47,292 +191,292 @@ Moin, hier ein weiterer Termin für eine Schnupperrunde für ENTARIA. Für alle,
 Create your Roleplaying Party based on core drivers.    core-drivers.pdf    core-drivers-backside.pdf  diverse core drivers with visual examples strengthen your group dynamics through their conflicts practical guidelines for deciding...
 
 
-[Rollenspielrückblick September 2025](http://clawdeenspielt.de/rollenspielrueckblick-september-2025/)
+[Aventurische Krimis – Im Gespräch mit DSA-Autorin Katja Angenent](https://steamtinkerer.de/2025/10/06/aventurische-krimis-im-gespraech-mit-dsa-autorin-katja-angenent/)
 ---
 
-Clawdeen spielt --- 10/1/2025
+SteamTinkerers Klönschnack | KLNSCHNCK --- 10/6/2025
 
-Der September war ein toller Rollenspielmonat, endlich mal wieder. Anschaffungen Das mit den maximal 30€ hat im September nicht geklappt, soviel vorweg. Das Übeltäterbuch ist links auch gleich als Bild zu sehen. Mit dem Datapuls ADL und dem...
+Lesezeit:  2 MinutenMit „Die Elfe vom Veitner Moor“ feierte der erste Roman von Katja Angenent ein Debüt, der in der fantastischen Welt von Das Schwarze Auge spielt. Auf der diesjährigen RatCon erblickte schließlich ihr zweiter Roman mit dem Titel...
 
 
-[Ein Blick ins Kreaturium: Drekavak](https://darcage.de/ein-blick-ins-kreaturium-drekavak/)
+[Relevant oder nicht? Feiertage in Pen-&-Paper-Rollenspielen](https://steamtinkerer.de/2025/10/03/relevant-oder-nicht-feiertage-in-pen-paper-rollenspielen/)
 ---
 
-DARC --- 9/22/2025
+SteamTinkerers Klönschnack | KLNSCHNCK --- 10/3/2025
 
-Heute werfen wir auf unserem YouTube-Kanal abermals einen Blick ins Kreaturium. Nach den engelhaften Cherubim vom letzten Mal wird es heute mit den Drekavak etwas düsterer… Abermals geht ein dickes Danke an Erik von Balduins Maltischgebabbel für...
+Lesezeit:  2 MinutenIn vielen Fantasywelten sind sie ein fester Bestandteil: Die Feiertage! Aber sind diese wirklich relevant oder eher nur etwas „fürs Auge“? FeyTiane und Mirco haben sich dieses Thema angenommen und ausführlich darüber gesprochen....
 
 
-[Über die Kreuzkirche](https://darcage.de/ueber-die-kreuzkirche/)
+[Random Table: Coriolis – The Great Dark | The first assignment](https://doesrpgmanor.com/2025/10/01/random-table-coriolis-the-great-dark-the-first-assignment/)
 ---
 
-DARC --- 9/17/2025
+John Doe's RPG Manor --- 10/1/2025
 
-Der Glaube – jener wichtige Bestandteil kreuzländischen Lebens – wurde durch den Himmelsfall in seinen Grundfesten erschüttert und ging natürlich auch an der Kreuzkirche nicht spurlos vorbei. Die daraus resultierenden Glaubenskonflikte und...
+Both the adventure The Sky Machine from the Quickstarter and The Black Ziggurat from the core rulebook of Coriolis – The Great Dark assume that the Delver Crew of the PCs has already completed a mission. To make it easier for you to work out what...
 
 
-[Helden wollen immer nur wissen „Wer ist der Dunkle Herrscher?“, und nie „Wie geht es dem Dunklen Herrscher?“](https://d6ideas.com/helden-wollen-immer-nur-wissen-wer-ist-der-dunkle-herrscher-und-nie-wie-geht-es-dem-dunklen-herrscher/)
+[Mittwochstabelle: Coriolis – The Great Dark | Der erste Auftrag](https://doesrpgmanor.com/2025/10/01/tabelle-coriolis-the-great-dark-der-erste-auftrag/)
 ---
 
-d6ideas --- 9/13/2025
+John Doe's RPG Manor --- 9/30/2025
 
-Würfle einen W12. Der Dunkle Herrscher ist … … traurig … ängstlich … gelangweilt … müde … hungrig … einsam … wütend … gestresst … angewidert … nervös … zweifelnd […]
+Diese Zufallstabelle dient dazu, vergangene Aufträge der SC in Coriolis – The Great Dark zu generieren, um ihrem Hintergrund etwas mehr Leben zu verleihen.
 
 
-[Die Musai neu betrachtet – Überlegungen für Unknown Mobile Suit](https://d6ideas.com/die-musai-neu-betrachtet-ueberlegungen-fuer-unknown-mobile-suit/)
+[Ergebnis der Umfrage, wie sich die DSA-Szene in den letzten 5 Jahren verändert hat](https://nandurion.de/blog/2025/09/27/ergebnis-der-umfrage-wie-sich-die-dsa-szene-in-den-letzten-5-jahren-veraendert-hat/)
 ---
 
-d6ideas --- 9/13/2025
+Nandurion --- 9/27/2025
 
-Aus manchen Ausgangssetzungen für Unkonwn Mobils Suit als Kampagne kombiniert mit der Bemühung um Plausibilisierung innerhalb dieser Setzungen und Kernelementen des Quellenmaterials ergeben sich immer wieder neue Erkenntnisse über das […]
+Wir haben gefragt, wie sich die DSA-Szene in den letzten fünf Jahren verändert hat und welche Faktoren dabei am größten waren. Eure Antworten waren interessant zu lesen und sprechen viele Aspekte an. Insgesamt haben 53 teilgenommen, wovon 24 ihre...
 
 
-[Ein Blick ins Kreaturium: Cherubim](https://darcage.de/ein-blick-ins-kreaturium-cherubim/)
+[Freitags NSC: Coriolitisches Fliegerass](https://doesrpgmanor.com/2025/09/26/nsc-coriolitisches-fliegerass-ctgd/)
 ---
 
-DARC --- 9/13/2025
+John Doe's RPG Manor --- 9/25/2025
 
-Während noch das letzte Behördenmühlen abgewartet wird, bevor es mit Burning Books endlich losgehen kann, gibt es einen ersten Einblick ins Kreaturium von DARC, welches über 80 Einträge beinhaltet. Nach der umfangreichen Klassenvorstellung...
+Thaamire Ashur mir-Menkar ist Fliegerass und Coriolitin, die als NSC für Coriolis – The Great Dark gedacht ist.
 
 
-[Spielbare Klassen](https://darcage.de/spielbare-klassen/)
+[NPC Casting: Coriolite flying ace](https://doesrpgmanor.com/2025/09/25/npc-casting-coriolite-flying-ace/)
 ---
 
-DARC --- 9/10/2025
+John Doe's RPG Manor --- 9/25/2025
 
-Nach dem Video zu den spielbaren Kulturen geht es heute weiter mit den Beschreibungen der Klassen von DARC. Wer in die Rolle von Hexenjägern, Rabenmönchen oder Flagellanten schlüpfen will, erfährt hier, was es mit der jeweiligen Klasse im Setting...
+Thaamira Ashur mir-Menkar is a flying ace NPC for Coriolis – The Great Dark.
 
 
-[Rollenspielrückblick August 2025](http://clawdeenspielt.de/rollenspielrueckblick-august-2025/)
+[MIDGARD Kodex: Welt der Abenteuer](https://steamtinkerer.de/2025/09/25/midgard-kodex-welt-der-abenteuer/)
 ---
 
-Clawdeen spielt --- 9/8/2025
+SteamTinkerers Klönschnack | KLNSCHNCK --- 9/25/2025
 
-Der September ist schon einige Tage alt und es fehlt noch der Monatsrückblick für August. Das zeigt durchaus schon mal als Teaser, dass einiges los war im August. Leider rollenspielerisch nicht so sehr. Anschaffungen Erstmals in diesem Jahr waren...
+Lesezeit:  2 MinutenWelt der Abenteuer. Eine Ergänzung für die 3. Edition von MIDGARD. 1990 erschien bei KLEE-Spiele mit „Welt der Abenteuer“ eine Box für die 3. Edition von MIDGARD. Die Box war nicht nur eine Ergänzung, sondern zugleich der zweite...
 
 
-[Neuer Feed](http://dsa-intime.de/?p=1448)
+[Mittwochstabelle: 6 besondere Getränke in der Taverne](https://doesrpgmanor.com/2025/09/24/tabelle-6-besondere-getraenke/)
 ---
 
-DSA Intime Podcast --- 9/7/2025
+John Doe's RPG Manor --- 9/23/2025
 
-Hallo liebe Hörer,ab jetzt gibt es uns im neuen, modernen Feed. Für die meisten Hörenden sollte die Umstellung automatisch laufen, aber bei denen, wo das nicht klappt, folgt dem Link des rote Icons rechts in der Seitenleiste oder direkt...
+In der Taverne wird getrunken. Falls es nicht immer Bier sein soll, kommt auch mal die lokale Spezialität auf den Tisch! Wird es munden?
 
 
-[[Rezi] New Hong Kong Story: Tasty Tiger Drunken Dragon](https://bucheibon.blogspot.com/feeds/3989936670136390894/comments/default)
+[Wilde Spekulationen: Steht DSA 6 in den Startlöchern?](https://steamtinkerer.de/2025/09/22/wilde-spekulationen-steht-dsa-6-in-den-startloechern/)
 ---
 
-Einige Seiten des Buches Eibon --- 9/5/2025
+SteamTinkerers Klönschnack | KLNSCHNCK --- 9/22/2025
 
-„Tasty Tiger, Drunken Dragon“ ist ein Abenteuer und Minisetting für „New Hong Kong Story“. Es verbindet Wuxia, Kochkunst und ein wenig Parodie in einer kleinen Sandbox mit genug Inhalt, um einen Film mit Überlänge zu drehen (sprich: mehrere...
+Lesezeit:  2 MinutenWer die Keynote auf der diesjährigen RatCon in Langen verfolgt hat, wird wissen, dass in den kommenden Monaten eine Vielzahl an tollen Produkten für Das Schwarze Auge erscheinen wird. Aber irgendwie hat das Ganze auch die Frage...
 
 
-[Spielbare Kulturen](https://darcage.de/spielbare-kulturen/)
+[On Tour: RatCon 2025](https://steamtinkerer.de/2025/09/19/on-tour-ratcon-2025/)
 ---
 
-DARC --- 9/3/2025
+SteamTinkerers Klönschnack | KLNSCHNCK --- 9/19/2025
 
-DARC steht bereits in den Startlöchern, allerdings muss ich noch auf ein paar letzte Behördenmühlen warten, bevor es losgehen kann. Zur Überbrückung der Wartezeit gibt es daher etwas Vorstellungsmaterial in Videoform, angefangen mit den spielbaren...
+Lesezeit:  2 MinutenAnfang September 2025 fand die RatCon in der Neuen Stadthalle in Langen statt. Nach vielen Jahren stattete Mirco der Convention wieder einen Besuch ab. Doch er war nicht allein dort, denn Max begleitete ihn. Und für ihn wiederum...
 
 
-[Berechnete Welt(en)geschichte (Anhang: die Oktavian-Konstellation 31 Angelcan – eine Welt für SLA Industries)](https://d6ideas.com/berechnete-weltengeschichte-anhang-die-oktavian-konstellation-31-angelcan-eine-welt-fuer-sla-industries/)
+[Mittwochstabelle: 6 Gründe, warum der Handwerker im Dorf heute nicht kann](https://doesrpgmanor.com/2025/09/17/tabelle-gruende-warum-handwerker-im-dorf-nicht-kann/)
 ---
 
-d6ideas --- 8/31/2025
+John Doe's RPG Manor --- 9/16/2025
 
-Passend zum sich alle Jahre wieder wiederholenden Ärgernis von RPGaDay werde ich diesen Monat einunddreißigmal den gleichen Artikel wiederholen. Passend auch zum dieses Jahr von grannus drüben beim kritischen Fehlschlag […]
+Früher oder später müssen fast alle Abenteurer:innen mal Handwerker:innen aufsuchen. Was, wenn einer aber keine Zeit hat? Und warum?
 
 
-[Berechnete Welt(en)geschichte (Anhang: die Oktavian-Konstellation 30 Defenseless – eine Welt für SLA Industries)](https://d6ideas.com/berechnete-weltengeschichte-anhang-die-oktavian-konstellation-30-defenseless-eine-welt-fuer-sla-industries/)
+[Experimente – Dreamcatcher #25](https://tripletwenty.net/2025/09/14/dreamcatcher-exprimente/)
 ---
 
-d6ideas --- 8/30/2025
+TripleTwenty --- 9/14/2025
 
-Passend zum sich alle Jahre wieder wiederholenden Ärgernis von RPGaDay werde ich diesen Monat einunddreißigmal den gleichen Artikel wiederholen. Passend auch zum dieses Jahr von grannus drüben beim kritischen Fehlschlag […]
+Auf dem Weg zurück nach Utik nutzt die Crew die Zeit, um mehr über die Kristalle zu erfahren. Außerdem lernen Unuk und Maggie mehr über die kleinen Gnome, die sie aus Drasuv mitgenommen haben.
 
 
-[Berechnete Welt(en)geschichte (Anhang: die Oktavian-Konstellation 29 White Fox – eine Welt für SLA Industries)](https://d6ideas.com/berechnete-weltengeschichte-anhang-die-oktavian-konstellation-29-white-fox-eine-welt-fuer-sla-industries/)
+[Scorp spielt Solo – S³ – Tea & Toadstools](https://www.die-dorp.de/blog/scorp-spielt-solo-s%c2%b3-tea-toadstools/)
 ---
 
-d6ideas --- 8/29/2025
+Die DORP --- 9/10/2025
 
-Passend zum sich alle Jahre wieder wiederholenden Ärgernis von RPGaDay werde ich diesen Monat einunddreißigmal den gleichen Artikel wiederholen. Passend auch zum dieses Jahr von grannus drüben beim kritischen Fehlschlag […]
+Auf der Rin-Con in den Niederlanden konnte ich mir ja die Printfassung von Tea & Toadstools sichern (siehe Blogbeitrag). Auf deren Homepage gibt es nicht nur eine digitale Fassung, die mit 9 € zwar immer noch verhältnismäßig teuer ist, aber erstens...
 
 
-[Berechnete Welt(en)geschichte (Anhang: die Oktavian-Konstellation 28 Dream – eine Welt für SLA Industries)](https://d6ideas.com/berechnete-weltengeschichte-anhang-die-oktavian-konstellation-28-dream-eine-welt-fuer-sla-industries/)
+[Frage an euch: Wie hat sich die DSA-Szene in den letzten fünf Jahren verändert?](https://nandurion.de/blog/2025/09/10/frage-an-euch-wie-hat-sich-die-dsa-szene-in-den-letzten-fuenf-jahren-veraendert/)
 ---
 
-d6ideas --- 8/28/2025
+Nandurion --- 9/10/2025
 
-Passend zum sich alle Jahre wieder wiederholenden Ärgernis von RPGaDay werde ich diesen Monat einunddreißigmal den gleichen Artikel wiederholen. Passend auch zum dieses Jahr von grannus drüben beim kritischen Fehlschlag […]
+Die Vorgeschichte Vor ein paar Tagen suchte ich eine alte Fan-Illustration und musste mich trotz Suchfunktion durch viele Beiträge auf Discord durchwühlen. Dabei kam so ein vages Gefühl hoch, es sei früher insgesamt viel mehr los gewesen in der...
 
 
-[ENTARIA Version 5 – Spielrunde zum Kennenlernen](https://entaria.de/entaria-version-5-spielrunde-zum-kennenlernen)
+[Wenn der Berg ruft](https://nandurion.de/blog/2025/09/05/wenn-der-berg-ruft/)
 ---
 
-Entaria --- 8/28/2025
+Nandurion --- 9/5/2025
 
-Heute keine News, sondern der Hinweis, dass ich am 12. September einen OneShot für alle halten werde, die ENTARIA kennenlernen möchten. Hier die technischen Daten: Titel: Y-Trade Inc. (aus dem Starterset) System: ENTARIA www.entaria.de,...
+Im März 2024 war es endlich soweit. Mit dem Hardcover-Abenteuer Der Ruf des Berges begann das zwergische Heldenzeitalter. Als Prolog zur vierteiligen Kampagne um Brandans Pakt ist der Band gewissermaßen der Wegbereiter dieser urzwergischen Kampagne...
 
 
-[BattleMusic – Oger, Foundation & MechWarrior](https://d6ideas.com/battlemusic-oger-foundation-mechwarrior/)
+[Rezension: Kanäle von Grangor – Eine Zeitblase und ein TPK](https://dnalorsblog.wordpress.com/2025/09/04/rezension-kanale-von-grangor-eine-zeitblase-und-ein-tpk/)
 ---
 
-d6ideas --- 8/27/2025
+#deutsch – dnalorsblog --- 9/4/2025
 
-Basierend auf und ergänzend zu Ogers Psychohistorik für MechWarrior: Mech-Scale Visi-Sonor 3 Tonnen 4 Zeilen Reichweite 1-3/4-6/7-9 Ein Visi-Sonor kann nur in einer Einheit, die per Neurohelm kontrolliert wird, installiert […]
+Vor kurzem hat Village Idiot beim Kritischer Fehlschlag Blog einen Beitrag veröffentlicht, bei dem es um den Untergang Dammstadts ging. In der Weihnachtsnacht 1332 brannte Dammstadt komplett nieder. Und sollte der geneigte Leser jetzt, noch nie...
 
 
-[Berechnete Welt(en)geschichte (Anhang: die Oktavian-Konstellation 27 Ibb – eine Welt für SLA Industries)](https://d6ideas.com/berechnete-weltengeschichte-anhang-die-oktavian-konstellation-27-ibb-eine-welt-fuer-sla-industries/)
+[Scorp spielt Solo – S³ – Vier gegen die Finsternis](https://www.die-dorp.de/blog/scorp-spielt-solo-s%c2%b3-vier-gegen-die-finsternis/)
 ---
 
-d6ideas --- 8/27/2025
+Die DORP --- 9/3/2025
 
-Passend zum sich alle Jahre wieder wiederholenden Ärgernis von RPGaDay werde ich diesen Monat einunddreißigmal den gleichen Artikel wiederholen. Passend auch zum dieses Jahr von grannus drüben beim kritischen Fehlschlag […]
+Vier gegen die Finsternis erschien 2022 auf Deutsch beim System Matters Verlag im kleinformatigen Hardcover-Band. Der Solo-Dungeoncrawler schickt einen Spieler mit vier Helden in einen Dungeon, der genauso wie seine Bewohner und Inhalte komplett...
 
 
-[Berechnete Welt(en)geschichte (Anhang: die Oktavian-Konstellation 26 Black Silesia – eine Welt für SLA Industries)](https://d6ideas.com/berechnete-weltengeschichte-anhang-die-oktavian-konstellation-26-black-silesia-eine-welt-fuer-sla-industries/)
+[Zufallstabellen #11 – Göttliches Wirken](https://tripletwenty.net/2025/09/03/zufallstabellen-11/)
 ---
 
-d6ideas --- 8/26/2025
+TripleTwenty --- 9/3/2025
 
-Passend zum sich alle Jahre wieder wiederholenden Ärgernis von RPGaDay werde ich diesen Monat einunddreißigmal den gleichen Artikel wiederholen. Passend auch zum dieses Jahr von grannus drüben beim kritischen Fehlschlag […]
+Das ist die zehnte und damit vorerst letzte Zufallstabelle. Ich hoffe, ihr hattet Spaß beim Lesen und konntet einige Inspirationen mitnehmen! Tabellenübersicht – Alte Götter Über welche Opfer sich ein alter Gott wirklich freuen würde Warum eine...
 
 
-[Berechnete Welt(en)geschichte (Anhang: die Oktavian-Konstellation 25 Second Sea – eine Welt für SLA Industries)](https://d6ideas.com/berechnete-weltengeschichte-anhang-die-oktavian-konstellation-25-second-sea-eine-welt-fuer-sla-industries/)
+[Rezension: In den Fängen des Dämons – Ein Blick in den Rückspiegel](https://dnalorsblog.wordpress.com/2025/09/01/rezension-in-den-fangen-des-damons-ein-blick-in-den-ruckspiegel/)
 ---
 
-d6ideas --- 8/25/2025
+#deutsch – dnalorsblog --- 9/1/2025
 
-Passend zum sich alle Jahre wieder wiederholenden Ärgernis von RPGaDay werde ich diesen Monat einunddreißigmal den gleichen Artikel wiederholen. Passend auch zum dieses Jahr von grannus drüben beim kritischen Fehlschlag […]
+Es ist grade Anfang Juli 2025 habe grade interessante Neuigkeiten erfahren. Es wird an einer Überarbeitung des Klassikers In den Fängen des Dämons gearbeitet, die Vorab-PDF ist nun, wenn der Artikel hier online geht, bei den Mitgliedern des...
 
 
-[Rollenspielrückblick Juli 2025](http://clawdeenspielt.de/rollenspielrueckblick-juli-2025/)
+[Notfallprotokoll 42 – Dreamcatcher #24](https://tripletwenty.net/2025/08/28/dreamcatcher-24/)
 ---
 
-Clawdeen spielt --- 8/1/2025
+TripleTwenty --- 8/28/2025
 
-Während im Juni einiges los war, sieht es im Juli leider ganz anders aus. Die Prüfungszeit hat begonnen und zieht sich bis Ende August, sodass ich meine Prioritäten leider anders verteilen muss und auch den Youtubekanal bis dahin in den...
+Die Gruppe entkommt aus dem alten Tempel, doch bezahlt auf der Flucht einen hohen Preis
 
 
-[ENTARIA Version 5 – Zusammenarbeit mit Künstlern, Generatoren und neue Talentgruppe](https://entaria.de/13635-2)
+[GESCHICHTEN FÜR DIE FIKTION und Bestiarium: Der Gorgonenkaninchenbau](https://dnalorsblog.wordpress.com/2025/08/28/geschichten-fur-die-fiktion-und-bestiarium-der-gorgonenkaninchenbau/)
 ---
 
-Entaria --- 7/31/2025
+#deutsch – dnalorsblog --- 8/28/2025
 
-Viele schöne Neuigkeiten heute. Zusammenarbeit mit Künstlern Die Ergebnisse der Zusammenarbeit mit echten Künstlern tragen weiter Früchte. Ich fand die Ergebnisse so gut, das ich sie mir an die Wand gehängt habe. Vielen Dank an: smitchellmaps...
+Vor ein paar Wochen bin ich auf Facebook über dieses Real gestolpert. Interessant, dachte ich, da möchte ich mehr wissen und Schwups… war ich mitten im Kaninchenbau. Medusa, Gorgonen, übereifrige Meeresgötter, Phönizier, die letzen Neandertaler,...
 
 
-[Rollenspielrückblick Juni 2025](http://clawdeenspielt.de/rollenspielrueckblick-juni-2025/)
+[Zufallstabellen #10 – Kleine Seltsamkeiten](https://tripletwenty.net/2025/08/27/zufallstabellen-10-kleine-seltsamkeiten/)
 ---
 
-Clawdeen spielt --- 7/3/2025
+TripleTwenty --- 8/27/2025
 
-Im Juni gab es so einiges Neues! Anschaffungen Im Juni gab es für mich den Schnellstarter von Historia in Print (10€), ebenso das Grundregelwerk. Letzteres habe ich geschenkt bekommen, rechne ich darum ganz frech auch nicht mit ein. Gegönnt hatten...
+Tabellenübersicht – Kleine Seltsamkeiten Was ein alter Mann macht, anstatt seine Aufgaben zu erledigen Was sich im linken Schuh des Dorfnarren versteckt Welches Ereignis den Hauptmann der Banditen zu einem aufrechten Bürger machte Dinge, die die...
 
 
-[Der Eismann schaut Star Wars 9](https://eisparadies.wordpress.com/2025/07/02/der-eismann-schaut-star-wars-9/)
+[GESCHICHTEN FÜR DIE FIKTION: Götz von Berlichingen und Hans Kohlhase – Der Ritter mit der einsenen Faust und ein Händler mit Rachedurst](https://dnalorsblog.wordpress.com/2025/08/25/geschichten-fur-die-fiktion-gotz-von-berlichingen-und-hans-kohlhase-der-ritter-mit-der-einsenen-faust-und-ein-handler-mit-rachedurst/)
 ---
 
-Das Eisparadies --- 7/2/2025
+#deutsch – dnalorsblog --- 8/25/2025
 
-Achtung! Spoiler zu Star Wars 9!Hurra, wir sind durch! Und ich muss sagen, Nummer 9 war echt ok. Nicht „300 Millionen Dollar“-gut, aber ok. Zuerst muss man aber erstmal über einen großen Berg guten Willens, um in die Handlung zu … Weiterlesen →
+Für den Ogers Gegen-RPG-A-DAY 2025 möchte ich heute mal zwe schillernde Figuren aus der Geschichte näher beleuchten, die man gerne ins Rollenspiel importieren kann. Götz von Berlichingen, der Ritter mit der eisernen Faust Gottfried „Götz“ von...
 
 
-[Der Eismann schaut Star Wars 8](https://eisparadies.wordpress.com/2025/06/29/der-eismann-schaut-star-wars-8/)
+[#RPGaDay – Recent](https://dnalorsblog.wordpress.com/2025/08/23/rpgaday-recent-2/)
 ---
 
-Das Eisparadies --- 6/29/2025
+#deutsch – dnalorsblog --- 8/23/2025
 
-Achtung! Spoiler zu Star Wars 8!Zugegeben, ich bin nicht sonderlich neutral in den Film eingestiegen, da mit vorher schon erklärt wurde, dass er schrecklich ist. Aber ich habe mir Mühe gegeben.Der Film besteht im Kern aus zwei Plotlines, die mehr …...
+Vor kurzem veröffentlichte JFS auf dem Blog Kritischer Fehlschlag einen Eintrag zur Bergenstadter Tanzwut, die als Vorbild die Straßburger Tanzwut von 1518 hatte. Tanzwut… da hab ich doch auch was im Archiv… Aja: Hier ein Beitrag aus 2018, in dem...
 
 
-[Der Eismann schaut Star Wars 7](https://eisparadies.wordpress.com/2025/06/28/der-eismann-schaut-star-wars-7/)
+[Zufallstabellen #9 – Glaube](https://tripletwenty.net/2025/08/20/zufallstabellen-9-glaube/)
 ---
 
-Das Eisparadies --- 6/28/2025
+TripleTwenty --- 8/20/2025
 
-Achtung! Spoiler zu Star Wars 7!Ich habe mich sehr lange Zeit davor gedrückt mir Star Wars 7-9 anzuschauen. Die Kritiken waren schlecht bis vernichtend und ich wollte mir meine Jugenderinnerungen nicht versauen lassen. Aber im Rahmen unterhaltsamer...
+Tabellenübersicht – Glaube und Tempel Was eine Priesterin in ihrer Freizeit macht Geheime Leidenschaften eines Paladins Dinge, die ein Priester weiß, aber nicht verraten kann Gründe, warum eine Heilerin ihr Gelübde brach Leibgerichte der Obersten...
 
 
-[Es ist nicht tot, was ewig liegt…](https://darcage.de/es-ist-nicht-tot-was-ewig-liegt/)
+[GESCHICHTEN FÜR DIE FIKTION: König Ludwig II von Bayern – Bayerns schwuler Märchenkönig](https://dnalorsblog.wordpress.com/2025/08/18/geschichten-fur-die-fiktion-konig-ludwig-ii-von-bayern-bayerns-schwuler-marchenkonig/)
 ---
 
-DARC --- 6/22/2025
+#deutsch – dnalorsblog --- 8/18/2025
 
-Über ein Jahr keine News mehr hier auf der Seite?! Frechtheit! Dabei gab es doch welche! Allerdings nur in Form von Videos auf unserem YouTube-Kanal, statt hier, wo sie eigentlich hingehören. Aber ist ja noch alles da – solltest Du beispielsweise...
+König Ludwig II von Bayern war, visionär, einsam, seltsam, traumatisiert, chronisch pleite und stockschwul. Passend zum Thema GESCHICHTEN FÜR DIE FIKTION des Gegen-RPG-A-Day möchte ich euch den wohl bekanntesten König Bayerns vorstellen. Als Bayer...
 
 
-[Katzenjammer: 40 Cats – Ein Konzept](https://eisparadies.wordpress.com/2025/06/17/katzenjammer-40-cats-ein-konzept/)
+[The boys are back in town – Rückkehr auf rpg-blogs](https://dnalorsblog.wordpress.com/2025/08/14/the-boys-are-back-in-town-ruckkehr-auf-rpg-blogs/)
 ---
 
-Das Eisparadies --- 6/17/2025
+#deutsch – dnalorsblog --- 8/14/2025
 
-Leider ist der Spin Off von „Die Schwarze Katze“ unter dem Namen „Katzenjammer: 40 Cats“ aus Gründen nie über ein Konzeptpapier hinaus gekommen. Aber da die Idee zu schade ist, um sie irgendwo auf einer Festplatte verschimmeln zu lassen, hier …...
+Ich bin wieder daaaa! Nach dem ich korz aus der Leiste geflogen bin, weil ich böser, böser Troll hier alte Beiträge in neuen Schlauchen gespammt habe, bin ich wieder zurück auf rpg-blogs.de! Hier eine Übersicht über alle Artikel, die ihr so...
 
 
-[Rückblick NordCon](http://clawdeenspielt.de/rueckblick-nordcon/)
+[Das Rennen zur versunkenen Oase](https://dnalorsblog.wordpress.com/2025/08/14/das-rennen-zur-versunkenen-oase/)
 ---
 
-Clawdeen spielt --- 6/16/2025
+#deutsch – dnalorsblog --- 8/14/2025
 
-Wir waren zum ersten Mal auf der NordCon, also gibts dazu natürlich ein paar Eindrücke. Im Vorfeld Tatsächlich wollte ich schon immer mal gern zur NordCon, weil ich so viel Gutes darüber gehört hatte und mich (vor Corona) auch immer das Angebot an...
+Ich schiebe jetzt die Queste schon ein Jahr vor mir her, es wird Zeit, sie abzugeben. Hier meine Version eines Rennen-Abenteuers, wie immer geschrieben für DSA1-Rakshazar und wie immer sollte das Abenteuer auch leicht in andere Systeme übertragbar...
 
 
-[Rollenspielrückblick Mai 2025](http://clawdeenspielt.de/rollenspielrueckblick-mai-2025/)
+[Zufallstabellen #8 – Verlorene Zivilisationen](https://tripletwenty.net/2025/08/13/zufallstabellen-8-verlorene-zivilisationen/)
 ---
 
-Clawdeen spielt --- 6/1/2025
+TripleTwenty --- 8/13/2025
 
-Zunächst eine kleine Beichte: Da hab ich im letzten Rückblick doch glatt gelogen. Geschrieben hatte ich, dass ich mir lediglich zwei Schnellstarter und das „Spielleitung 1×1“ zu City of Mist gekauft hätte. Tatsächlich habe ich dabei die...
+Tabellenübersicht – Verlorene Zivilisationen Gründe für den Untergang einer alten Stadt Legenden über Schätze einer verlorenen Stadt Wesen, die in den Ruinen einer alten Stadt leben Köstliche Speisen, die nur noch aus Erzählungen bekannt sind...
 
 
-[Spielerfahrung mit dem Sleepy Hollow RPG](http://clawdeenspielt.de/spielerfahrung-mit-dem-sleepy-hollow-rpg/)
+[GESCHICHTEN FÜR DIE FIKTION: Schottische Kannibalen und tiefe Höhlen](https://dnalorsblog.wordpress.com/2025/08/11/geschichten-fur-die-fiktion-schottische-kannibalen-und-tiefe-hohlen/)
 ---
 
-Clawdeen spielt --- 5/17/2025
+#deutsch – dnalorsblog --- 8/11/2025
 
-Ich hatte vor einer Weile bereits einen Artikel zum Sleepy Hollow RPG geschrieben, und auch ein Video habe ich als Überblick zum Spiel erstellt. Nachdem wir nun die Gelegenheit hatten, das Ganze auch mal im Rahmen eines Oneshots (Teil 1, Teil 2) zu...
+Der Wahrheitsgehalt der heutigen Geschichte für die Fiktion ist… zumindest Zweifelhaft, denn für die Geschichte gibt es, ähnlich wie für die Geschichte von Sadie the Goat, nur eine Quelle, von der dann andere abgeschrieben haben und von dieser...
 
 
-[1. Buchmesse Ingolstadt](http://clawdeenspielt.de/erste_buchmesse_ingolstadt/)
+[GESCHICHTEN FÜR DIE FIKTION: Magische Schwerter](https://dnalorsblog.wordpress.com/2025/08/07/geschichten-fur-die-fiktion-magische-schwerter/)
 ---
 
-Clawdeen spielt --- 5/10/2025
+#deutsch – dnalorsblog --- 8/7/2025
 
-Man kann wirklich nicht behaupten, dass es im Umfeld keine Leute gäbe, die einfach mal machen würden. So entstand die MicroCon Ingolstadt, über die ich letztens schon geschrieben habe. Gleiches gilt auch für die 1. Buchmesse Ingolstadts namens...
+In meinem heutigen Beitrag geht es um einen Gegenstand aus den Mythen der realen Welt, die die fiktionalen Welten unserer Rollenspiele beeinflusst. Mehr Geschichten für die Fiktion geht nicht. Es geht um magische Schwerter (oder Waffen, wenn man...
 
 
-[Erkundungen auf Reue](https://edalon.wordpress.com/2025/05/04/erkundungen-auf-reue/)
+[Zufallstabellen #7 – Magie und Zauber](https://tripletwenty.net/2025/08/06/zufallstabellen-7-magie-und-zauber/)
 ---
 
-Rollenspiel-Blog --- 5/4/2025
+TripleTwenty --- 8/6/2025
 
-Gestern stürzten wir uns erneut ins Abenteuer in die geborstenen Himmel. Hier kommt Dagians Bericht dazu: Unsere Reise nach Reue dauert zwei Wochen.Talahier wirkt seit der Einnahme des Segens der Lebensmutter deutlich entspannter und...
+Tabellenübersicht – Magie und Zauber Zaubertränke im Regal eines Hexers Dinge, die eine Zauberin erfreuen würden Dinge, die eine Zauberin fürchten würde Auswirkungen harmloser Flüche Pannen auf dem großen Fest der Magier Gründe für einen...
 
 
-[Rollenspielrückblick April 2025](http://clawdeenspielt.de/rollenspielrueckblick-april-2025/)
+[Die Bibliographie Teil 3](https://nandurion.de/blog/2025/08/01/die-bibliographie-teil-3/)
 ---
 
-Clawdeen spielt --- 4/30/2025
+Nandurion --- 8/1/2025
 
-Der April-Rückblick fällt dank diverser Zeitfresser leider unter die Kategorie „kurz und knapp“. Anschaffungen Bei dem einen oder anderen Spiel/Buch war ich mehrfach kurz versucht zuzuschlagen, habe mich letztlich aber dagegen entschieden. Zugelegt...
+Mit dem dritten Teil der Bibliographie des Schwarzen Auges wird der Fokus nun auf die Dekade der vierten Edition gelegt. Der Umfang der Produkte nimmt deutlich zu und das Schwarze Auge stößt in neue Welten vor. Umfangreiche Kampagnen verändern das...
 
 
-[ENTARIA Version 5 – Status Buch, Updates, Medic und Zufallstabellen](https://entaria.de/entaria-version-5)
+[Daggerheart Part 2](https://tripletwenty.net/2025/08/01/daggerheart-part-2/)
 ---
 
-Entaria --- 4/26/2025
+TripleTwenty --- 8/1/2025
 
-Hier ein Update zur Version 5 von dem Weltraumrollenspiel ENTARIA. Status zum Buch Das Korrekturlesen des kompletten Regelwerks kommt gut voran. Dabei werden viele Passagen gekürzt und umgeschrieben. Grafiken für die Spezies sind fast alle...
+Die Gruppe findet ihre Kontaktperson und erlangt einen Blick in die Kiste. Nebenbei werden viele Fragen zu Vertrauen, dem natürlichen Wuchs von Lichtungen und der Kommandokette aufgeworfen.
 
 
-[DSA112 Immersion](http://dsa-intime.de/?p=1439)
+[Zufallstabellen #6 – Dörflicher Aberglaube](https://tripletwenty.net/2025/07/30/zufallstabellen-6-doerflicher-aberglaube/)
 ---
 
-DSA Intime Podcast --- 3/11/2025
+TripleTwenty --- 7/30/2025
 
-Eintauchen in eine andere Welt. Das ist für viele Rollenspieler das aller wichtigste. Aber dieses Eintauchen ist sehr zerbrechlich, es kann von allen Seiten zerstört und verhindert werden. Wir versuchen uns heute, dieser mysteriösen Immersion zu...
+Tabellenübersicht – Dörflicher Aberglaube Dinge, die hinter der nächsten Ecke lauern Mythische Wesen, die Kinder nachts sehen Was die Leute sagen, wenn der Mond verschwindet Seltsame Dinge, die am Dorfbrunnen passieren Dinge, vor denen die...
 
 
 [Gruppenerschaffung mit Grundantrieben](https://www.1w6.org/deutsch/regeln/gruppenflyer)
@@ -343,116 +487,52 @@ Eintauchen in eine andere Welt. Das ist für viele Rollenspieler das aller wicht
 Ein systemunabhängiger A5-Flyer für die Gratisrollenspieltage 2025: Erschafft eure Gruppe aus ihren Grundantrieben. Vielfältigere Antriebe durch praktische Beispiele Verstärkte Gruppendynamik durch deren Widersprüche Eine konkrete...
 
 
-[DSA111 Improvisation](http://dsa-intime.de/?p=1433)
+[Die Bibliographie Teil 1](https://nandurion.de/blog/2025/01/31/die-bibliographie-teil-1/)
 ---
 
-DSA Intime Podcast --- 2/4/2025
+Nandurion --- 1/31/2025
 
-„Pen&Paper ist Improtheater mit Würfeln!“ aber stimmt das wirklich? Wie nah sind sich Rollenspiel und Bühnenimprovisation? Florentin teilt zwei wichtige Grundsätze der Improv Comedy: Yes And und Know Care Say und wir besprechen, ob und wie sie auf...
+Das Jubiläumsjahr des Schwarzen Auges ist vorbei und doch hat es uns das eine oder andere hinterlassen. Die groß angekündigte Bibliographie des Schwarzen Auges erschien im Jubiläumsjahr 2024 zwar nur mit ihrem ersten Teil, doch die weiteren Bände...
 
 
-[Der Segen der Lebensmutter](https://edalon.wordpress.com/2025/02/02/der-segen-der-lebensmutter/)
+[Beginn in Brig-Lo](https://nandurion.de/blog/2025/01/06/beginn-in-brig-lo/)
 ---
 
-Rollenspiel-Blog --- 2/2/2025
+Nandurion --- 1/6/2025
 
-Nach mehr als einjähriger Pause ging es gestern wieder in den geborstenen Himmeln weiter. Es folgt Dagians Bericht über die aktuellen Ereignisse: Schwer verletzt schauen wir uns auf Kestor um. Auf den Feldern wachsen etwa Dutzend verschiedene Pilze...
+Das Jahr 2025 startet mit vielen Plänen und Verheißungen. Nachdem 2024 das 40jährige Jubiläum des Schwarzen Auges gesehen hat, beendeten wir das letzte Jahr mit einem Rückblick auf diese 40 Jahre. Auch wenn Xeledons Spötter Krassling den Blick...
 
 
-[[Rezi] Mutant Year Zero – Zone Wars: Robots & Psionics](https://bucheibon.blogspot.com/feeds/2536122404906974354/comments/default)
+[Firuns Vorsätze](https://nandurion.de/blog/2025/01/03/firuns-vorsaetze/)
 ---
 
-Einige Seiten des Buches Eibon --- 2/1/2025
+Nandurion --- 1/3/2025
 
-Das taktische Kampfspiel „Zone Wars“ im Mutant-Year-Zero-Universum bietet die Möglichkeit mit maximal vier Spielerinnen und Spielern jeweils bis zu fünf Figuren in unterschiedlichen Szenarien gegeneinander antreten zu lassen. Damit das...
+Alveran.orgs Abgesang war der Geburtshelfer von Nandus Neuigkeiten. Jenseits von schlechten Alliterationen fand man auf Nandurion.de bald auch Simias Werkbank und Xeledons Spottgesang. Die Werkbank ist heute weitgehend durch das Scriptorium...
 
 
-[[Rezi] Exogenom - ein Rollenspielsoundtrack](https://bucheibon.blogspot.com/feeds/6693076451111087304/comments/default)
+[Der lange Jahresrückblick](https://nandurion.de/blog/2024/12/31/der-lange-jahresrueckblick/)
 ---
 
-Einige Seiten des Buches Eibon --- 2/1/2025
+Nandurion --- 12/31/2024
 
-„Exogenom“ ist ein Sci-Fi-Rollenspiel in der Entwicklung. Doch schon jetzt kann man Musik dafür erwerben. Es ist elektronische Instrumentalmusik, die im Hintergrund während des Spiels oder bei der Vorbereitung für den nächsten Spielabend gespielt...
+Das Jahr 2024 geht zu Ende und manche Dinge, die uns vor nicht allzu langer Zeit noch in Angst und Schrecken versetzten, sind inzwischen zum Alltag geworden. Für das Schwarze Auge war es auch das Jahr des 40. Geburtstags. Nachdem … Weiterlesen →
 
 
-[[Rezi]  Mutant: Year Zero Zone Wars](https://bucheibon.blogspot.com/feeds/8720688771108334158/comments/default)
+[Satinavs Ketten bei GOG](https://nandurion.de/blog/2024/12/28/satinavs-ketten-bei-gog/)
 ---
 
-Einige Seiten des Buches Eibon --- 2/1/2025
+Nandurion --- 12/28/2024
 
-Der Untertitel dieses Spiels lautet: „Skirmish Mayhem in the Mutant: Year Zero Universe“, was genau beschreibt, was uns bei der Box erwartet. Free League liefert ein einfaches Tabletop-Spiel für ein bis zwei Spielerinnen und Spieler und maximal 10...
+Kurzentschlossene haben aktuell die Möglichkeit bei GOG, einer Plattform für alte Computerspiele, kostenlos an Satinavs Ketten zu kommen. Die Plattform bietet noch bis Montag Nachmittag das Point-and-Click Adventure kostenlos zum Download an....
 
 
-[DSA110 Beschworene Wesen](http://dsa-intime.de/?p=1427)
+[Rückblick zum Greifenpass](https://nandurion.de/blog/2024/12/22/rueckblick-zum-greifenpass/)
 ---
 
-DSA Intime Podcast --- 12/21/2024
+Nandurion --- 12/22/2024
 
-Nachdem zwei mächtige Podcaster ihre gesamte Kraft in einem langen Ritual aufgebraucht haben, erschien aus dem Nichts ein mächtiges Wesen vergangener Zeit: Ali. Mit ihm diskutierten die Beschwörer, wie man am besten mit Elementaren, Dämonen, Golems...
-
-
-[ENTARIA Version 5 – letzte Prüfung, Layout, Grafiken, Mookup](https://entaria.de/entaria-version-5-letzte-pruefung-layout-grafiken-mookup)
----
-
-Entaria --- 12/16/2024
-
-Der nächste große Schritt beginnt: Die Vorbereitung für den Druck des Regelwerks! Dazu gehören: Korrekturlesen, Grafiken und Layout. Die Korrektur ist nun für das Grundregelwerk und für das Spielleiter-Buch abgeschlossen. Als Nächstes kommt dann...
-
-
-[DSA109 Dämonen als Götter](http://dsa-intime.de/?p=1421)
----
-
-DSA Intime Podcast --- 11/5/2024
-
-Es tut sich was in der Welt von DSA, das Zauberwort lautet Karmakorthäon! Neue Götter ersetzen alte Götter, Götter als Dämonen, Dämonen als Götter, alles ist denkbar. Aber wie sinnvoll sind solche Veränderungen? Was ist der Unterschied zwischen...
-
-
-[ENTARIA Version 5 – Werkstattbericht – Neues Abenteuer, Crafting & außergewöhnliche Gegenstände](https://entaria.de/entaria-version-5-werkstattbericht-neues-abenteuer-crafting-aussergewoehnliche-gegenstaende)
----
-
-Entaria --- 10/19/2024
-
-Ein weiteres Update für die Version 5 von dem Rollenspiel ENTARIA. Neue Mission »Ausgrabung auf Buuthiti« Ein neues Kurzabenteuer, in dem die Krallen/Spielcharaktere eine Ausgrabungsexpedition begleiten, wobei es dort natürliche und...
-
-
-[Painkiller on Tour: Oklahoma City](https://eisparadies.wordpress.com/2024/10/18/painkiller-on-tour-oklahoma-city/)
----
-
-Das Eisparadies --- 10/18/2024
-
-Ich habe mich recht kurzfristig entschlossen in Oklahoma City einen Zwischenstopp einzulegen auf dem Weg nach Dallas, aber ich muss sagen, die Ernte war reichlich. Das erste Ziel sollte eigentlich das Unplugged im Norden sein, aber es hatte noch...
-
-
-[Painkiller on Tour: Denver](https://eisparadies.wordpress.com/2024/10/10/painkiller-on-tour-denver/)
----
-
-Das Eisparadies --- 10/10/2024
-
-Im Zentrum der Stadt gibt es zum Thema Rollenspiele recht wenig, aber im Umland findet man noch einige interessante Läden. In Littleton gibt es da zum Beispiel Night Owl Games. Ein recht typischer Laden mit Schwerpunkt auf Brettspiele und Trading …...
-
-
-[Painkiller on Tour: Colorado (rund um Denver)](https://eisparadies.wordpress.com/2024/10/10/painkiller-on-tour-colorado-rund-um-denver/)
----
-
-Das Eisparadies --- 10/10/2024
-
-Mittlerweile hat es mich nach Denver verschlagen, und als braver Rollenspielnerd besuche ich auch hier die verschiedenen Läden. Da es so viele sind, habe ich mit den Regionen um Denver herum angefangen. Chaos Games in Pueblo ist ein recht uriger …...
-
-
-[Painkiller on Tour: Texas](https://eisparadies.wordpress.com/2024/10/04/painkiller-on-tour-texas/)
----
-
-Das Eisparadies --- 10/4/2024
-
-Momentan bin ich auf einer Recherchetour von Nordtexas bis rauf nach Denver für das Painkiller-Projekt (näheres im Tanelorn)..Und natürlich lasse ich es mir nicht nehmen mir auf dem Weg jeden Rollenspielladen anzuschauen, den ich finden kann. Es...
-
-
-[DSA108 Regeln](http://dsa-intime.de/?p=1412)
----
-
-DSA Intime Podcast --- 9/10/2024
-
-DSA ist berüchtigt für sein umfangreiches Regelwerk. Doch welchen Zweck haben Regeln eigentlich im Rollenspiel und wann kann man sie getrost weglassen? Darf man Regeln biegen und anpassen? Ein komplexes Thema für das wir uns Sigi als Unterstützung...
+Der Winter hat begonnen. Hier bei uns steht nun das Weihnachtsfest bevor. Im letzten Teil des winterlichen Abenteuers Über den Greifenpass blickt Alt-Einhorn Krassling nun zurück und lässt die Geschichte noch einmal Revue passieren. Haben die...
 
 
 [Nein, ich will nicht alle hier haben](https://www.1w6.org/blog/drak/2024-09-02-nein)
@@ -463,44 +543,12 @@ DSA ist berüchtigt für sein umfangreiches Regelwerk. Doch welchen Zweck haben 
 Wenn ihr Neonazis stärkt oder Neonazis seid, geht bitte. Ich habe dann kein Interesse, mit euch Kontakt zu haben, oder euch in irgendeiner Weise zu unterstützen. Ihr habt hier nichts zu suchen. Danke an HPG Station für einen Anfang. Das Gute...
 
 
-[ENTARIA Version 5 – Werkstattbericht – Fahrzeuge, Kreaturen und Besiegt](https://entaria.de/10970-2)
----
-
-Entaria --- 7/27/2024
-
-Ein weiter Blick in die Werkstatt von Version 5, für das TTRPG Entaria. Die größten Änderungen sind: Neue Fahrzeugkonstruktion und Fahrzeugkampfregeln Die Konstruktion ist stark verknappt und vereinfacht worden. Dafür hat nun jede Talentgruppe ein...
-
-
-[Jubiläumseintrag: Von Video- und Rollenspielen](https://eisparadies.wordpress.com/2024/07/21/jubilaumseintrag-von-video-und-rollenspielen/)
----
-
-Das Eisparadies --- 7/21/2024
-
-13 Jahre Eisparadies! Da muss natürlich ein Eintrag her! Nachdem ich nun einige Jahre mit der Entwicklung von Videospielen zugebracht hat (zuletzt beim Senior Health Game Lab der Hochschule Trier, u.a. mit dem Sprachübungsspiel Carls Wortspiele),...
-
-
-[DSA107 Heldentum](http://dsa-intime.de/?p=1405)
----
-
-DSA Intime Podcast --- 7/10/2024
-
-Ein Thema so titanisch-umfangreich, dass es zwei echte Helden braucht, um es anzugehen! Sind DSA-Charaktere Helden? Und was sind Helden? Wie viel Heldenmut kann der Meister voraussetzen und mit wie viel Wagemut kommen die Spieler davon?
-
-
 [Technophob-Flyer für den heimischen Drucker (größer)](https://www.1w6.org/deutsch/regeln/flyerbuecher/12x-flyer-selbst-drucken)
 ---
 
 1w6 --- 5/26/2024
 
 Die Technophob-Flyer für den GRT 2024 gibt es jetzt auch in einer Druckerfreundlicheren Variante — also als vier DinA4-Seiten statt 6 Din-Lang Seiten. Wir haben damit gerade zum Ausklang des Towel Day in Arnes 42-ten Geburtstag...
-
-
-[DSA106 Mada](http://dsa-intime.de/?p=1393)
----
-
-DSA Intime Podcast --- 5/11/2024
-
-Madas Frevel ist ein zentrales Ereignis der Geschichte von DSA. Viel mehr wissen die meisten Spieler aber wahrscheinlich nicht über die Halbgöttin Mada. Was waren ihre Beweggründe, wie wird sie heutzutage verehrt und wie nah kommt sie den Idealen...
 
 
 [Bei Orkenspalter TV zu „GratisRollenspielTage: Indie-Talk“](https://www.1w6.org/deutsch/regeln/flyerbuecher/12x-flyer-grt2024-bei-orkenspaltertv)
@@ -511,116 +559,12 @@ Madas Frevel ist ein zentrales Ereignis der Geschichte von DSA. Viel mehr wissen
 „Indie und die Indies“-Abend bei Orkenspalter TV (Mhaire und Nico) auf Youtube. Aufnahmen von letzter Woche jetzt auf youtube! mit den Indi-Bastler*innen Lil von Feenlicht https://feenlicht-rollenspiel.de/ (bezeichnet sich nicht als „wie...
 
 
-[ENTARIA Version 5 – Werkstattbericht – Gute und schlechte Nachrichten](https://entaria.de/entaria-version-5-werkstattbericht-gute-und-schlechte-nachrichten)
----
-
-Entaria --- 3/21/2024
-
-Für das Brett-Rollenspiel ENTARIA, dem universellen klassischem Weltraumabenteuer, gibt es einen neuen Bericht aus der Werkstatt….. und es gibt gute und schlechte Nachrichten. Zu den Guten zählt, dass der Plan aus September, das Kampfraster...
-
-
-[DSA105 LARP](http://dsa-intime.de/?p=1382)
----
-
-DSA Intime Podcast --- 2/26/2024
-
-Die Welt von DSA kann nicht nur im Pen&Paper-Keller erkundet werden, sondern auch an der Frischen Luft in Form von LARP! Doch beim Live Action Role Play läuft das Ganze etwas anders ab als am Spieltisch und was genau man … Weiterlesen →
-
-
 [Flyerbücher zu RaumZeit/Technophob für den GRT 2024](https://www.1w6.org/deutsch/regeln/flyerbuecher/12x-flyer-grt2024)
 ---
 
 1w6 --- 2/18/2024
 
 Vom 16. bis 23. März 2024 sind die Gratisrollenspieltage 2024! Unser Beitrag, die Flyerbücher für den GRT 2024, ist gedruckt und bei Pegasus angekommen:    Einseitig zum Falten — Zwei Flyer, Doppelseitig — Vierseitig für den privaten...
-
-
-[Darc-Teaser „Staubkäfer“ online und dazugehörige FAQs](https://darcage.de/darc-teaser-staubkaefer-online-und-dazugehoerige-faqs/)
----
-
-DARC --- 12/29/2023
-
-Der zweite Darc-Teaser „Staubkäfer“ ist online: Auch wenn es nur ein kurzer Clip ist, hat dieser im Hintergrund für recht viel Arbeit gesorgt – angefangen bei den „Props“, über den Gesang bis hin zu diversen Varianten der „Kamerafahrt“ – vielleicht...
-
-
-[DSA104 Marbo](http://dsa-intime.de/?p=1372)
----
-
-DSA Intime Podcast --- 12/20/2023
-
-Der Running Gag wird Wirklichkeit, heute reden wir über Marbo! Lange verlacht bekommt diese mysteriöse Halbgöttin dank Redditrecherche und Metaplot-Überraschungen doch mehr interessante Aspekte als gedacht. Doch wie von Boron abgrenzen? Lassen sich...
-
-
-[Mit der ELF-Lizenz zur DSA-Revolution](https://www.arkanil.de/2023/12/mit-der-elf-lizenz-zur-dsa-revolution/)
----
-
-Arkanil --- 12/17/2023
-
-Arkanil - Mit DSA hat Ulisses einen Produktpfad eingeschlagen, den sie nicht verlassen können. Was also tun, wenn dieser Pfad in die Sackgasse führt? Ausweg bietet die ELF-Lizenz.
-
-
-[[Rezi] Forbidden Lands - Bloodmarch](https://bucheibon.blogspot.com/feeds/7158352780930143783/comments/default)
----
-
-Einige Seiten des Buches Eibon --- 11/26/2023
-
-„Bloodmarch“ ist die dritte Kampagne bzw. das dritte Setting für „Forbidden Lands“. Ein wichtiger Pass im Westen von Ravenland ist seit langer Zeit wieder passierbar. Was mag die Gruppe dahinter erwarten?Im Westen von Ravenland liegt Aslene, ein...
-
-
-[[Rezi] New Hong Kong Story – Das Bündnis](https://bucheibon.blogspot.com/feeds/9022787045363741707/comments/default)
----
-
-Einige Seiten des Buches Eibon --- 11/17/2023
-
-„Das Bündnis“ ist ein kurzes Abenteuer für das Wuxia-Action-Rollenspiel „New Hong Kong Story“. Es erschien zuerst als Posterabenteuer zum Gratisrollenspieltag 2019 und liegt nun als „Director’s Cut“ mit zusätzlichen Szenen und dem reichhaltigen...
-
-
-[DSA103 RPG mit Kindern](http://dsa-intime.de/?p=1366)
----
-
-DSA Intime Podcast --- 11/6/2023
-
-Es ist nie zu früh, neue Spieler an das Hobby Rollenspiel heranzuführen aber wie macht man das? Kindbesitzer Michi berichtet, wie er mit seinem Nachwuchs spielt, welche Systeme er nutzt und ob das ganze eine gute Idee ist
-
-
-[[Rezi] Spherechild, 3. Edition](https://bucheibon.blogspot.com/feeds/6967712646847073680/comments/default)
----
-
-Einige Seiten des Buches Eibon --- 10/18/2023
-
-Sphärenkinder: Wesen in einer Welt, die Kontakt zu Gleichgesinnten in einer anderen Welt haben – und gemeinsam kämpfen sie gegen Gefahren, die alle Welten bedrohen. „Spherechild“ ist ein weltenübergreifendes Rollenspiel, in dem Fantasykriegerinnen...
-
-
-[[Rezi] Forbidden Lands – Book of Beasts](https://bucheibon.blogspot.com/feeds/7764346938817624131/comments/default)
----
-
-Einige Seiten des Buches Eibon --- 10/18/2023
-
-Das „Book of Beasts“ ist ein neuer Quellenband für das Hexcrawl- und Fantasyrollenspiel „Forbidden Lands“ vom schwedischen Verlag Free League. Neben vielen neuen Monstern bietet es Tabellen mit Zufallsbegegnungen und anderen Informationen für die...
-
-
-[Black Sword Hack Charakterbogen deutsch](https://craulabesh.wordpress.com/2023/10/04/black-sword-hack-charakterbogen-deutsch/)
----
-
-craulabesh --- 10/4/2023
-
-EDIT: Beim Spielen hat sich ergeben, dass der Doom Die besser oben hingehört und etwas zu wenig Platz auf dem Bogen ist. Also hier die neue Version. Ursprünglicher Beitrag: basierend auf Black Sword Hack Character Sheet von The Skull as a Complete...
-
-
-[DSA102 Seelen](http://dsa-intime.de/?p=1358)
----
-
-DSA Intime Podcast --- 10/3/2023
-
-Ja, wir müssen nochmal ran ans Thema Seelen, Nachleben, Die Seelenwaage und die Götter. Aus was bestehen Seelen? Für wen sind sie wie eine Ressource, was macht eine „gute“ Seele aus und warum wollen Dämonen unsere Seelen?
-
-
-[Version 5 – Werkstattbericht – Vereinfachungen und die Zukunft](https://entaria.de/version-5-werkstattbericht-vereinfachungen-und-die-zukunft)
----
-
-Entaria --- 9/17/2023
-
-Heute mal ein Ausblick, was gerade passiert. In den letzten Jahren – und jeder der Entaria kennt wird das bestimmt bestätigen – habe ich versucht, so viele Variationen, Regeln und Besonderheiten in das Regelwerk einzubauen. Da dies alles etwas zu...
 
 
 [EWS 3.0 rβ5: Können hat Wert](https://www.1w6.org/deutsch/regeln/downloads/ews-30-rb5-danke)
@@ -631,134 +575,6 @@ Heute mal ein Ausblick, was gerade passiert. In den letzten Jahren – und jeder
 Das EWS 3.0 rβ5 — Können hat Wert ist ein großer Meilenstein: Das Grundregelwerk wurde vollständig gegengelesen und korrigiert. Einen riesigen Dank an Christian, der über die gesamten 460 Seiten auf Stil und Form gegengelesen hat, und an VHR, die...
 
 
-[Lankhmar - die archetypische Stadt der Diebe](https://bucheibon.blogspot.com/feeds/8695656212381033493/comments/default)
----
-
-Einige Seiten des Buches Eibon --- 8/6/2023
-
-Zurzeit läuft die Vorbestellungsaktion für DCC Lankhmar, eine prallgefüllte Box mit sofort spielbaren Informationen für die "Stadt der Diebe". Drei Hefte/Bücher, ein weiteres Heft mit Abenteuer, Sichtschirm, zwei Posterkarten, alles in einer...
-
-
-[Die Befreiung Kestors](https://edalon.wordpress.com/2023/07/30/die-befreiung-kestors/)
----
-
-Rollenspiel-Blog --- 7/30/2023
-
-Gestern traf sich unsere Rollenspielrunde wieder zu einer weiteren Spielsitzung und das waren die Ereignisse: Während unserer Fahrt in Richtung Reichlich trainiert Talahier den Umgang mit der Schicksalsklinge. Im Laufe der Zeit wird Talahier immer...
-
-
-[DSA101 Elfische Weltsicht](http://dsa-intime.de/?p=1350)
----
-
-DSA Intime Podcast --- 7/16/2023
-
-Die mysteriösen Elfen lassen uns nicht los und somit stimmen wir erneut mit Elfenexperte Sigi unser harmonisches Lied an, um zu ergründen, wie Elfen die Welt sehen, wie badoc sie notwendigerweise werden, wie man damit umgeht und wie man sie …...
-
-
-[DSA100 Jubiläum mit Michael](http://dsa-intime.de/?p=1342)
----
-
-DSA Intime Podcast --- 6/30/2023
-
-Vor 11 Jahren hat dieser Podcast angefangen. Seitdem ist viel passiert, unter anderem haben wir 100 Folgen aufgenommen. Wir feiern diese dritte Stelle mit einem alten Weggefährten, der uns in den Anfängen zur Seite stand: Michael. Was bedeutet...
-
-
-[Version 5 – Werkstattbericht – Illusionist und vieles mehr](https://entaria.de/version-5-werkstattbericht-xxxxxxxxxxxxxxxxx)
----
-
-Entaria --- 6/17/2023
-
-Ein kurzer Zwischenruf mit den neusten Änderungen bei Version 5 des Rollenspiels Entaria. Es gibt eine Vielzahl von neuen Eigenschaften für Kreaturen. Dabei wurden auch einige Kreaturen aufgepimpt. Es gibt einen brandheißen neuen Charakterbogen als...
-
-
-[[Rezi] Vaesen - Nordic Horror Roleplaying](https://bucheibon.blogspot.com/feeds/4051160154382909120/comments/default)
----
-
-Einige Seiten des Buches Eibon --- 5/22/2023
-
-„Vaesen“ ist ein mystisches Rollenspiel von Free League. Die Industrialisierung drängt die mythischen Wesen Skandinaviens immer weiter zurück und sorgt für Konflikte zwischen ihnen und den Menschen. Die Charaktere gehören zu den wenigen Menschen,...
-
-
-[[Rezi]  Blade Runner The Roleplaying Game](https://bucheibon.blogspot.com/feeds/8862845923150237598/comments/default)
----
-
-Einige Seiten des Buches Eibon --- 5/22/2023
-
-“Blade Runner The Roleplaying Game” ist die Rollenspielumsetzung des berühmten Franchise. Der schwedische Verlag Free League hat sich des Themas angenommen und ein wunderhübsches und stimmungsvolles Spiel abgeliefert.Das „Starter Set“ habe ich...
-
-
-[DSA99 Tod](http://dsa-intime.de/?p=1333)
----
-
-DSA Intime Podcast --- 5/8/2023
-
-Was passiert nach dem Tod? Welche Wege können Seelen nehmen, was davon können Sterbliche überhaupt wissen oder verstehen und welche Auswirkungen hat das Nachleben auf das Leben der Lebenden? Lohnt es sich, gut zu leben? Wir versuchen, die Totenwelt...
-
-
-[Version 5 – Werkstattbericht – Neue Charakterbögen und mehr](https://entaria.de/version-5-werkstattbericht-neue-charakterboegen-und-mehr)
----
-
-Entaria --- 4/28/2023
-
-Ein weiterer Bericht aus der Werkstatt zu Version 5 zum Rollenspiel ENTARIA wie immer kostenfrei auf entaria.de. Die wichtigsten Punkte sind: Gerade fertig geworden ist ein neuer Charakterbogen, inkl. einer Step-By-Step Anleitung für die Erstellung...
-
-
-[DSA98 Zwerge](http://dsa-intime.de/?p=1323)
----
-
-DSA Intime Podcast --- 4/4/2023
-
-Klein, rüstig, dickköpfig. So kennt man die Zwerge und so mag man sie auch. Aber sind sie auch mehr als ein Bündel Klischees? Kann man aus ihnen mehr rausholen als es die gängigen Abenteuer tun? Experte Ali führt uns in … Weiterlesen →
-
-
-[DSA97 Prinzipen](http://dsa-intime.de/?p=1318)
----
-
-DSA Intime Podcast --- 3/1/2023
-
-Was ist meinem Helden wichtig? Wofür würde er sterben? Hat er Prinzipen, von denen er niemals abweichen würde? Heute versuchen wir uns dem vielschichtigen Thema Prinzipien zu nähern. Wozu gibt es den Nachteil Prinzipientreue, wie kann man...
-
-
-[Im Fokus des Kriegsherrn](https://edalon.wordpress.com/2023/02/12/im-fokus-des-kriegsherrn/)
----
-
-Rollenspiel-Blog --- 2/12/2023
-
-An diesem Wochenende trafen wir uns nach längerer Pause wieder zum gemeinsamen Rollenspiel in den geborstenen Himmeln. Die jüngsten Ereignisse beschreibt folgender Bericht: Wir befinden uns auf der Überfahrt nach Drachengrat. Wir überlegen uns, was...
-
-
-[[Rezi] Blade Runner RPG Runner Screen](https://bucheibon.blogspot.com/feeds/7425868232593561586/comments/default)
----
-
-Einige Seiten des Buches Eibon --- 2/12/2023
-
-Der Sichtschirm für das „Blade Runner RPG“ ist wie immer bei Free League ein Hardcover. Er wird als Einzelprodukt ohne zusätzliche Materialien verkauft.Einen Sichtschutz zu rezensieren ist nicht einfach. Was kann man schon groß sagen? Der...
-
-
-[[Rezi] Blade Runner RPG Starter Set](https://bucheibon.blogspot.com/feeds/1831196857703048815/comments/default)
----
-
-Einige Seiten des Buches Eibon --- 2/10/2023
-
-Kaum ein neues Rollenspiel, für das es nicht auch ein Starter Set gibt. So auch für das neue „Blade Runner RPG“ von Free League. Die Box enthält alles, was man braucht, um den ersten Fall der Blade Runner - sprich, der Spielercharaktere – stilvoll...
-
-
-[[Rezi]  Magical Cops: Drachentanz](https://bucheibon.blogspot.com/feeds/3690178185547097594/comments/default)
----
-
-Einige Seiten des Buches Eibon --- 2/5/2023
-
-„Magical Cops: Drachentanz” ist der "Pilotfilm" zu einer neuen Serie, in der Cops mit Martial Arts und magischen Kräften im modernen Hong Kong Fällen nachgehen, die mit dem Übernatürlichen zu tun haben. Natürlich handelt es sich hierbei nicht...
-
-
-[[Rezension] Hong Kong City Guide](https://bucheibon.blogspot.com/feeds/99501097320502176/comments/default)
----
-
-Einige Seiten des Buches Eibon --- 1/16/2023
-
-Der „Hong Kong City Guide” ist eine Kartensammlung für die beliebteste Abenteuerorte in Hong Kong. Es sind Battlemaps für das Spiel „New Hong Kong Story“ oder andere moderne Rollenspiele. Dazu gibt es ein paar Tokens und ein Begleitheft mit...
-
-
 [Flyerbücher für EWS 3.0 mit Charakteren auf dem Flyer](https://www.1w6.org/deutsch/regeln/flyerbuecher/12x-flyer-beta1)
 ---
 
@@ -767,34 +583,218 @@ Der „Hong Kong City Guide” ist eine Kartensammlung für die beliebteste Aben
 Für den Gratisrollenspieltag nächstes Jahr habe ich die Flyerbücher überarbeitet, damit sie direkt von der Druckerei gefaltet und geliefert werden können. Klingt nicht nach viel, hat aber einen großen Einfluss: Damit lassen sich 1250 vollständige...
 
 
-[Zur Siegelkapsel](https://craulabesh.wordpress.com/2022/11/30/zur-siegelkapsel/)
+[EWS 3.0 rβ2: Weltentanz mit Technophob](https://www.1w6.org/deutsch/regeln/downloads/ews-30-rb2-weltentanz)
 ---
 
-craulabesh --- 11/30/2022
+1w6 --- 5/16/2022
 
-gibt es hier einen schönen Link.
+Mit dem EWS 3.0 rβ2 „Weltentanz mit Technophob“ sind alle Texte überarbeitet, v.a. die Welten mit Technophob. Der Textschliff spart 8 Seiten ein. Damit sind alle Teile des EWS 3.0 nochmal komplett überarbeitet. Das klingt klein, ist aber ein...
 
 
-[Die Schwarze Katze: Aufhänger für Abenteuer](https://eisparadies.wordpress.com/2022/11/26/die-schwarze-katze-aufhanger-fur-abenteuer/)
+[EWS 3.0 rβ1: Spielbarer Grundstein — es geht voran](https://www.1w6.org/deutsch/regeln/downloads/ews-30-rb1-grundstein)
 ---
 
-Das Eisparadies --- 11/26/2022
+1w6 --- 5/1/2022
 
-Mittlerweile habe ich seit anderthalb Jahren nichts mehr für „Die Schwarze Katze“ gemacht. Also kann ich ja mal ein paar Plotideen raushauen, die ich amüsant finde. Man kommt ja eh zu nix. Rabenkrieg Immer wieder werden tote Möwen gefunden. Was …...
+EWS 3.0 rβ1 „Spielbarer Grundstein — es geht voran“, zum Tag der Arbeit die Früchte der Arbeit der letzten Monate: viel Handarbeit an den Texten: Schliff, Bilder, Regelfeinheiten. Und ich habe endlich die Bedeutung dieses Buches für das größere EWS...
 
 
-[DSA96 Elfen](http://dsa-intime.de/?p=1314)
+[Dryads Wake — a game of uncertain choices and dialogue](https://www.1w6.org/english/dryads-wake)
 ---
 
-DSA Intime Podcast --- 11/25/2022
+1w6 --- 4/24/2022
 
-Der Fantasyklassiker, der in DSA natürlich nicht fehlen darf: Die mysteriösen, perfekten, ewiglebenden Elfen. Eigenschaften, die auch auf unseren Gast Sigi zutreffen, der sich auf unsere niedere Seinsebene begeben hat, um mit uns die Lebensweise,...
+I’ve been searching for good ways to build text-rpgs since writing my Python-Based TextRPG in 2008. With Dryads Wake I finally found a structure that I really like and that can be played from the browser as well as from the text-terminal. Dryads...
 
 
-[[Rezi] The One Ring 2nd Edition](https://bucheibon.blogspot.com/feeds/8500064129572004809/comments/default)
+[Völlige Dunkelheit](https://www.1w6.org/deutsch/anhang/gedanken/voellige-dunkelheit)
 ---
 
-Einige Seiten des Buches Eibon --- 10/22/2022
+1w6 --- 2/20/2022
 
-“The One Ring” ist eines von vielen Rollenspielen, die in Tolkiens Mittelerde angesiedelt sind und die speziell dafür designt wurden, um Abenteuer in der Welt des „Herrn der Ringe“ spielen zu können. Die erste Edition wurde vielfach gelobt, weil...
+Eine Geschichte aus einem Larp. Eine Diebin schlich sich an, um die NSCs auszukundschaften. Es war eine wolkige, mondlose Nacht. Auf dem Weg zum Lager der NSCs kam sie an einem Bauwagen vorbei. Dann hörte sie plötzlich die NSCs den Pfad von ihrer...
+
+
+[Interview zu 1w6 bei Alles ist ein Spiel (Video)](https://www.1w6.org/deutsch/anhang/interview-zu-1w6-allesisteinspiel)
+---
+
+1w6 --- 1/19/2022
+
+Ben von Alles ist ein Spiel hat Arne über das EWS, zu den Hintergründen und zu seinen Gründen für die Entwicklung und Tipps für andere Bastler interviewt. (Datenschutzfreundliches1 Nocookie-Embed von Youtube) Binnen einer Stunde kommen wir...
+
+
+[EWS 3.0 rβ0: Durchbruch - 20 Jahre](https://www.1w6.org/deutsch/regeln/downloads/ews-30-rb0-durchbruch)
+---
+
+1w6 --- 12/24/2021
+
+EWS 3.0 rβ0 „Durchbruch — 20 Jahre“, zwei Jahrzehnte nach unserer ersten Runde RaumZeit und meiner ersten Ausrede zu Erynnia. Seit diesem Jahr veröffentliche ich länger als mein halbes Leben Rollenspielwerke. Passend dazu ist diese Version der...
+
+
+[Downloadzahlen 2020](https://www.1w6.org/blog/drak/2021-11-26-downloadzahlen-2020)
+---
+
+1w6 --- 11/26/2021
+
+2021 nähert sich dem Ende, und ich habe inzwischen eine gut nutzbares Analyseprogramm für Serverlogs, möchte offenlegen, wie oft das EWS und die anderen 1w6-Werke heruntergeladen werden — hier erstmal für 2020. Übersicht der...
+
+
+[EWS 3.0 eβ2: Re-F-lektion - second system syndrome](https://www.1w6.org/deutsch/regeln/downloads/ews-30-eb2-reflektion)
+---
+
+1w6 --- 11/18/2021
+
+EWS 3.0 eβ2 „Re-F-lektion - second system syndrome“, die Version, in der ich erkenne, was ich gerade erschaffe — und es akzeptiere: Das EWS 3.0 ist das klassische zweite System: Allgemeiner, als zwingend nötig, und weit größer als das erste...
+
+
+[Beispiele für Klassische SCs](https://www.1w6.org/blog/drak/2021-11-16-klassische-scs)
+---
+
+1w6 --- 11/15/2021
+
+Auf Tanelorn hat Metamorphose gefragt Wie geht dieser Spielcharakter in deinem System? und dort viele spannende Vorlagen geliefert. Hier ist meine Antwort: Ich nutze das Zettel-RPG-Schema:  + Stärke (Wert / Wundschwelle)  - Schwäche „Trigger...
+
+
+[Useful prep-stuff from the one die system for Nanowrimo](https://www.1w6.org/english/tables)
+---
+
+1w6 --- 9/2/2021
+
+Want to make a memorable character or NPC? Get a jump-start for your creativity? Aim for a diverse cast to avoid stumbling into your personal clichés? These tables will get you moving in minutes! Nanowrimo prep will start soon. Take me to the...
+
+
+[EWS 3.0 rαF: Terminal — VIlD](https://www.1w6.org/deutsch/regeln/downloads/ews-30-raf-vild)
+---
+
+1w6 --- 8/24/2021
+
+Das EWS 3.0-rαF „Terminal — VIlD“ ist die letzte Regel-Alpha der dritten Edition des Ein-Würfel-Systems. Ich widme sie meiner Frau, Fokus meines Lebens. Ihr zu ehren könnt ihr diese Version als erste der Vorversionen zum EWS 3.0 kaufen, denn meine...
+
+
+[EWS 3.0 rαE: Dank Wesnoth und WTactics!](https://www.1w6.org/deutsch/regeln/downloads/ews-30-rae-wesnoth-wtactics)
+---
+
+1w6 --- 8/8/2021
+
+Dank anderer toller frei lizensierter Projekte können wir für das EWS nicht nur unsere eigenen Bilder verwenden, sondern auf einen wahren Schatz toller Grafiken zugreifen, der mit jedem Jahr größer wird. Für das EWS 3.0 rαE haben wir daher wieder...
+
+
+[Terminalballistik im Rollenspiel](https://www.1w6.org/deutsch/anhang/gedanken/terminalballistik-im-rollenspiel)
+---
+
+1w6 --- 8/5/2021
+
+Ein Gastbeitrag von YY in einem Thread auf Tanelorn, geschrieben für einen Rollenspielentwurf, um einen Weg zu entwickeln, über den Rollenspielregeln die Entscheidungen in einem Feuergefecht reproduzieren können. So...ich schreibe einfach mal...
+
+
+[Trudy ist jetzt auf Patreon](https://www.1w6.org/blog/drak/2021-08-04-trudy-auf-patreon)
+---
+
+1w6 --- 8/4/2021
+
+Viele der tollsten Bilder des EWS sind von Trudy, und in den letzten Jahren ist sie noch besser geworden. Als sie mir 2010 das Logo gezeigt hat, blieb mir im wahrsten Sinne des Wortes der Mund offen stehen — bis mir das selbst passiert ist, hatte...
+
+
+[Wie das EWS skaliert — Machtprogression](https://www.1w6.org/blog/drak/2021-07-12-wie-das-ews-skaliert-machtprogression)
+---
+
+1w6 --- 7/14/2021
+
+In Tanelorn wurde nach Beispielen gefragt, in denen die SCs wirklich stark werden. Ich habe unsere Kampagne Wächter der Zeit als Beispiel geschrieben: Die Machtprogression geht von Shadowrun-ähnlichen Aufträgen über mit viel Glück geschafften...
+
+
+[EWS 3.0 rαD: Über den Tellerrand](https://www.1w6.org/deutsch/regeln/downloads/ews-30-rad-ueber-den-tellerrand)
+---
+
+1w6 --- 5/27/2021
+
+Nachdem ich das letzte Jahr über konsequentes Homeoffice einen Funken der Entgrenzung von Arbeit und Privatem erlebt habe — die guten und die schwierigen Seiten — bricht das EWS 3.0 rαD ein Stückweit Grenzen zwischen Spielstilen auf. Die...
+
+
+[Geburtstagswunsch](https://www.1w6.org/blog/drak/2020-geburtstagswunsch)
+---
+
+1w6 --- 5/25/2021
+
+Am 26.5. habe ich Geburtstag. Wegen Corona wird es der zweite Geburtstag in über 20 Jahren, an dem ich keine Rollenspielrunde einlade, und das nimmt mich gerade ganz schön mit.  Update 2021: Puh, es ist schon mein zweiter Geburtstag in der...
+
+
+[1w6 für den GRT 2021: Am 27. März ist Gratisrollenspieltag!](https://www.1w6.org/blog/drak/2021-03-26-1w6-fuer-den-grt-2021)
+---
+
+1w6 --- 3/26/2021
+
+Am 27. März 2021 ist Gratisrollenspieltag, und zu diesem speziellen Online-GRT ist 1w6 mit ein paar kleinen Goodies für all die dabei, die sie auf den letzten GRTs vielleicht verpasst haben — und mit einem, das noch nie den GRT gesehen hat: -...
+
+
+[EWS 3.0 rαC: Helden](https://www.1w6.org/deutsch/regeln/downloads/ews-30-rac-helden)
+---
+
+1w6 --- 12/31/2020
+
+Es war ein Jahr für Helden, und ich hätte gerne mehr geholfen, habe aber über ein paar Auswertungen hinaus vor allem im Homeoffice damit gekämpft, zusätzlich die Kinder unterstützen zu können. Im nächsten Jahr hoffe ich, dass wieder mehr Zeit für...
+
+
+[Black Lives Matter](https://www.1w6.org/blog/drak/2020-06-12-black-lives-matter)
+---
+
+1w6 --- 6/12/2020
+
+Ich habe hier länger nichts zu Politik geschrieben und stattdessen getwittert (bzw. via GNU social und seit neustem Mastodon). Letzte Woche ist mir allerdings aufgefallen, dass pro Monat 200 Leute das EWS 2.6 herunterladen (ich habe mal wieder in...
+
+
+[EWS 3.0 rα6: Rubinrot - Was gibt dir Kraft?](https://www.1w6.org/deutsch/regeln/downloads/1w6-regeln-v30ra6-rubinrot)
+---
+
+1w6 --- 5/26/2020
+
+Auf Twitter fragte jemand:  „What keeps you sane in these times?“ Zwei der Punkte, die mich weitertragen: Wenn meine Tochter mir sagt „gute Nacht Papa, träum was Schönes“, und Wenn ich am EWS bastle.  Update 2023: die aktuellste...
+
+
+[Vielfältige Figuren für 4 Genres zum GRT 2020 - und Errata](https://www.1w6.org/blog/drak/2020-03-10-vielfaeltige-figuren-grt-2020)
+---
+
+1w6 --- 3/10/2020
+
+Am 14. März ist Gratisrollenspieltag! Dank Nils, Phil, Jonas Richter, Jens Stengel und anonym Spendenden konnten wir pro Box 8 Hefte mit 4 mal 15 Beispielcharakteren beisteuern. ☺ ♡ Ihr seid toll! ♡ Auf der Seite des GRT gibt es übrigens...
+
+
+[Gaius Sapiento Alaga – Im hohen Norden (Phileasson-Saga)](https://www.malfeas.de/gaius-sapiento-alaga-im-hohen-norden/)
+---
+
+Rollenspiele – Malfeas.de --- 8/30/2017
+
+Es begann alles an diesem einem Tag, an dem ich mich an der Umsetzung einer Modifikation des TRANSVERSALIS-Cantus versuchte. Mein Ziel war es, die Stadt des Lichts in Gareth zu besuchen – eine Entfernung von etwa 260 Meilen. Diese Anstrengung hätte...
+
+
+[Die Beschränkungen des Resultatums eines Cantus durch die Imaginationsabilität](https://www.malfeas.de/die-beschraenkungen-des-resultatums-eines-cantus-durch-die-imaginationsabilitaet/)
+---
+
+Rollenspiele – Malfeas.de --- 8/29/2017
+
+Wie schon in meinen Notizen angedeutet, gibt es eindeutige Hinweise darauf, dass die Beschränkungen hinsichtlich des Resultatums eines Cantus nur durch die Imaginationsabilität des Zauberwirkers gegeben sind. Ich möchte nun eine kleine...
+
+
+[Die Suboptimialität des TRANSVERSALIS-Cantus](https://www.malfeas.de/die-suboptimialitaet-des-transversalis-cantus/)
+---
+
+Rollenspiele – Malfeas.de --- 8/28/2017
+
+Dem Kundigen der Magica moventia sollte der Cantus Transversalis hinreichend bekannt sein. Es scheint bislang so, dass ein mittels dieses Cantus Reisender nur wenige Meilen zurücklegen kann. Wahrhaft Kundigen sind weniger Grenzen – ergo eine...
+
+
+[Kurzbögen für Geister und Sprites (Shadowrun 5)](https://www.malfeas.de/kurzboegen-fuer-geister-und-sprites-shadowrun-5/)
+---
+
+Rollenspiele – Malfeas.de --- 7/20/2017
+
+Es gibt nun auch kurze Bögen für Geister und Sprites im Downloadbereich. Zum Download-Bereich: Downloads für Shadowrun 5 Zum direkten Download: Art des Bogens Link als Word-Datei Link als PDF Bogen für Geister Word PDF Bogen für Sprites Word PDF ...
+
+
+[Bogen für Verbündetengeister (Shadowrun 5)](https://www.malfeas.de/bogen-fuer-verbuendetengeister-shadowrun-5/)
+---
+
+Rollenspiele – Malfeas.de --- 7/13/2017
+
+Nach langer Zeit ein kleines Update: Es gibt nun auch einen kurzen Bogen für Verbündete im Downloadbereich. Zum Download-Bereich: Downloads für Shadowrun 5   Read more... This article is copyright ©  Malfeas.de
 
