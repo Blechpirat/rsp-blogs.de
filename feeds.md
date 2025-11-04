@@ -1,4 +1,12 @@
 
+[MIDGARD 6: Ein Schrecken spukt durch die Gassen](https://steamtinkerer.de/2025/11/03/midgard-6-ein-schrecken-spukt-durch-die-gassen/)
+---
+
+SteamTinkerers Klönschnack | KLNSCHNCK --- 11/3/2025
+
+Lesezeit:  10 MinutenEin Schrecken, viele Opfer und eine hilflose Stadtwache. Zeit, dass sich die Abenteurer der Sache annehmen. Kaum ist das eine Abenteuer zu Ende, stolpern Eowy, Gar’tek und Gregil bereits ins nächste. Doch dieses Mal nicht...
+
+
 [Neuerscheinungen November, Dezember, Januar – Romane im Winter 2025 – Worauf wir uns freuen](https://www.teilzeithelden.de/2025/11/01/neuerscheinungen-november-dezember-januar-romane-im-winter-2025-worauf-wir-uns-freuen/)
 ---
 
@@ -271,14 +279,6 @@ SteamTinkerers Klönschnack | KLNSCHNCK --- 9/22/2025
 Lesezeit:  2 MinutenWer die Keynote auf der diesjährigen RatCon in Langen verfolgt hat, wird wissen, dass in den kommenden Monaten eine Vielzahl an tollen Produkten für Das Schwarze Auge erscheinen wird. Aber irgendwie hat das Ganze auch die Frage...
 
 
-[On Tour: RatCon 2025](https://steamtinkerer.de/2025/09/19/on-tour-ratcon-2025/)
----
-
-SteamTinkerers Klönschnack | KLNSCHNCK --- 9/19/2025
-
-Lesezeit:  2 MinutenAnfang September 2025 fand die RatCon in der Neuen Stadthalle in Langen statt. Nach vielen Jahren stattete Mirco der Convention wieder einen Besuch ab. Doch er war nicht allein dort, denn Max begleitete ihn. Und für ihn wiederum...
-
-
 [Mittwochstabelle: 6 Gründe, warum der Handwerker im Dorf heute nicht kann](https://doesrpgmanor.com/2025/09/17/tabelle-gruende-warum-handwerker-im-dorf-nicht-kann/)
 ---
 
@@ -479,12 +479,212 @@ TripleTwenty --- 7/30/2025
 Tabellenübersicht – Dörflicher Aberglaube Dinge, die hinter der nächsten Ecke lauern Mythische Wesen, die Kinder nachts sehen Was die Leute sagen, wenn der Mond verschwindet Seltsame Dinge, die am Dorfbrunnen passieren Dinge, vor denen die...
 
 
+[Wo geht es hier zum Dorf des Grauens](https://nandurion.de/blog/2025/07/11/wo-geht-es-hier-zum-dorf-des-grauens/)
+---
+
+Nandurion --- 7/11/2025
+
+Ein weiteres Mal ist unser Einhorn Krassling in die Tiefen der Dungeons aus grauer Vorzeit hinabgestiegen und hat mit spitzen Pinseln winzige Plastikfigürchen bemalt. Dieses Mal sind ihm Miniaturen aus dem Brettspiel Dorf des Grauens in die Hände...
+
+
+[Scorp spielt Solo – S³ – One Page Rules Grimdark Future Star Quest](https://www.die-dorp.de/blog/scorp-spielt-solo-s%c2%b3-one-page-rules-grimdark-future-star-quest/)
+---
+
+Die DORP --- 6/25/2025
+
+Und wieder zurück an den Solotisch, diesmal für ein kostenloses Spiel, das sich jeder auf der Seite der Hersteller herunterladen und spielen kann. Ich spiele Star Quest, das Solo- und Koop-Tabletop von One Page Rules. Es gibt auch noch eine...
+
+
+[Rezension der Frevlerwacht](https://nandurion.de/blog/2025/06/20/rezension-der-frevlerwacht/)
+---
+
+Nandurion --- 6/20/2025
+
+In der Vorbereitung zur Kampagne um Brandans Pakt fiel unserem Spötter Krassling auch ein Heldenwerk in die Hände, das sich mutmaßlich gut in den Kontext der großen Zwergenkampagne einfügen lässt. Die Frevlerwacht aus dem Jahr 2023 thematisiert ein...
+
+
+[Kampf als Drama](https://nandurion.de/blog/2025/05/30/kampf-als-drama/)
+---
+
+Nandurion --- 5/30/2025
+
+In seiner neusten Kolumne beschäftigt sich Krassling einmal mehr mit dem leidigen Thema des Kampfes. Auch wenn Regeldesigner diesem Element in Rollenspielen meist viele Raum und Energie widmen, so gerät das Ergebnis manches Mal doch eher zur...
+
+
+[Scorp spielt Solo – S³ – Cohors Cthulhu Tactics Prologue III](https://www.die-dorp.de/blog/scorp-spielt-solo-s%c2%b3-cohors-cthulhu-tactics-prologue-iii/)
+---
+
+Die DORP --- 5/21/2025
+
+Jetzt geht es in die Vollen! Solange Einheiten der Römer bis zum Ende der siebten Runde überleben, gewinnen wir das Szenario gegen die Mythos-Kreaturen. Seltsamerweise geht es nicht mehr um das Überleben von Marius wie im letzten Szenario, sondern...
+
+
+[Scorp spielt Solo – S³ – Cohors Cthulhu Tactics Prologue II](https://www.die-dorp.de/blog/scorp-spielt-solo-s%c2%b3-cohors-cthulhu-tactics-prologue-ii/)
+---
+
+Die DORP --- 5/14/2025
+
+Letzte Woche hatten wir uns das erste Szenario mit den Grundlagen angesehen, diese Woche geht es in die zweite Mission des Prologs. Hier wird das Konzept der geschlossenen Formation vorgestellt, die es den eigenen Einheiten weitere mächtige...
+
+
+[Archon Megalon – ein Riese als Miniatur](https://nandurion.de/blog/2025/05/09/archon-megalon-ein-riese-als-miniatur/)
+---
+
+Nandurion --- 5/9/2025
+
+Mit der Miniatur von Archon Megalon schaut sich unser Miniaturist Krassling endlich die Miniaturen aus der aktuellen Reihe von Ulisses an. Als Einstieg hat er hier eine Figur aus der Liga der aventurischen Persönlichkeiten gewählt. Um dieses Novum...
+
+
+[Scorp spielt Solo – S³ – Cohors Cthulhu Tactics Prologue I](https://www.die-dorp.de/blog/scorp-spielt-solo-s%c2%b3-cohors-cthulhu-tactics-prologue-i/)
+---
+
+Die DORP --- 5/7/2025
+
+Cohors Cthulhu Tactics ist ein Tabletop-Ableger von Modiphius' Rollenspiel über antike Römer die Kultisten verkloppen und wurde 2024 via Kickstarter finanziert. Das Thema des Spiels zusammen mit der Ausrichtung auf Solo & Koop-Spiel hatten sofort...
+
+
+[Mini-Mittwoch – Drachenoger](https://www.die-dorp.de/blog/mini-mittwoch-drachenoger/)
+---
+
+Die DORP --- 4/30/2025
+
+Drachenoger sind uralte Geschöpfe von immenser Kraft und Geschick.Ihr Unterkörper gleicht dem eines massigen Drachen, wenn auch ohne Flügel, aber aus ihrem Rumpf erhebt sich der Torso samt Armen eines ogerartigen Geschöpfes mit drakonischen Zügen....
+
+
+[Scorp spielt Solo – S³ – Mythos Country](https://www.die-dorp.de/blog/scorp-spielt-solo-s%c2%b3-mythos-country/)
+---
+
+Die DORP --- 4/23/2025
+
+Ende 2024 erschien bei Obscurati Publishing Mythos Country, das ich mir als PDF über Drivethrurpg sicherte. Da es in dem Spiel darum geht, auf einer Karte ein Setting mit Mythos-Kram anzureichern, nahm ich mir die Ferraris-Karte meines Heimatortes,...
+
+
+[Im Labyrinth der Intrigen](https://nandurion.de/blog/2025/04/19/im-labyrinth-der-intrigen/)
+---
+
+Nandurion --- 4/19/2025
+
+Neulich grübelte unser Xeledonsjünger Krassling wieder einmal über den Planungen für seine Kampagnen, die dann sicher auch irgendwann ab 2035 realisiert werden. Dabei flimmerte auch das lebendige Regionalabenteuer zum südlichen Horasreich Das...
+
+
+[Mini-Mittwoch – Schändliche Drachenblütige – Vazreth-Korvul, die Flammensänger](https://www.die-dorp.de/blog/mini-mittwoch-schaendliche-drachenbluetige-vazreth-korvul-die-flammensaenger/)
+---
+
+Die DORP --- 4/16/2025
+
+Als der rote Drachenblütige mit zwei Köpfen geboren wurde, war noch nicht abzusehen, was die beiden Persönlichkeiten Vazreth und Korvul für die Welt bedeuten würden. Als absonderliche Monstrosität abgetan, nahmen die beiden ihre Form an und wollten...
+
+
+[DORP unterwegs – RIN Con 2025 in den Niederlanden](https://www.die-dorp.de/blog/dorp-unterwegs-rin-con-2025-in-den-niederlanden/)
+---
+
+Die DORP --- 4/15/2025
+
+Der tapfere Tom und ich, Scorp, waren am 05.04.2025 auf der Roll Initiative Con in den Niederlanden. Tom war bereits letztes Jahr vor Ort und hatte dort auch ein Video aufgenommen. Und das hat mich beeindruckt, weil es auf der Con offensichtlich...
+
+
+[Mini-Mittwoch – Schändliche Drachenblütige mit Schwingen](https://www.die-dorp.de/blog/mini-mittwoch-schaendliche-drachenbluetige-mit-schwingen/)
+---
+
+Die DORP --- 4/9/2025
+
+Die erfolgreichsten Züchtungen der Scharlachroten Brut sind die Drachenblütigen mit Schwingen, da diese näher an der idealisierten Form des Drachen sind. Wenn ein solcher Drachenblütiger schlüpft und die Aufzucht überlebt, steht ihm eine hohe...
+
+
+[Mini-Mittwoch – Schändliche Drachenblütige – Dragoth](https://www.die-dorp.de/blog/mini-mittwoch-schaendliche-drachenbluetige-dragoth/)
+---
+
+Die DORP --- 4/2/2025
+
+Einige der Hexer der Scharlachroten Brut können durch fordernde Rituale ganze Gelege kombinieren, um einen besonders mächtigen Drachenblütigen zu erschaffen. Inspiriert von Zentrauen sind die Dragoths zwar nicht näher an der wahren Drachenform, die...
+
+
+[Die DORP macht wieder Druck](https://www.die-dorp.de/blog/die-dorp-macht-wieder-druck/)
+---
+
+Die DORP --- 3/30/2025
+
+Hallo zusammen! Eine ganze Weile war es zuletzt ruhig um gedruckte Projekte der DORP. Einerseits natürlich kein Akt, wir sind ja kein Verlag und insofern nicht auf neue Bücher angewiesen – aber wir wollen ja gerne! Und nun ist es endlich soweit und...
+
+
+[Die Bibliographie Teil 2](https://nandurion.de/blog/2025/03/28/die-bibliographie-teil-2/)
+---
+
+Nandurion --- 3/28/2025
+
+Mit Mehrteilern ist es ja so eine Sache. Irgendwie freut man sich, aber andererseits gerät es womöglich irgendwann zur Pflichtübung sich damit zu beschäftigen. Der zweite Teil der Bibliographie des Schwarzen Auges mit den Jahren 1994 bis 2003 war...
+
+
+[Mini-Mittwoch – Schändliche Drachlinge](https://www.die-dorp.de/blog/mini-mittwoch-schaendliche-drachlinge/)
+---
+
+Die DORP --- 3/26/2025
+
+Die schändlichen Drachenblütigen haben ein rigoroses Zuchtprogramm für ihre Gruppe, in dem Gelege magisch beeinflusst werden, um die Stärke der Heranwachsenden in einem Ei zu konzentrieren, auf Kosten des Rests. Die allermeisten der restlichen Eier...
+
+
+[Mini-Mittwoch – Schändliche Drachenblütige](https://www.die-dorp.de/blog/mini-mittwoch-schaendliche-drachenbluetige/)
+---
+
+Die DORP --- 3/19/2025
+
+Drachenblütige werden mit freiem Willen geboren, bereit sich ihren Platz in der Welt zu suchen, ungeachtet der Farbe ihrer Schuppen und ihrer Herkunft. Aber einige Drachenblütige lehnen die Freiheit ab und umarmen die Vorurteile, die man ihnen...
+
+
+[DORP-TV auf der BavariaCon 2025](https://www.die-dorp.de/dorp-tv/dorp-tv-auf-der-bavariacon-2025/)
+---
+
+Die DORP --- 3/13/2025
+
+Ich war dieses Jahr zum ersten Mal mit Stand und Kamera weit im Süden Deutschlands auf der BavariaCon in Unterföhring bei München. Die BavariaCon fand dieses Jahr zum sechsten Mal statt und zum ersten Mal im Bürgerhaus Unterföhring, da der...
+
+
+[Scorp spielt Solo – S³ – Deep Space Pest Control von Mantic](https://www.die-dorp.de/blog/scorp-spielt-solo-s%c2%b3-deep-space-pest-control-von-mantic/)
+---
+
+Die DORP --- 3/12/2025
+
+Mantic Games haben vor ein paar Jahren eine spannende Tradition gestartet, indem sie Spiele-Adventskalender veröffentlichten. Also nicht Adventskalender mit Komponenten für ihre Miniaturenspiele, sondern komplette, eigenständige Spiele in ihren...
+
+
+[Kar Domadrosch](https://nandurion.de/blog/2025/03/07/kar-domadrosch/)
+---
+
+Nandurion --- 3/7/2025
+
+Schon länger beschäftigt sich unser Alt-Einhorn Krassling mit der Kampagne um Brandans Pakt und das zwergische Heldenzeitalter. Auf der Suche nach einem Einstieg für seine Gruppe wanderte er zum Prolog und dann immer weiter zurück. Um ein Abenteuer...
+
+
+[Scorp spielt Solo – S³ – Wasn das?](https://www.die-dorp.de/blog/scorp-spielt-solo-s-wasn-das/)
+---
+
+Die DORP --- 3/5/2025
+
+Tach! Der Dorpcast ist erstmal zu Ende, aber wir hören ja nicht auf zu Spielen, Medien zu konsumieren und zu schöpfen. Nachdem ich mit Obscuratis Die Wretched ein Solo-Rollenspiel ausprobiert und geliebt hatte, für das man Videotagebücher als...
+
+
 [Gruppenerschaffung mit Grundantrieben](https://www.1w6.org/deutsch/regeln/gruppenflyer)
 ---
 
 1w6 --- 2/19/2025
 
 Ein systemunabhängiger A5-Flyer für die Gratisrollenspieltage 2025: Erschafft eure Gruppe aus ihren Grundantrieben. Vielfältigere Antriebe durch praktische Beispiele Verstärkte Gruppendynamik durch deren Widersprüche Eine konkrete...
+
+
+[Dunkelheit und Licht](https://nandurion.de/blog/2025/02/16/dunkelheit-und-licht/)
+---
+
+Nandurion --- 2/16/2025
+
+Die Dunkelheit erscheint uns Menschen immer als bedrohlich und unheimlich. Kein Wunder also , dass wir die Dunkelheit auch mit dem Bösen assoziieren. Geradezu eine Ikone des Bösen sind die Augen in der Dunkelheit. Der Rachegeist mit der Kutte, den...
+
+
+[Savage Worlds: Das Auge der Muräne](https://www.die-dorp.de/downloads/fan-downloads/savage-worlds/savage-worlds-das-auge-der-muraene/)
+---
+
+Die DORP --- 2/2/2025
+
+Während eines Sturmes läuft der Frachter Shima Maru der Maru Corporation, der unterwegs von Sydney nach Tokio war, auf einem Riff vor der Küste Indonesiens auf Grund. Die Mannschaft kann sich zwar über die Rettungsboote in Sicherheit bringen, aber...
 
 
 [Die Bibliographie Teil 1](https://nandurion.de/blog/2025/01/31/die-bibliographie-teil-1/)
@@ -527,12 +727,52 @@ Nandurion --- 12/28/2024
 Kurzentschlossene haben aktuell die Möglichkeit bei GOG, einer Plattform für alte Computerspiele, kostenlos an Satinavs Ketten zu kommen. Die Plattform bietet noch bis Montag Nachmittag das Point-and-Click Adventure kostenlos zum Download an....
 
 
+[DSA – NSC: Annabella de Comte](https://www.die-dorp.de/downloads/fan-downloads/das-schwarze-auge/dsa-nsc-annabella-de-comte/)
+---
+
+Die DORP --- 12/24/2024
+
+Fast alle Helden werden an ihren Gegenspielern gemessen, doch nicht immer hat man den passenden Antagonisten zur Hand. Schläger, Söldner und Wegelagerer sind schnell aus dem Hut gezaubert, doch manchmal braucht es eben auch einen Widersacher, der...
+
+
 [Rückblick zum Greifenpass](https://nandurion.de/blog/2024/12/22/rueckblick-zum-greifenpass/)
 ---
 
 Nandurion --- 12/22/2024
 
 Der Winter hat begonnen. Hier bei uns steht nun das Weihnachtsfest bevor. Im letzten Teil des winterlichen Abenteuers Über den Greifenpass blickt Alt-Einhorn Krassling nun zurück und lässt die Geschichte noch einmal Revue passieren. Haben die...
+
+
+[Ein offizielles DSA-Abenteuer](https://www.die-dorp.de/blog/ein-offizielles-dsa-abenteuer/)
+---
+
+Die DORP --- 12/15/2024
+
+Hallo zusammen. Ich wollte an dieser Stelle einfach mal kurz die Gelegenheit nutzen und auf ein Projekt hinweisen, welches diesmal nicht auf der DORP erschienen ist, aber trotzdem irgendwo etwas damit zu tun hat. Denn seit kurzem ist die neue...
+
+
+[DSA: Feenspuren](https://www.die-dorp.de/downloads/fan-downloads/das-schwarze-auge/dsa-feenspuren/)
+---
+
+Die DORP --- 12/15/2024
+
+Feenspuren ist kein eigenständiges Abenteuer, sondern eine kleine Spielhilfe.Dieser Einseiter hilft dir als Spielleiter dabei, die beiden Abenteuer „Im Garten des Magiers“ (hier bei uns auf der DORP als kostenloser Download) und das offizielle DSA...
+
+
+[Die große DORP-Umfrage 2024](https://www.die-dorp.de/blog/die-grosse-dorp-umfrage-2024/)
+---
+
+Die DORP --- 12/1/2024
+
+Hallo zusammen! Ja, der DORPCast ruht ja derzeit, aber dennoch – wenn nicht sogar gerade eben drum – möchten wir auch dieses Jahr wieder von euch wissen, wie das Projekt DORP sich in seiner Gesamtheit gerade für euch darstellt! Wir haben durchaus...
+
+
+[DORP-TV auf der DreieichCon 2024](https://www.die-dorp.de/dorp-tv/dorp-tv-auf-der-dreieichcon-2024/)
+---
+
+Die DORP --- 11/25/2024
+
+Hallo zusammen,Ich war dieses Jahr auf der DreieichCon und hab auch wieder ein paar Videos mitgebracht.Davor war ich nur zweimal auf der Dreieichcon. Einmal 2011 als Besucher, und 2012 wohl auch nochmal. Das ist alles auf jeden Fall schon viel zu...
 
 
 [Nein, ich will nicht alle hier haben](https://www.1w6.org/blog/drak/2024-09-02-nein)
@@ -543,258 +783,18 @@ Der Winter hat begonnen. Hier bei uns steht nun das Weihnachtsfest bevor. Im let
 Wenn ihr Neonazis stärkt oder Neonazis seid, geht bitte. Ich habe dann kein Interesse, mit euch Kontakt zu haben, oder euch in irgendeiner Weise zu unterstützen. Ihr habt hier nichts zu suchen. Danke an HPG Station für einen Anfang. Das Gute...
 
 
+[The Magical Land of Yeld 2nd Edition – Spielvorstellung](https://wuerfelabenteurer.wordpress.com/2024/06/06/the-magical-land-of-yeld-2nd-edition-spielvorstellung/)
+---
+
+Würfelabenteurer --- 6/6/2024
+
+Ich habe euch vor ein paar Jahren The Magical Land of Yeld vorgestellt und auch einen Spielbericht erstellt. Jetzt steht eine zweite Edition in den Startlöchern und ich wurde gebeten darüber zu berichten. Da mir die erste Edition sehr gut gefallen...
+
+
 [Technophob-Flyer für den heimischen Drucker (größer)](https://www.1w6.org/deutsch/regeln/flyerbuecher/12x-flyer-selbst-drucken)
 ---
 
 1w6 --- 5/26/2024
 
 Die Technophob-Flyer für den GRT 2024 gibt es jetzt auch in einer Druckerfreundlicheren Variante — also als vier DinA4-Seiten statt 6 Din-Lang Seiten. Wir haben damit gerade zum Ausklang des Towel Day in Arnes 42-ten Geburtstag...
-
-
-[Bei Orkenspalter TV zu „GratisRollenspielTage: Indie-Talk“](https://www.1w6.org/deutsch/regeln/flyerbuecher/12x-flyer-grt2024-bei-orkenspaltertv)
----
-
-1w6 --- 3/28/2024
-
-„Indie und die Indies“-Abend bei Orkenspalter TV (Mhaire und Nico) auf Youtube. Aufnahmen von letzter Woche jetzt auf youtube! mit den Indi-Bastler*innen Lil von Feenlicht https://feenlicht-rollenspiel.de/ (bezeichnet sich nicht als „wie...
-
-
-[Flyerbücher zu RaumZeit/Technophob für den GRT 2024](https://www.1w6.org/deutsch/regeln/flyerbuecher/12x-flyer-grt2024)
----
-
-1w6 --- 2/18/2024
-
-Vom 16. bis 23. März 2024 sind die Gratisrollenspieltage 2024! Unser Beitrag, die Flyerbücher für den GRT 2024, ist gedruckt und bei Pegasus angekommen:    Einseitig zum Falten — Zwei Flyer, Doppelseitig — Vierseitig für den privaten...
-
-
-[EWS 3.0 rβ5: Können hat Wert](https://www.1w6.org/deutsch/regeln/downloads/ews-30-rb5-danke)
----
-
-1w6 --- 8/26/2023
-
-Das EWS 3.0 rβ5 — Können hat Wert ist ein großer Meilenstein: Das Grundregelwerk wurde vollständig gegengelesen und korrigiert. Einen riesigen Dank an Christian, der über die gesamten 460 Seiten auf Stil und Form gegengelesen hat, und an VHR, die...
-
-
-[Flyerbücher für EWS 3.0 mit Charakteren auf dem Flyer](https://www.1w6.org/deutsch/regeln/flyerbuecher/12x-flyer-beta1)
----
-
-1w6 --- 12/20/2022
-
-Für den Gratisrollenspieltag nächstes Jahr habe ich die Flyerbücher überarbeitet, damit sie direkt von der Druckerei gefaltet und geliefert werden können. Klingt nicht nach viel, hat aber einen großen Einfluss: Damit lassen sich 1250 vollständige...
-
-
-[EWS 3.0 rβ2: Weltentanz mit Technophob](https://www.1w6.org/deutsch/regeln/downloads/ews-30-rb2-weltentanz)
----
-
-1w6 --- 5/16/2022
-
-Mit dem EWS 3.0 rβ2 „Weltentanz mit Technophob“ sind alle Texte überarbeitet, v.a. die Welten mit Technophob. Der Textschliff spart 8 Seiten ein. Damit sind alle Teile des EWS 3.0 nochmal komplett überarbeitet. Das klingt klein, ist aber ein...
-
-
-[EWS 3.0 rβ1: Spielbarer Grundstein — es geht voran](https://www.1w6.org/deutsch/regeln/downloads/ews-30-rb1-grundstein)
----
-
-1w6 --- 5/1/2022
-
-EWS 3.0 rβ1 „Spielbarer Grundstein — es geht voran“, zum Tag der Arbeit die Früchte der Arbeit der letzten Monate: viel Handarbeit an den Texten: Schliff, Bilder, Regelfeinheiten. Und ich habe endlich die Bedeutung dieses Buches für das größere EWS...
-
-
-[Dryads Wake — a game of uncertain choices and dialogue](https://www.1w6.org/english/dryads-wake)
----
-
-1w6 --- 4/24/2022
-
-I’ve been searching for good ways to build text-rpgs since writing my Python-Based TextRPG in 2008. With Dryads Wake I finally found a structure that I really like and that can be played from the browser as well as from the text-terminal. Dryads...
-
-
-[Völlige Dunkelheit](https://www.1w6.org/deutsch/anhang/gedanken/voellige-dunkelheit)
----
-
-1w6 --- 2/20/2022
-
-Eine Geschichte aus einem Larp. Eine Diebin schlich sich an, um die NSCs auszukundschaften. Es war eine wolkige, mondlose Nacht. Auf dem Weg zum Lager der NSCs kam sie an einem Bauwagen vorbei. Dann hörte sie plötzlich die NSCs den Pfad von ihrer...
-
-
-[Interview zu 1w6 bei Alles ist ein Spiel (Video)](https://www.1w6.org/deutsch/anhang/interview-zu-1w6-allesisteinspiel)
----
-
-1w6 --- 1/19/2022
-
-Ben von Alles ist ein Spiel hat Arne über das EWS, zu den Hintergründen und zu seinen Gründen für die Entwicklung und Tipps für andere Bastler interviewt. (Datenschutzfreundliches1 Nocookie-Embed von Youtube) Binnen einer Stunde kommen wir...
-
-
-[EWS 3.0 rβ0: Durchbruch - 20 Jahre](https://www.1w6.org/deutsch/regeln/downloads/ews-30-rb0-durchbruch)
----
-
-1w6 --- 12/24/2021
-
-EWS 3.0 rβ0 „Durchbruch — 20 Jahre“, zwei Jahrzehnte nach unserer ersten Runde RaumZeit und meiner ersten Ausrede zu Erynnia. Seit diesem Jahr veröffentliche ich länger als mein halbes Leben Rollenspielwerke. Passend dazu ist diese Version der...
-
-
-[Downloadzahlen 2020](https://www.1w6.org/blog/drak/2021-11-26-downloadzahlen-2020)
----
-
-1w6 --- 11/26/2021
-
-2021 nähert sich dem Ende, und ich habe inzwischen eine gut nutzbares Analyseprogramm für Serverlogs, möchte offenlegen, wie oft das EWS und die anderen 1w6-Werke heruntergeladen werden — hier erstmal für 2020. Übersicht der...
-
-
-[EWS 3.0 eβ2: Re-F-lektion - second system syndrome](https://www.1w6.org/deutsch/regeln/downloads/ews-30-eb2-reflektion)
----
-
-1w6 --- 11/18/2021
-
-EWS 3.0 eβ2 „Re-F-lektion - second system syndrome“, die Version, in der ich erkenne, was ich gerade erschaffe — und es akzeptiere: Das EWS 3.0 ist das klassische zweite System: Allgemeiner, als zwingend nötig, und weit größer als das erste...
-
-
-[Beispiele für Klassische SCs](https://www.1w6.org/blog/drak/2021-11-16-klassische-scs)
----
-
-1w6 --- 11/15/2021
-
-Auf Tanelorn hat Metamorphose gefragt Wie geht dieser Spielcharakter in deinem System? und dort viele spannende Vorlagen geliefert. Hier ist meine Antwort: Ich nutze das Zettel-RPG-Schema:  + Stärke (Wert / Wundschwelle)  - Schwäche „Trigger...
-
-
-[Useful prep-stuff from the one die system for Nanowrimo](https://www.1w6.org/english/tables)
----
-
-1w6 --- 9/2/2021
-
-Want to make a memorable character or NPC? Get a jump-start for your creativity? Aim for a diverse cast to avoid stumbling into your personal clichés? These tables will get you moving in minutes! Nanowrimo prep will start soon. Take me to the...
-
-
-[EWS 3.0 rαF: Terminal — VIlD](https://www.1w6.org/deutsch/regeln/downloads/ews-30-raf-vild)
----
-
-1w6 --- 8/24/2021
-
-Das EWS 3.0-rαF „Terminal — VIlD“ ist die letzte Regel-Alpha der dritten Edition des Ein-Würfel-Systems. Ich widme sie meiner Frau, Fokus meines Lebens. Ihr zu ehren könnt ihr diese Version als erste der Vorversionen zum EWS 3.0 kaufen, denn meine...
-
-
-[EWS 3.0 rαE: Dank Wesnoth und WTactics!](https://www.1w6.org/deutsch/regeln/downloads/ews-30-rae-wesnoth-wtactics)
----
-
-1w6 --- 8/8/2021
-
-Dank anderer toller frei lizensierter Projekte können wir für das EWS nicht nur unsere eigenen Bilder verwenden, sondern auf einen wahren Schatz toller Grafiken zugreifen, der mit jedem Jahr größer wird. Für das EWS 3.0 rαE haben wir daher wieder...
-
-
-[Terminalballistik im Rollenspiel](https://www.1w6.org/deutsch/anhang/gedanken/terminalballistik-im-rollenspiel)
----
-
-1w6 --- 8/5/2021
-
-Ein Gastbeitrag von YY in einem Thread auf Tanelorn, geschrieben für einen Rollenspielentwurf, um einen Weg zu entwickeln, über den Rollenspielregeln die Entscheidungen in einem Feuergefecht reproduzieren können. So...ich schreibe einfach mal...
-
-
-[Trudy ist jetzt auf Patreon](https://www.1w6.org/blog/drak/2021-08-04-trudy-auf-patreon)
----
-
-1w6 --- 8/4/2021
-
-Viele der tollsten Bilder des EWS sind von Trudy, und in den letzten Jahren ist sie noch besser geworden. Als sie mir 2010 das Logo gezeigt hat, blieb mir im wahrsten Sinne des Wortes der Mund offen stehen — bis mir das selbst passiert ist, hatte...
-
-
-[Wie das EWS skaliert — Machtprogression](https://www.1w6.org/blog/drak/2021-07-12-wie-das-ews-skaliert-machtprogression)
----
-
-1w6 --- 7/14/2021
-
-In Tanelorn wurde nach Beispielen gefragt, in denen die SCs wirklich stark werden. Ich habe unsere Kampagne Wächter der Zeit als Beispiel geschrieben: Die Machtprogression geht von Shadowrun-ähnlichen Aufträgen über mit viel Glück geschafften...
-
-
-[EWS 3.0 rαD: Über den Tellerrand](https://www.1w6.org/deutsch/regeln/downloads/ews-30-rad-ueber-den-tellerrand)
----
-
-1w6 --- 5/27/2021
-
-Nachdem ich das letzte Jahr über konsequentes Homeoffice einen Funken der Entgrenzung von Arbeit und Privatem erlebt habe — die guten und die schwierigen Seiten — bricht das EWS 3.0 rαD ein Stückweit Grenzen zwischen Spielstilen auf. Die...
-
-
-[Geburtstagswunsch](https://www.1w6.org/blog/drak/2020-geburtstagswunsch)
----
-
-1w6 --- 5/25/2021
-
-Am 26.5. habe ich Geburtstag. Wegen Corona wird es der zweite Geburtstag in über 20 Jahren, an dem ich keine Rollenspielrunde einlade, und das nimmt mich gerade ganz schön mit.  Update 2021: Puh, es ist schon mein zweiter Geburtstag in der...
-
-
-[1w6 für den GRT 2021: Am 27. März ist Gratisrollenspieltag!](https://www.1w6.org/blog/drak/2021-03-26-1w6-fuer-den-grt-2021)
----
-
-1w6 --- 3/26/2021
-
-Am 27. März 2021 ist Gratisrollenspieltag, und zu diesem speziellen Online-GRT ist 1w6 mit ein paar kleinen Goodies für all die dabei, die sie auf den letzten GRTs vielleicht verpasst haben — und mit einem, das noch nie den GRT gesehen hat: -...
-
-
-[EWS 3.0 rαC: Helden](https://www.1w6.org/deutsch/regeln/downloads/ews-30-rac-helden)
----
-
-1w6 --- 12/31/2020
-
-Es war ein Jahr für Helden, und ich hätte gerne mehr geholfen, habe aber über ein paar Auswertungen hinaus vor allem im Homeoffice damit gekämpft, zusätzlich die Kinder unterstützen zu können. Im nächsten Jahr hoffe ich, dass wieder mehr Zeit für...
-
-
-[Black Lives Matter](https://www.1w6.org/blog/drak/2020-06-12-black-lives-matter)
----
-
-1w6 --- 6/12/2020
-
-Ich habe hier länger nichts zu Politik geschrieben und stattdessen getwittert (bzw. via GNU social und seit neustem Mastodon). Letzte Woche ist mir allerdings aufgefallen, dass pro Monat 200 Leute das EWS 2.6 herunterladen (ich habe mal wieder in...
-
-
-[EWS 3.0 rα6: Rubinrot - Was gibt dir Kraft?](https://www.1w6.org/deutsch/regeln/downloads/1w6-regeln-v30ra6-rubinrot)
----
-
-1w6 --- 5/26/2020
-
-Auf Twitter fragte jemand:  „What keeps you sane in these times?“ Zwei der Punkte, die mich weitertragen: Wenn meine Tochter mir sagt „gute Nacht Papa, träum was Schönes“, und Wenn ich am EWS bastle.  Update 2023: die aktuellste...
-
-
-[Vielfältige Figuren für 4 Genres zum GRT 2020 - und Errata](https://www.1w6.org/blog/drak/2020-03-10-vielfaeltige-figuren-grt-2020)
----
-
-1w6 --- 3/10/2020
-
-Am 14. März ist Gratisrollenspieltag! Dank Nils, Phil, Jonas Richter, Jens Stengel und anonym Spendenden konnten wir pro Box 8 Hefte mit 4 mal 15 Beispielcharakteren beisteuern. ☺ ♡ Ihr seid toll! ♡ Auf der Seite des GRT gibt es übrigens...
-
-
-[Gaius Sapiento Alaga – Im hohen Norden (Phileasson-Saga)](https://www.malfeas.de/gaius-sapiento-alaga-im-hohen-norden/)
----
-
-Rollenspiele – Malfeas.de --- 8/30/2017
-
-Es begann alles an diesem einem Tag, an dem ich mich an der Umsetzung einer Modifikation des TRANSVERSALIS-Cantus versuchte. Mein Ziel war es, die Stadt des Lichts in Gareth zu besuchen – eine Entfernung von etwa 260 Meilen. Diese Anstrengung hätte...
-
-
-[Die Beschränkungen des Resultatums eines Cantus durch die Imaginationsabilität](https://www.malfeas.de/die-beschraenkungen-des-resultatums-eines-cantus-durch-die-imaginationsabilitaet/)
----
-
-Rollenspiele – Malfeas.de --- 8/29/2017
-
-Wie schon in meinen Notizen angedeutet, gibt es eindeutige Hinweise darauf, dass die Beschränkungen hinsichtlich des Resultatums eines Cantus nur durch die Imaginationsabilität des Zauberwirkers gegeben sind. Ich möchte nun eine kleine...
-
-
-[Die Suboptimialität des TRANSVERSALIS-Cantus](https://www.malfeas.de/die-suboptimialitaet-des-transversalis-cantus/)
----
-
-Rollenspiele – Malfeas.de --- 8/28/2017
-
-Dem Kundigen der Magica moventia sollte der Cantus Transversalis hinreichend bekannt sein. Es scheint bislang so, dass ein mittels dieses Cantus Reisender nur wenige Meilen zurücklegen kann. Wahrhaft Kundigen sind weniger Grenzen – ergo eine...
-
-
-[Kurzbögen für Geister und Sprites (Shadowrun 5)](https://www.malfeas.de/kurzboegen-fuer-geister-und-sprites-shadowrun-5/)
----
-
-Rollenspiele – Malfeas.de --- 7/20/2017
-
-Es gibt nun auch kurze Bögen für Geister und Sprites im Downloadbereich. Zum Download-Bereich: Downloads für Shadowrun 5 Zum direkten Download: Art des Bogens Link als Word-Datei Link als PDF Bogen für Geister Word PDF Bogen für Sprites Word PDF ...
-
-
-[Bogen für Verbündetengeister (Shadowrun 5)](https://www.malfeas.de/bogen-fuer-verbuendetengeister-shadowrun-5/)
----
-
-Rollenspiele – Malfeas.de --- 7/13/2017
-
-Nach langer Zeit ein kleines Update: Es gibt nun auch einen kurzen Bogen für Verbündete im Downloadbereich. Zum Download-Bereich: Downloads für Shadowrun 5   Read more... This article is copyright ©  Malfeas.de
 
