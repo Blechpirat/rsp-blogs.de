@@ -2,7 +2,7 @@
 [Mittwochstabelle: 6 Ärgernisse auf langen Reisen mit großen Raumschiffen](https://doesrpgmanor.com/2025/11/05/tabelle-6-aergernisse-auf-reisen-mit-raumschiffen/)
 ---
 
-John Doe's RPG Manor --- 11/4/2025
+John Doe's RPG Manor --- 11/4/2026
 
 Wenn die SC mit anderen in größeren Raumschiffen durch die Weiten des Alls reisen, können allerlei größere und kleinere Ärgernisse auftreten, die nicht wirklich eine Gefahr darstellen, aber für einigen Unmut sorgen können.
 
