@@ -1,4 +1,20 @@
 
+[Mittwochstabelle: 6 Ärgernisse auf langen Reisen mit großen Raumschiffen](https://doesrpgmanor.com/2025/11/05/tabelle-6-aergernisse-auf-reisen-mit-raumschiffen/)
+---
+
+John Doe's RPG Manor --- 11/4/2025
+
+Wenn die SC mit anderen in größeren Raumschiffen durch die Weiten des Alls reisen, können allerlei größere und kleinere Ärgernisse auftreten, die nicht wirklich eine Gefahr darstellen, aber für einigen Unmut sorgen können.
+
+
+[Splitterfinder – Verbündete & Antagonist*innen für Splittermond und Pathfinder](https://www.teilzeithelden.de/2025/11/04/splitterfinder-verbuendete-antagonistinnen-fuer-splittermond-und-pathfinder/)
+---
+
+Romane & Hörspiele Archive - Teilzeithelden --- 11/4/2025
+
+In den Welten von Splittermond und Pathfinder gibt es viele Nebencharaktere – von dem gerissenen Wunderheiler, dem verschlossenen Kriegsveteranen bis zur suchenden Eremitin. Sie eignen sich gut als Verbündete, Auftraggeber*innen oder...
+
+
 [MIDGARD 6: Ein Schrecken spukt durch die Gassen](https://steamtinkerer.de/2025/11/03/midgard-6-ein-schrecken-spukt-durch-die-gassen/)
 ---
 
@@ -135,14 +151,6 @@ Romane & Hörspiele Archive - Teilzeithelden --- 10/19/2025
 Von düsterem Sci-Fi bis zu neuen Abenteuern in Mittelerde: Der schwedische Verlag Free League hat zur SPIEL 2025 einige Neuheiten im Gepäck, darunter eine neue Edition des Alien RPG, gleich mehrere Erweiterungen zum Folkhorror-Setting Vaesen und...
 
 
-[SPIEL 2025 – Rollenspiel-Neuheiten bei Cubicle 7 (Halle 2, 2B345)](https://www.teilzeithelden.de/2025/10/18/spiel-2025-rollenspiel-neuheiten-bei-cubicle-7-halle-2-2b345/)
----
-
-Romane & Hörspiele Archive - Teilzeithelden --- 10/18/2025
-
-Cubicle 7 gastiert diesmal in Halle 2, Stand 2B345 und hat das ein oder andere für uns in petto. Seit einigen Jahren verantwortet der Verlag nun schon alle Pen-and-Paper-Systeme aus dem Warhammer-Universum, aber auch jenseits der grimmen Zukunft...
-
-
 [THE QUEST: Zu Besuch in einer von D&D inspirierten Fantasy-Impro-Show](https://steamtinkerer.de/2025/10/18/the-quest-zu-besuch-in-einer-von-dd-inspirierten-fantasy-impro-show/)
 ---
 
@@ -277,14 +285,6 @@ In der Taverne wird getrunken. Falls es nicht immer Bier sein soll, kommt auch m
 SteamTinkerers Klönschnack | KLNSCHNCK --- 9/22/2025
 
 Lesezeit:  2 MinutenWer die Keynote auf der diesjährigen RatCon in Langen verfolgt hat, wird wissen, dass in den kommenden Monaten eine Vielzahl an tollen Produkten für Das Schwarze Auge erscheinen wird. Aber irgendwie hat das Ganze auch die Frage...
-
-
-[Mittwochstabelle: 6 Gründe, warum der Handwerker im Dorf heute nicht kann](https://doesrpgmanor.com/2025/09/17/tabelle-gruende-warum-handwerker-im-dorf-nicht-kann/)
----
-
-John Doe's RPG Manor --- 9/16/2025
-
-Früher oder später müssen fast alle Abenteurer:innen mal Handwerker:innen aufsuchen. Was, wenn einer aber keine Zeit hat? Und warum?
 
 
 [Experimente – Dreamcatcher #25](https://tripletwenty.net/2025/09/14/dreamcatcher-exprimente/)
