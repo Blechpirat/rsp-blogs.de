@@ -4,7 +4,7 @@
       branches:
         - main
     schedule:
-      - cron:  '* * * * *'
+#      - cron:  '* * * * *'
 #      - cron:  '*/5 * * * *'
   jobs:
     build-feed-page:
